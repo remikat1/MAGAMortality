@@ -365,14 +365,6 @@ export default function App() {
                   in conditions. Ranges and confidence communicate uncertainty.
                 </div>
               </div>
-              <div style={{ height: 10 }} />
-              <div className="notice">
-                <div style={{ fontWeight: 800 }}>Actual vs Projected</div>
-                <div style={{ marginTop: 6 }}>
-                  “Actual” counts have occurred and were recorded; “Projected” counts are forecasts based on a model or
-                  credible projection.
-                </div>
-              </div>
             </div>
           </div>
 

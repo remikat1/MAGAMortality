@@ -169,7 +169,13 @@ async function ingestFederalRegister({ dataset, limit = 25 }) {
 
 async function ingestIceDetaineeDeathReports({ dataset }) {
   const url = 'https://www.ice.gov/detain/detainee-death-reports';
-  const html = await fetchText(url);
+  let html;
+  try {
+    html = await fetchText(url);
+  } catch (err) {
+    console.warn(`Skipping ICE detainee death reports ingestion (fetch failed for ${url}):`, err.message || err);
+    return;
+  }
   const $ = cheerio.load(html);
 
   // Best-effort: ICE site structure changes; we try to capture linked report pages/PDFs.

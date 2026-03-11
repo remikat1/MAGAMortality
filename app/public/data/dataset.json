@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "title": "Maga Mortality",
+    "asOfDate": "2026-03-10",
+    "updatedAt": "2026-03-10T00:00:00Z",
+    "notes": "Sample dataset for scaffolding. Replace with curated entries and sources."
+  },
+  "topics": [
+    { "id": "t_healthcare", "name": "Healthcare", "slug": "healthcare" },
+    { "id": "t_immigration", "name": "Immigration", "slug": "immigration" },
+    { "id": "t_snap", "name": "SNAP", "slug": "snap" },
+    { "id": "t_abortion", "name": "Abortion & Maternal Health", "slug": "abortion-maternal" },
+    { "id": "t_environment", "name": "Environment", "slug": "environment" }
+  ],
+  "politicians": [
+    {
+      "id": "p_trump",
+      "name": "Donald Trump",
+      "party": "Republican",
+      "representedState": null,
+      "notes": "Placeholder record."
+    }
+  ],
+  "items": [
+    {
+      "id": "i_example_policy_1",
+      "type": "policy",
+      "title": "Example policy (replace me)",
+      "summary": "This is a placeholder item demonstrating the data shape and UI. Replace with real policy/event entries.",
+      "date": "2026-02-01",
+      "location": "United States",
+      "topicIds": ["t_healthcare"],
+      "politicianIds": ["p_trump"],
+      "status": "active"
+    },
+    {
+      "id": "i_example_event_1",
+      "type": "event",
+      "title": "Example event (replace me)",
+      "summary": "Placeholder event demonstrating direct attribution and source linking.",
+      "date": "2026-01-15",
+      "location": "United States",
+      "topicIds": ["t_immigration"],
+      "politicianIds": ["p_trump"],
+      "status": "active"
+    }
+  ],
+  "estimates": [
+    {
+      "id": "e_example_statistical_projected",
+      "itemId": "i_example_policy_1",
+      "attributionType": "statistical",
+      "countType": "projected",
+      "rangeMin": 1200,
+      "rangeMax": 2400,
+      "confidence": "low",
+      "methodSummary": "Excess deaths vs 5-year baseline in selected categories (placeholder).",
+      "asOfDate": "2026-03-01",
+      "lastUpdatedAt": "2026-03-10T00:00:00Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_example_direct_actual",
+      "itemId": "i_example_event_1",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 42,
+      "confidence": "medium",
+      "methodSummary": "Count of documented deaths in official reporting (placeholder).",
+      "asOfDate": "2026-02-28",
+      "lastUpdatedAt": "2026-03-10T00:00:00Z",
+      "supersedesEstimateId": null
+    }
+  ],
+  "sources": [
+    {
+      "id": "s_example_1",
+      "estimateId": "e_example_statistical_projected",
+      "publisher": "Example Publisher",
+      "title": "Example report / dataset (replace with real source)",
+      "url": "https://example.com/report",
+      "publishedAt": "2026-02-20",
+      "sourceType": "dataset"
+    },
+    {
+      "id": "s_example_2",
+      "estimateId": "e_example_direct_actual",
+      "publisher": "Example Publisher",
+      "title": "Example official report (replace with real source)",
+      "url": "https://example.com/official-report",
+      "publishedAt": "2026-02-10",
+      "sourceType": "primary"
+    }
+  ]
+}
+

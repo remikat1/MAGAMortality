@@ -1,0 +1,32 @@
+name: Ingestion (stub)
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # daily, adjust as needed
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Ingestion placeholder
+        run: |
+          echo "Stub: replace with ingestion scripts that propose dataset changes."
+          echo "A typical approach: fetch feeds → compute diffs → open PR."
+
+      # To implement later:
+      # - run a script that updates app/public/data/dataset.json (or generates a PR-ready patch)
+      # - use peter-evans/create-pull-request to open a PR for owner review
+

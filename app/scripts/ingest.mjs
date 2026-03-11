@@ -117,7 +117,13 @@ function addDirectDeathEvent({ dataset, title, date, url, publisher, topicId, lo
 async function ingestFederalRegister({ dataset, limit = 25 }) {
   // API docs: https://www.federalregister.gov/developers/documentation/api/v1
   const url = `https://www.federalregister.gov/api/v1/documents.json?per_page=${limit}&order=newest`;
-  const data = await fetchJson(url);
+  let data;
+  try {
+    data = await fetchJson(url);
+  } catch (err) {
+    console.warn(`Skipping Federal Register ingestion (fetch failed for ${url}):`, err.message || err);
+    return;
+  }
 
   for (const doc of data?.results || []) {
     const title = doc.title?.trim();
@@ -272,7 +278,13 @@ async function ingestIceDetaineeDeathReports({ dataset }) {
 
 async function ingestBopDeaths({ dataset }) {
   const url = 'https://www.bop.gov/resources/deaths.jsp';
-  const html = await fetchText(url);
+  let html;
+  try {
+    html = await fetchText(url);
+  } catch (err) {
+    console.warn(`Skipping BOP deaths ingestion (fetch failed for ${url}):`, err.message || err);
+    return;
+  }
   const $ = cheerio.load(html);
 
   // BOP page often contains a table/list of deaths with name + date.
@@ -352,7 +364,13 @@ async function ingestBopDeaths({ dataset }) {
 async function ingestProPublicaRss({ dataset }) {
   // RSS endpoint (general)
   const url = 'https://www.propublica.org/feeds/propublica/main';
-  const xml = await fetchText(url);
+  let xml;
+  try {
+    xml = await fetchText(url);
+  } catch (err) {
+    console.warn(`Skipping ProPublica RSS ingestion (fetch failed for ${url}):`, err.message || err);
+    return;
+  }
   const $ = cheerio.load(xml, { xmlMode: true });
   const items = $('item').toArray().slice(0, 20);
 
@@ -426,10 +444,27 @@ async function main() {
   ensureBaseTaxonomy(dataset);
 
   // Ingest “direct attribution” sources that are scrapeable without auth/paywalls.
-  await ingestFederalRegister({ dataset, limit: 25 });
-  await ingestIceDetaineeDeathReports({ dataset });
-  await ingestBopDeaths({ dataset });
-  await ingestProPublicaRss({ dataset });
+  // Each individual source is allowed to fail without breaking the whole run.
+  try {
+    await ingestFederalRegister({ dataset, limit: 25 });
+  } catch (err) {
+    console.warn('Federal Register ingestion failed unexpectedly:', err.message || err);
+  }
+  try {
+    await ingestIceDetaineeDeathReports({ dataset });
+  } catch (err) {
+    console.warn('ICE detainee ingestion failed unexpectedly:', err.message || err);
+  }
+  try {
+    await ingestBopDeaths({ dataset });
+  } catch (err) {
+    console.warn('BOP deaths ingestion failed unexpectedly:', err.message || err);
+  }
+  try {
+    await ingestProPublicaRss({ dataset });
+  } catch (err) {
+    console.warn('ProPublica RSS ingestion failed unexpectedly:', err.message || err);
+  }
 
   dataset.meta ||= {};
   dataset.meta.updatedAt = new Date().toISOString();

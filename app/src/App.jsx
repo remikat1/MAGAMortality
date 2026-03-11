@@ -165,7 +165,7 @@ export default function App() {
       <div className="topbar">
         <div className="brand">
           <h1>Maga Mortality</h1>
-          <p>Read-only · Sources-first · Mobile-first</p>
+          <p>Making the human cost of MAGA policy visible, sourced, and undeniable.</p>
         </div>
         <button className="btn btnPrimary" onClick={onShare}>
           Share
@@ -190,8 +190,7 @@ export default function App() {
               As of <strong>{dataset.meta?.asOfDate || '—'}</strong> · Showing{' '}
               <strong>
                 {filters.attribution === 'both' ? 'Direct+Statistical' : filters.attribution}
-              </strong>{' '}
-              · <strong>{filters.count === 'both' ? 'Actual+Projected' : filters.count}</strong>
+              </strong>
             </div>
 
             {filterSummary.length > 0 && (

@@ -33,7 +33,10 @@ jobs:
           # See: https://github.com/npm/cli/issues/4828
           npm_config_include: optional
         run: |
+          rm -rf node_modules package-lock.json
           npm install --include=optional --no-audit --no-fund
+          # Safety net: ensure Rollup's Linux native package is present on runners.
+          npm install --no-save @rollup/rollup-linux-x64-gnu --no-audit --no-fund || true
           npm rebuild --no-audit --no-fund
 
       - name: Build

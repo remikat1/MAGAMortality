@@ -28,7 +28,13 @@ jobs:
 
       - name: Install
         working-directory: app
-        run: npm install
+        env:
+          # Work around npm optional-deps install flakiness for Rollup native bundles.
+          # See: https://github.com/npm/cli/issues/4828
+          npm_config_include: optional
+        run: |
+          npm install --include=optional --no-audit --no-fund
+          npm rebuild --no-audit --no-fund
 
       - name: Build
         working-directory: app

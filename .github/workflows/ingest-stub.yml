@@ -21,6 +21,15 @@ jobs:
         with:
           node-version: 20
 
+      - name: Prepare automation branch
+        run: |
+          git fetch origin automation/ingest-dataset || true
+          if git rev-parse --verify origin/automation/ingest-dataset >/dev/null 2>&1; then
+            git checkout -B automation/ingest-dataset origin/automation/ingest-dataset
+          else
+            git checkout -B automation/ingest-dataset
+          fi
+
       - name: Install app deps (incl. optional)
         working-directory: app
         env:
@@ -42,14 +51,6 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Ensure we base our branch on the latest remote automation branch if it exists.
-          git fetch origin automation/ingest-dataset || true
-          if git rev-parse --verify origin/automation/ingest-dataset >/dev/null 2>&1; then
-            git checkout -B automation/ingest-dataset origin/automation/ingest-dataset
-          else
-            git checkout -B automation/ingest-dataset
-          fi
 
           git add app/public/data/dataset.json
           git commit -m "chore(data): ingest sources and update dataset"

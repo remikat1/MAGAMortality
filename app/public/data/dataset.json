@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-03-26",
-    "updatedAt": "2026-03-26T07:36:08.200Z",
+    "asOfDate": "2026-03-27",
+    "updatedAt": "2026-03-27T07:34:40.346Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,370 @@
     }
   ],
   "items": [
+    {
+      "id": "i_014de7de51e6",
+      "type": "event",
+      "title": "ProPublica: An OB-GYN Was Repeatedly Accused of Sexual Misconduct. The State Medical Board Let Him Keep Practicing.",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_02b1fbe3e16a",
+      "type": "event",
+      "title": "ProPublica: “This Is What It Means to Be Minnesotan”: Why My Neighbors Continue to Stand Up Against ICE",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_1cb5f5c7f1b6",
+      "type": "event",
+      "title": "ProPublica: This Sheriff Says His Department Eliminated Racial Bias. Data Shows Otherwise.",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_2191b8159d81",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_2e9c2a419311",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-America's Datahub Consortium",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_34c9f6dbad16",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-Cable Television Laboratories, Inc.",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_45255ba6de56",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-OpenJS Foundation",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_4abebf4381a8",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act Of 1993-TeleManagement Forum (TM Forum)",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_52a96c4dcba9",
+      "type": "policy",
+      "title": "Bulk Manufacturer of Controlled Substances Application: SpecGx LLC",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_61683c5c619d",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-Biopharmaceutical Manufacturing Preparedness Consortium",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_6e0dbcc12659",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-R Consortium, Inc.",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_746e8ceb6021",
+      "type": "policy",
+      "title": "Agency Information Collection Activity Under OMB Review: State of Good Repair Program",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_81cb6be4518f",
+      "type": "policy",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_89618d76c487",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-Z-Wave Alliance, Inc.",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_957f7d7c0349",
+      "type": "policy",
+      "title": "Agency Information Collection Activity Under OMB Review: 49 U.S.C. 5310 Capital Assistance Program for Elderly Persons and Persons With Disabilities & Section 5311 Nonurbanized Area Formula Program",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_985e9db70d45",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-National Fire Protection Association",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_a60ad00dd7d6",
+      "type": "policy",
+      "title": "Agency Information Collection Activity Under OMB Review: Buses and Bus Facilities Formula and Competitive Programs and Low or No Emission Program",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_b23b3f244f55",
+      "type": "policy",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; NOAA Space-Based Data Collection System (DCS) Agreement",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_b70566af5355",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-Rust Foundation",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_bcffd17f3c04",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-ODVA, Inc.",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_cfbc8e191864",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-1EdTech Consortium, Inc.",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d5fc2aa19c6b",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-Mercury Consortium",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e1948f290fab",
+      "type": "policy",
+      "title": "Agency Information Collection Activities: Submission for OMB Review; Comment Request",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e2894cea5596",
+      "type": "policy",
+      "title": "Agency Information Collection Activity Under OMB Review: National Transit Asset Management (TAM) System",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e3685187cc69",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-OpenGMSL Association",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e7c228f420fd",
+      "type": "policy",
+      "title": "Agency Information Collection Activity Under OMB Review: National Transit Database (NTD)",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f3d65e2f221c",
+      "type": "policy",
+      "title": "Elite Laboratories, Inc., et al.; Withdrawal of Approval of 72 Abbreviated New Drug Applications; Correction",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_fc682560064c",
+      "type": "policy",
+      "title": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-Pistoia Alliance, Inc.",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-26",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_0948a6a0330d",
       "type": "policy",
@@ -4586,6 +4950,342 @@
   ],
   "estimates": [
     {
+      "id": "e_019b5582d898",
+      "itemId": "i_b23b3f244f55",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.146Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_12ad4b9d63c2",
+      "itemId": "i_fc682560064c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.146Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_19e701352ffe",
+      "itemId": "i_957f7d7c0349",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.145Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2249a38d0c0f",
+      "itemId": "i_b70566af5355",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.146Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_227b24834a7f",
+      "itemId": "i_61683c5c619d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.146Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_430fa9eda536",
+      "itemId": "i_45255ba6de56",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.145Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_4cb7dcd5e7c9",
+      "itemId": "i_e3685187cc69",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.145Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_4d0599a8eb37",
+      "itemId": "i_a60ad00dd7d6",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.145Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_593b38028408",
+      "itemId": "i_2e9c2a419311",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.145Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5ee8cade42d8",
+      "itemId": "i_52a96c4dcba9",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.146Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_6bae66518ab3",
+      "itemId": "i_34c9f6dbad16",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.146Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_75a5c4d00e7d",
+      "itemId": "i_02b1fbe3e16a",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:40.343Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_872dd855be01",
+      "itemId": "i_e2894cea5596",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.145Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_96bf1aface91",
+      "itemId": "i_e7c228f420fd",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.145Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_974ceb80b8ca",
+      "itemId": "i_2191b8159d81",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.145Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9c2d5668fc44",
+      "itemId": "i_81cb6be4518f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.144Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_a244c659b6e7",
+      "itemId": "i_f3d65e2f221c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.146Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b29a48d7b41e",
+      "itemId": "i_014de7de51e6",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:40.343Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b8ba6102757c",
+      "itemId": "i_985e9db70d45",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.146Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b93bc1972cd8",
+      "itemId": "i_d5fc2aa19c6b",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.145Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_beb2b908ec5c",
+      "itemId": "i_bcffd17f3c04",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.146Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c0af793e09f3",
+      "itemId": "i_4abebf4381a8",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.145Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c19b30d031c6",
+      "itemId": "i_e1948f290fab",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.146Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c740d9e381d8",
+      "itemId": "i_cfbc8e191864",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.146Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d252fe067c4c",
+      "itemId": "i_6e0dbcc12659",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.146Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d6a699b309ea",
+      "itemId": "i_1cb5f5c7f1b6",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:40.343Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d7a114f02e80",
+      "itemId": "i_89618d76c487",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.145Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_dd977da3f30c",
+      "itemId": "i_746e8ceb6021",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-26",
+      "lastUpdatedAt": "2026-03-27T07:34:39.145Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_0456ee549cf2",
       "itemId": "i_c49983bab1b7",
       "attributionType": "direct",
@@ -4738,7 +5438,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-25",
-      "lastUpdatedAt": "2026-03-26T07:36:08.196Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.344Z",
       "supersedesEstimateId": null
     },
     {
@@ -4798,7 +5498,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-25",
-      "lastUpdatedAt": "2026-03-26T07:36:08.196Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.344Z",
       "supersedesEstimateId": null
     },
     {
@@ -4870,7 +5570,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-25",
-      "lastUpdatedAt": "2026-03-26T07:36:08.196Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.344Z",
       "supersedesEstimateId": null
     },
     {
@@ -5134,7 +5834,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-24",
-      "lastUpdatedAt": "2026-03-26T07:36:08.197Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.344Z",
       "supersedesEstimateId": null
     },
     {
@@ -5158,7 +5858,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-24",
-      "lastUpdatedAt": "2026-03-26T07:36:08.197Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.344Z",
       "supersedesEstimateId": null
     },
     {
@@ -5422,7 +6122,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-23",
-      "lastUpdatedAt": "2026-03-26T07:36:08.198Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.345Z",
       "supersedesEstimateId": null
     },
     {
@@ -5434,7 +6134,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-23",
-      "lastUpdatedAt": "2026-03-26T07:36:08.198Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.345Z",
       "supersedesEstimateId": null
     },
     {
@@ -5482,7 +6182,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-23",
-      "lastUpdatedAt": "2026-03-26T07:36:08.197Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.345Z",
       "supersedesEstimateId": null
     },
     {
@@ -5638,7 +6338,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-20",
-      "lastUpdatedAt": "2026-03-26T07:36:08.198Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.345Z",
       "supersedesEstimateId": null
     },
     {
@@ -5794,7 +6494,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-20",
-      "lastUpdatedAt": "2026-03-26T07:36:08.198Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.345Z",
       "supersedesEstimateId": null
     },
     {
@@ -5806,7 +6506,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-20",
-      "lastUpdatedAt": "2026-03-26T07:36:08.198Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.346Z",
       "supersedesEstimateId": null
     },
     {
@@ -5842,7 +6542,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-20",
-      "lastUpdatedAt": "2026-03-26T07:36:08.198Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.345Z",
       "supersedesEstimateId": null
     },
     {
@@ -6082,7 +6782,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-19",
-      "lastUpdatedAt": "2026-03-26T07:36:08.199Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.346Z",
       "supersedesEstimateId": null
     },
     {
@@ -6250,7 +6950,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-18",
-      "lastUpdatedAt": "2026-03-26T07:36:08.199Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.346Z",
       "supersedesEstimateId": null
     },
     {
@@ -6310,7 +7010,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-18",
-      "lastUpdatedAt": "2026-03-26T07:36:08.199Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.346Z",
       "supersedesEstimateId": null
     },
     {
@@ -6454,7 +7154,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-18",
-      "lastUpdatedAt": "2026-03-26T07:36:08.199Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.346Z",
       "supersedesEstimateId": null
     },
     {
@@ -6850,7 +7550,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-17",
-      "lastUpdatedAt": "2026-03-26T07:36:08.200Z",
+      "lastUpdatedAt": "2026-03-27T07:34:40.346Z",
       "supersedesEstimateId": null
     },
     {
@@ -8776,6 +9476,258 @@
     }
   ],
   "sources": [
+    {
+      "id": "s_06ff42f8452c",
+      "estimateId": "e_019b5582d898",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; NOAA Space-Based Data Collection System (DCS) Agreement",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05905/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_0b86e2644ebc",
+      "estimateId": "e_beb2b908ec5c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-ODVA, Inc.",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05907/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-odva-inc",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_12145e220cd7",
+      "estimateId": "e_b29a48d7b41e",
+      "publisher": "ProPublica",
+      "title": "An OB-GYN Was Repeatedly Accused of Sexual Misconduct. The State Medical Board Let Him Keep Practicing.",
+      "url": "https://www.propublica.org/article/mark-mulholland-washington-sexual-misconduct-allegations",
+      "publishedAt": "2026-03-26",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_1312fe1d44eb",
+      "estimateId": "e_872dd855be01",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activity Under OMB Review: National Transit Asset Management (TAM) System",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05919/agency-information-collection-activity-under-omb-review-national-transit-asset-management-tam-system",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_214250eae8af",
+      "estimateId": "e_19e701352ffe",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activity Under OMB Review: 49 U.S.C. 5310 Capital Assistance Program for Elderly Persons and Persons With Disabilities & Section 5311 Nonurbanized Area Formula Program",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05921/agency-information-collection-activity-under-omb-review-49-usc-5310-capital-assistance-program-for",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_2774e45c9ecb",
+      "estimateId": "e_d6a699b309ea",
+      "publisher": "ProPublica",
+      "title": "This Sheriff Says His Department Eliminated Racial Bias. Data Shows Otherwise.",
+      "url": "https://www.propublica.org/article/sheriff-jerry-sheridan-maricopa-county-court-oversight",
+      "publishedAt": "2026-03-26",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_2a2975588f14",
+      "estimateId": "e_12ad4b9d63c2",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-Pistoia Alliance, Inc.",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05914/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-pistoia-alliance-inc",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_326b675bbb36",
+      "estimateId": "e_593b38028408",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-America's Datahub Consortium",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05927/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-americas-datahub",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_4eab8c7ddf17",
+      "estimateId": "e_2249a38d0c0f",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-Rust Foundation",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05909/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-rust-foundation",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_598b0454914f",
+      "estimateId": "e_5ee8cade42d8",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Bulk Manufacturer of Controlled Substances Application: SpecGx LLC",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05912/bulk-manufacturer-of-controlled-substances-application-specgx-llc",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_5c0958f0f6e8",
+      "estimateId": "e_c19b30d031c6",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activities: Submission for OMB Review; Comment Request",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05915/agency-information-collection-activities-submission-for-omb-review-comment-request",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_6527758e0383",
+      "estimateId": "e_974ceb80b8ca",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05925/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_790fc7d9784f",
+      "estimateId": "e_b8ba6102757c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-National Fire Protection Association",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05916/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-national-fire",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_7bef099aa99b",
+      "estimateId": "e_a244c659b6e7",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Elite Laboratories, Inc., et al.; Withdrawal of Approval of 72 Abbreviated New Drug Applications; Correction",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05913/elite-laboratories-inc-et-al-withdrawal-of-approval-of-72-abbreviated-new-drug-applications",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_8293f9ec2042",
+      "estimateId": "e_4d0599a8eb37",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activity Under OMB Review: Buses and Bus Facilities Formula and Competitive Programs and Low or No Emission Program",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05918/agency-information-collection-activity-under-omb-review-buses-and-bus-facilities-formula-and",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_83b4adfae749",
+      "estimateId": "e_96bf1aface91",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activity Under OMB Review: National Transit Database (NTD)",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05922/agency-information-collection-activity-under-omb-review-national-transit-database-ntd",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_84250761d57f",
+      "estimateId": "e_430fa9eda536",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-OpenJS Foundation",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05928/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-openjs-foundation",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a8ffb2f9d591",
+      "estimateId": "e_75a5c4d00e7d",
+      "publisher": "ProPublica",
+      "title": "“This Is What It Means to Be Minnesotan”: Why My Neighbors Continue to Stand Up Against ICE",
+      "url": "https://projects.propublica.org/why-minneapolis-neighbors-protest-ice/",
+      "publishedAt": "2026-03-26",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_b06feb3c2271",
+      "estimateId": "e_d7a114f02e80",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-Z-Wave Alliance, Inc.",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05923/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-z-wave-alliance-inc",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_b9588beea384",
+      "estimateId": "e_d252fe067c4c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-R Consortium, Inc.",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05911/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-r-consortium-inc",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_bcaa32ebb4ce",
+      "estimateId": "e_c0af793e09f3",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act Of 1993-TeleManagement Forum (TM Forum)",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05917/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-telemanagement-forum",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_c33983a8f480",
+      "estimateId": "e_c740d9e381d8",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-1EdTech Consortium, Inc.",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05908/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-1edtech-consortium",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_cedeb9808f79",
+      "estimateId": "e_b93bc1972cd8",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-Mercury Consortium",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05926/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-mercury-consortium",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e22b1d4c2bd3",
+      "estimateId": "e_227b24834a7f",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-Biopharmaceutical Manufacturing Preparedness Consortium",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05906/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-biopharmaceutical",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_efd6cece6e28",
+      "estimateId": "e_9c2d5668fc44",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Sunshine Act Meetings",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05939/sunshine-act-meetings",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_f0cd054a62e1",
+      "estimateId": "e_4cb7dcd5e7c9",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-OpenGMSL Association",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05924/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-opengmsl-association",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_f77c942eeabb",
+      "estimateId": "e_dd977da3f30c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activity Under OMB Review: State of Good Repair Program",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05920/agency-information-collection-activity-under-omb-review-state-of-good-repair-program",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_f9f581d4bb5a",
+      "estimateId": "e_6bae66518ab3",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice Pursuant to the National Cooperative Research and Production Act of 1993-Cable Television Laboratories, Inc.",
+      "url": "https://www.federalregister.gov/documents/2026/03/26/2026-05910/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-cable-television",
+      "publishedAt": "2026-03-26",
+      "sourceType": "primary"
+    },
     {
       "id": "s_08b416b7fb17",
       "estimateId": "e_ee2b9fc612af",

@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-03-31",
-    "updatedAt": "2026-03-31T07:43:38.892Z",
+    "asOfDate": "2026-04-01",
+    "updatedAt": "2026-04-01T07:53:17.481Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,344 @@
     }
   ],
   "items": [
+    {
+      "id": "i_2bb9f77bff7c",
+      "type": "policy",
+      "title": "Parcel Dimension Compliance",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_2f9a6e710dbe",
+      "type": "policy",
+      "title": "Review of the Commission's Rules Governing the 896-901/935-940 MHz Band",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_358003a0c2f8",
+      "type": "policy",
+      "title": "Proposed Collection; Comment Request",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_3e512f452cf3",
+      "type": "policy",
+      "title": "30-Day Notice of Proposed Information Collection: Request for Commodity Jurisdiction Determination",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_47e995d74659",
+      "type": "policy",
+      "title": "Submission for OMB Review; Comment Request",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_49fcc6bf287a",
+      "type": "policy",
+      "title": "Proposed Collection; Comment Request",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_4f2ea8c70485",
+      "type": "policy",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_561ca903f65f",
+      "type": "policy",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_5c11b156854c",
+      "type": "policy",
+      "title": "Proposed Collection; Comment Request",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_60bfd602f62c",
+      "type": "policy",
+      "title": "Meeting of the Religious Liberty Commission",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_6c39206d68f7",
+      "type": "policy",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_72438d062d36",
+      "type": "policy",
+      "title": "Notice of Open Public Hearing",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_730ed7db6a8c",
+      "type": "policy",
+      "title": "30-Day Notice of Proposed Information Collection: Technology Security/Clearance Plans, Screening Records, and Non-Disclosure Agreements Pursuant to 22 CFR 126.18",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_73e2cfccd22f",
+      "type": "policy",
+      "title": "Notice of Realty Action: Direct Sale of Public Lands in La Paz County, AZ",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_77dc59efceb2",
+      "type": "policy",
+      "title": "30-Day Notice of Proposed Information Collection: Request To Change End-User, End-Use and/or Destination of Hardware and Open General Licenses",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_7ccf430be6b1",
+      "type": "policy",
+      "title": "Agency Information Collection Activities: Comment Request; NSF Small Business Innovation Research (SBIR) Program Phase I, NSF Small Business Technology Transfer (STTR) Program Phase I, and NSF SBIR/STTR Fast-Track Pilot Pre-Submission Project Pitch Form",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_821071fbd0b7",
+      "type": "policy",
+      "title": "Revised Non-Foreign Overseas Per Diem Rates",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_a538364f4d6d",
+      "type": "policy",
+      "title": "Performance-Based Investment Advisory Fees",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_b1f438f97483",
+      "type": "event",
+      "title": "ProPublica: Trump’s Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_bc12f61d2318",
+      "type": "policy",
+      "title": "Sunshine Act Meetings; Deletion of Item From March 26, 2026 Open Meeting",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c24c26cfc4ec",
+      "type": "policy",
+      "title": "Submission for OMB Review; Comment Request",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_db28d5312748",
+      "type": "policy",
+      "title": "Addressing DEI Discrimination by Federal Contractors",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_eb8495ef3888",
+      "type": "policy",
+      "title": "Proposed Collection; Comment Request",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f6085bd31979",
+      "type": "policy",
+      "title": "Proposed Collection; Comment Request",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f9f5b09eb172",
+      "type": "policy",
+      "title": "Submission for OMB Review; Comment Request",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_feef10bb0290",
+      "type": "policy",
+      "title": "Modification of Class E Airspace; Denver International Airport, Denver, CO",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-03-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_01dbd240f6f4",
       "type": "policy",
@@ -5639,6 +5977,318 @@
   ],
   "estimates": [
     {
+      "id": "e_0a9512e66a7b",
+      "itemId": "i_2bb9f77bff7c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.832Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2e07b48a0e81",
+      "itemId": "i_f9f5b09eb172",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_32fc537eaf34",
+      "itemId": "i_a538364f4d6d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.832Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_339a231e01fc",
+      "itemId": "i_6c39206d68f7",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.832Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_34d899b3aeb2",
+      "itemId": "i_f6085bd31979",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_532a49683a68",
+      "itemId": "i_bc12f61d2318",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.832Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_6067254b016a",
+      "itemId": "i_db28d5312748",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.831Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_62b49cd197c2",
+      "itemId": "i_b1f438f97483",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:17.477Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_66d5683df4d3",
+      "itemId": "i_73e2cfccd22f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.832Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_8368823a55a7",
+      "itemId": "i_561ca903f65f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.832Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_84440e2d1c02",
+      "itemId": "i_5c11b156854c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_93301f5b015d",
+      "itemId": "i_3e512f452cf3",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_957eb2db412a",
+      "itemId": "i_358003a0c2f8",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_95f6b9decd91",
+      "itemId": "i_72438d062d36",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.832Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9e6b5fafdb2c",
+      "itemId": "i_feef10bb0290",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_aeb018b8fad2",
+      "itemId": "i_77dc59efceb2",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_be12336c9809",
+      "itemId": "i_4f2ea8c70485",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.832Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c39ecbaec213",
+      "itemId": "i_821071fbd0b7",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c5ca27bbc8f2",
+      "itemId": "i_730ed7db6a8c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c6ae67eb0ab2",
+      "itemId": "i_eb8495ef3888",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ccfaa7bb20fd",
+      "itemId": "i_c24c26cfc4ec",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d352b7befa8c",
+      "itemId": "i_7ccf430be6b1",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e3be73e3aef0",
+      "itemId": "i_60bfd602f62c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_eebf8aa7f46c",
+      "itemId": "i_47e995d74659",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_fad538a0a1fe",
+      "itemId": "i_49fcc6bf287a",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.833Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_fb0e0313dbe6",
+      "itemId": "i_2f9a6e710dbe",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-03-31",
+      "lastUpdatedAt": "2026-04-01T07:53:15.832Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_01f3109e5cd1",
       "itemId": "i_2be37adff19e",
       "attributionType": "direct",
@@ -5707,7 +6357,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-30",
-      "lastUpdatedAt": "2026-03-31T07:43:38.888Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.477Z",
       "supersedesEstimateId": null
     },
     {
@@ -6067,7 +6717,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-27",
-      "lastUpdatedAt": "2026-03-31T07:43:38.889Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.478Z",
       "supersedesEstimateId": null
     },
     {
@@ -6079,7 +6729,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-27",
-      "lastUpdatedAt": "2026-03-31T07:43:38.888Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.477Z",
       "supersedesEstimateId": null
     },
     {
@@ -6415,7 +7065,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-26",
-      "lastUpdatedAt": "2026-03-31T07:43:38.889Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.478Z",
       "supersedesEstimateId": null
     },
     {
@@ -6487,7 +7137,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-26",
-      "lastUpdatedAt": "2026-03-31T07:43:38.889Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.478Z",
       "supersedesEstimateId": null
     },
     {
@@ -6583,7 +7233,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-26",
-      "lastUpdatedAt": "2026-03-31T07:43:38.889Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.478Z",
       "supersedesEstimateId": null
     },
     {
@@ -6763,7 +7413,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-25",
-      "lastUpdatedAt": "2026-03-31T07:43:38.890Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.478Z",
       "supersedesEstimateId": null
     },
     {
@@ -6823,7 +7473,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-25",
-      "lastUpdatedAt": "2026-03-31T07:43:38.890Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.479Z",
       "supersedesEstimateId": null
     },
     {
@@ -6895,7 +7545,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-25",
-      "lastUpdatedAt": "2026-03-31T07:43:38.890Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.479Z",
       "supersedesEstimateId": null
     },
     {
@@ -7159,7 +7809,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-24",
-      "lastUpdatedAt": "2026-03-31T07:43:38.891Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.479Z",
       "supersedesEstimateId": null
     },
     {
@@ -7183,7 +7833,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-24",
-      "lastUpdatedAt": "2026-03-31T07:43:38.891Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.479Z",
       "supersedesEstimateId": null
     },
     {
@@ -7447,7 +8097,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-23",
-      "lastUpdatedAt": "2026-03-31T07:43:38.891Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.480Z",
       "supersedesEstimateId": null
     },
     {
@@ -7459,7 +8109,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-23",
-      "lastUpdatedAt": "2026-03-31T07:43:38.891Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.480Z",
       "supersedesEstimateId": null
     },
     {
@@ -7507,7 +8157,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-23",
-      "lastUpdatedAt": "2026-03-31T07:43:38.891Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.479Z",
       "supersedesEstimateId": null
     },
     {
@@ -7663,7 +8313,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-20",
-      "lastUpdatedAt": "2026-03-31T07:43:38.892Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.480Z",
       "supersedesEstimateId": null
     },
     {
@@ -7819,7 +8469,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-20",
-      "lastUpdatedAt": "2026-03-31T07:43:38.892Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.480Z",
       "supersedesEstimateId": null
     },
     {
@@ -7831,7 +8481,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-20",
-      "lastUpdatedAt": "2026-03-31T07:43:38.892Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.481Z",
       "supersedesEstimateId": null
     },
     {
@@ -7867,7 +8517,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-20",
-      "lastUpdatedAt": "2026-03-31T07:43:38.892Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.480Z",
       "supersedesEstimateId": null
     },
     {
@@ -8107,7 +8757,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-19",
-      "lastUpdatedAt": "2026-03-31T07:43:38.892Z",
+      "lastUpdatedAt": "2026-04-01T07:53:17.481Z",
       "supersedesEstimateId": null
     },
     {
@@ -10801,6 +11451,240 @@
     }
   ],
   "sources": [
+    {
+      "id": "s_08e465d8ddc3",
+      "estimateId": "e_c5ca27bbc8f2",
+      "publisher": "Federal Register",
+      "title": "Federal Register: 30-Day Notice of Proposed Information Collection: Technology Security/Clearance Plans, Screening Records, and Non-Disclosure Agreements Pursuant to 22 CFR 126.18",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06212/30-day-notice-of-proposed-information-collection-technology-securityclearance-plans-screening",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_0931bb9ab2a4",
+      "estimateId": "e_e3be73e3aef0",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Meeting of the Religious Liberty Commission",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06208/meeting-of-the-religious-liberty-commission",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_14715a1f682d",
+      "estimateId": "e_532a49683a68",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Sunshine Act Meetings; Deletion of Item From March 26, 2026 Open Meeting",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06230/sunshine-act-meetings-deletion-of-item-from-march-26-2026-open-meeting",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_1cb0facbb451",
+      "estimateId": "e_8368823a55a7",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06227/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_1fe9b38f0684",
+      "estimateId": "e_aeb018b8fad2",
+      "publisher": "Federal Register",
+      "title": "Federal Register: 30-Day Notice of Proposed Information Collection: Request To Change End-User, End-Use and/or Destination of Hardware and Open General Licenses",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06209/30-day-notice-of-proposed-information-collection-request-to-change-end-user-end-use-andor",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_20a97a3049ba",
+      "estimateId": "e_c39ecbaec213",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Revised Non-Foreign Overseas Per Diem Rates",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06217/revised-non-foreign-overseas-per-diem-rates",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_28d037ecead7",
+      "estimateId": "e_c6ae67eb0ab2",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Proposed Collection; Comment Request",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06222/proposed-collection-comment-request",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_2d1adfec4151",
+      "estimateId": "e_84440e2d1c02",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Proposed Collection; Comment Request",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06215/proposed-collection-comment-request",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_31d4b6625167",
+      "estimateId": "e_6067254b016a",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Addressing DEI Discrimination by Federal Contractors",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06286/addressing-dei-discrimination-by-federal-contractors",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_37bfa89756c8",
+      "estimateId": "e_ccfaa7bb20fd",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Submission for OMB Review; Comment Request",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06218/submission-for-omb-review-comment-request",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_47a9f6d0afd2",
+      "estimateId": "e_9e6b5fafdb2c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Modification of Class E Airspace; Denver International Airport, Denver, CO",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06214/modification-of-class-e-airspace-denver-international-airport-denver-co",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_48ca41a281b7",
+      "estimateId": "e_d352b7befa8c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activities: Comment Request; NSF Small Business Innovation Research (SBIR) Program Phase I, NSF Small Business Technology Transfer (STTR) Program Phase I, and NSF SBIR/STTR Fast-Track Pilot Pre-Submission Project Pitch Form",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06210/agency-information-collection-activities-comment-request-nsf-small-business-innovation-research-sbir",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_4ee54bb3a4b4",
+      "estimateId": "e_32fc537eaf34",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Performance-Based Investment Advisory Fees",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06229/performance-based-investment-advisory-fees",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_7476a3358f47",
+      "estimateId": "e_eebf8aa7f46c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Submission for OMB Review; Comment Request",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06221/submission-for-omb-review-comment-request",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_8cfead3809f9",
+      "estimateId": "e_34d899b3aeb2",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Proposed Collection; Comment Request",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06219/proposed-collection-comment-request",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_939623efe07f",
+      "estimateId": "e_66d5683df4d3",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Realty Action: Direct Sale of Public Lands in La Paz County, AZ",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06225/notice-of-realty-action-direct-sale-of-public-lands-in-la-paz-county-az",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_96a476276106",
+      "estimateId": "e_2e07b48a0e81",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Submission for OMB Review; Comment Request",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06213/submission-for-omb-review-comment-request",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_9c351046593c",
+      "estimateId": "e_339a231e01fc",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Center for Scientific Review; Notice of Closed Meetings",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06226/center-for-scientific-review-notice-of-closed-meetings",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a55d4bd3d7a6",
+      "estimateId": "e_fb0e0313dbe6",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Review of the Commission's Rules Governing the 896-901/935-940 MHz Band",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06239/review-of-the-commissions-rules-governing-the-896-901935-940-mhz-band",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a7068241d559",
+      "estimateId": "e_0a9512e66a7b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Parcel Dimension Compliance",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06223/parcel-dimension-compliance",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_c1f63ca58fab",
+      "estimateId": "e_fad538a0a1fe",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Proposed Collection; Comment Request",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06216/proposed-collection-comment-request",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_c506c986fdb1",
+      "estimateId": "e_be12336c9809",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Information Collection Being Reviewed by the Federal Communications Commission",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06224/information-collection-being-reviewed-by-the-federal-communications-commission",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_d2321cf1595d",
+      "estimateId": "e_93301f5b015d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: 30-Day Notice of Proposed Information Collection: Request for Commodity Jurisdiction Determination",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06211/30-day-notice-of-proposed-information-collection-request-for-commodity-jurisdiction-determination",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_d5ce691229ea",
+      "estimateId": "e_62b49cd197c2",
+      "publisher": "ProPublica",
+      "title": "Trump’s Justice Department Dropped 23,000 Criminal Investigations in Shift to Immigration",
+      "url": "https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations",
+      "publishedAt": "2026-03-31",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_d827e2d0f946",
+      "estimateId": "e_957eb2db412a",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Proposed Collection; Comment Request",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06220/proposed-collection-comment-request",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_faeda67dcfa4",
+      "estimateId": "e_95f6b9decd91",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Open Public Hearing",
+      "url": "https://www.federalregister.gov/documents/2026/03/31/2026-06228/notice-of-open-public-hearing",
+      "publishedAt": "2026-03-31",
+      "sourceType": "primary"
+    },
     {
       "id": "s_0534ecde840e",
       "estimateId": "e_b72ec323f6de",

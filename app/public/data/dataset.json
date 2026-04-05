@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-04-04",
-    "updatedAt": "2026-04-04T07:15:57.097Z",
+    "asOfDate": "2026-04-05",
+    "updatedAt": "2026-04-05T07:21:52.545Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,331 @@
     }
   ],
   "items": [
+    {
+      "id": "i_07c9346701ed",
+      "type": "policy",
+      "title": "Notice of Public Meetings of the New Jersey Advisory Committee to the U.S. Commission on Civil Rights",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_0b93dc445311",
+      "type": "policy",
+      "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_0ef895fac5ff",
+      "type": "policy",
+      "title": "Notice of Cancellation of Withdrawal Application for the Upper Pecos River Watershed Protection Area, New Mexico",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_0fb7a24e3c31",
+      "type": "policy",
+      "title": "Float Glass Products From the People's Republic of China: Antidumping Duty Order",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_17f04ceb846f",
+      "type": "policy",
+      "title": "Float Glass Products From the People's Republic of China and Malaysia: Countervailing Duty Orders",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_240bfa01f5cf",
+      "type": "policy",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_2bd1fb716a66",
+      "type": "policy",
+      "title": "Magnuson-Stevens Fishery Conservation and Management Act Provisions; Modifications To Conform U.S. Fishery Regulations With the Presidential Proclamation Unleashing Commercial Fishing in the Atlantic",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_305fe1e19cc4",
+      "type": "policy",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_37a3cba1aa42",
+      "type": "policy",
+      "title": "Electronic Submission of Postmarketing Individual Case Safety Reports to the Food and Drug Administration Adverse Event Monitoring System Using International Council of Harmonisation E2B(R3) Data Standards; Regional Data Elements and Implementation Schedule",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_475d5106f875",
+      "type": "policy",
+      "title": "Call for Applications for Secretary Appointment to Treasury Tribal Advisory Committee",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_50ebdded6a46",
+      "type": "policy",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_57e014e0c879",
+      "type": "policy",
+      "title": "Department of Defense Wage Committee (DoD Wage Committee); Notice of Federal Advisory Committee Meetings",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_671a897de87a",
+      "type": "policy",
+      "title": "Determination That STRATTERA (Atomoxetine Hydrochloride) Capsules 5 Milligrams, 10 Milligrams, 18 Milligrams, 25 Milligrams, 40 Milligrams, 60 Milligrams, 80 Milligrams, and 100 Milligrams, Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_6f03cae5787d",
+      "type": "policy",
+      "title": "Determination of Attainment by the Attainment Date But for International Emissions for the 2015 Ozone National Ambient Air Quality Standards; Phoenix-Mesa Nonattainment Area, Arizona",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_7351b0728351",
+      "type": "policy",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_7f1a8a3a1b15",
+      "type": "policy",
+      "title": "Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Refrigeration and Air Conditioning and Fire Suppression; Supplemental Notice of Proposed Rulemaking",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_80383fd9f4c5",
+      "type": "policy",
+      "title": "Seeking Comment on Prohibiting Importation and Marketing of Previously Authorized Covered Communications Equipment Added to the Covered List in 2024 or Earlier",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_86aa9f732205",
+      "type": "policy",
+      "title": "Request for Information: Icebreaker Collaboration Effort (ICE) Pact",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_8d270ffb78fe",
+      "type": "policy",
+      "title": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_8f71ae59574e",
+      "type": "policy",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_92ba13ee3ab6",
+      "type": "policy",
+      "title": "Drinking Water Contaminant Candidate List 6-Draft",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_98090acf9d2f",
+      "type": "policy",
+      "title": "Submission for OMB Review; 30-Day Comment Request; Hazardous Waste Worker Training-42 CFR Part 65, National Institute of Environmental Health Sciences (NIEHS)",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_cdfec6a1ebb6",
+      "type": "policy",
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company; Correction",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d4450a913404",
+      "type": "policy",
+      "title": "Reducing Bureaucracy and Burden for Children, Youth, and Family Programs",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f6c3a83561a7",
+      "type": "policy",
+      "title": "Medicare Program; Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2027 and Updates to the IRF Quality Reporting Program",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-04-06",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_0189406fef04",
       "type": "policy",
@@ -6991,6 +7316,306 @@
   ],
   "estimates": [
     {
+      "id": "e_1e6a3ec6c2b8",
+      "itemId": "i_57e014e0c879",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.227Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_1f06b18256bb",
+      "itemId": "i_17f04ceb846f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.227Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_1ff7b2008a5d",
+      "itemId": "i_8f71ae59574e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.226Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_20d30077bf81",
+      "itemId": "i_0fb7a24e3c31",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.227Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2498b531b039",
+      "itemId": "i_98090acf9d2f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.225Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2fd2b5793153",
+      "itemId": "i_6f03cae5787d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.224Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_45448bb4d27c",
+      "itemId": "i_cdfec6a1ebb6",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.227Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5e24e78dbc3c",
+      "itemId": "i_80383fd9f4c5",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.226Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_614ca09ef61a",
+      "itemId": "i_2bd1fb716a66",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.225Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_687b859b44f6",
+      "itemId": "i_50ebdded6a46",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.226Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_6de3d17c0b8a",
+      "itemId": "i_92ba13ee3ab6",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.225Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_780027f83c40",
+      "itemId": "i_7f1a8a3a1b15",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.225Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_7e946c59add5",
+      "itemId": "i_475d5106f875",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.226Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_80eb9943a351",
+      "itemId": "i_d4450a913404",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.227Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_84692523694c",
+      "itemId": "i_f6c3a83561a7",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.227Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_85da80512e42",
+      "itemId": "i_0b93dc445311",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.227Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9f6b76f53f73",
+      "itemId": "i_671a897de87a",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.225Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_a21c257be578",
+      "itemId": "i_37a3cba1aa42",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.225Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_a3f5766037d9",
+      "itemId": "i_86aa9f732205",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.227Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_aabfcc8fab32",
+      "itemId": "i_07c9346701ed",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.225Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b43c33a77312",
+      "itemId": "i_8d270ffb78fe",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.226Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b6f217bb6b95",
+      "itemId": "i_240bfa01f5cf",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.226Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_bc407e7a1cca",
+      "itemId": "i_7351b0728351",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.226Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_bddd3b8b0078",
+      "itemId": "i_0ef895fac5ff",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.226Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_da9955fcae43",
+      "itemId": "i_305fe1e19cc4",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-04-06",
+      "lastUpdatedAt": "2026-04-05T07:21:51.226Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_041f142b9ef4",
       "itemId": "i_09f287da9754",
       "attributionType": "direct",
@@ -7179,7 +7804,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-03",
-      "lastUpdatedAt": "2026-04-04T07:15:57.093Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.540Z",
       "supersedesEstimateId": null
     },
     {
@@ -7503,7 +8128,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-02",
-      "lastUpdatedAt": "2026-04-04T07:15:57.093Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.540Z",
       "supersedesEstimateId": null
     },
     {
@@ -7875,7 +8500,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-01",
-      "lastUpdatedAt": "2026-04-04T07:15:57.094Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.541Z",
       "supersedesEstimateId": null
     },
     {
@@ -8019,7 +8644,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-31",
-      "lastUpdatedAt": "2026-04-04T07:15:57.094Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.541Z",
       "supersedesEstimateId": null
     },
     {
@@ -8307,7 +8932,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-30",
-      "lastUpdatedAt": "2026-04-04T07:15:57.094Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.541Z",
       "supersedesEstimateId": null
     },
     {
@@ -8667,7 +9292,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-27",
-      "lastUpdatedAt": "2026-04-04T07:15:57.095Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.542Z",
       "supersedesEstimateId": null
     },
     {
@@ -8679,7 +9304,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-27",
-      "lastUpdatedAt": "2026-04-04T07:15:57.095Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.541Z",
       "supersedesEstimateId": null
     },
     {
@@ -9015,7 +9640,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-26",
-      "lastUpdatedAt": "2026-04-04T07:15:57.095Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.542Z",
       "supersedesEstimateId": null
     },
     {
@@ -9087,7 +9712,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-26",
-      "lastUpdatedAt": "2026-04-04T07:15:57.095Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.542Z",
       "supersedesEstimateId": null
     },
     {
@@ -9183,7 +9808,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-26",
-      "lastUpdatedAt": "2026-04-04T07:15:57.095Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.542Z",
       "supersedesEstimateId": null
     },
     {
@@ -9363,7 +9988,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-25",
-      "lastUpdatedAt": "2026-04-04T07:15:57.096Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.542Z",
       "supersedesEstimateId": null
     },
     {
@@ -9423,7 +10048,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-25",
-      "lastUpdatedAt": "2026-04-04T07:15:57.096Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.543Z",
       "supersedesEstimateId": null
     },
     {
@@ -9495,7 +10120,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-25",
-      "lastUpdatedAt": "2026-04-04T07:15:57.096Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.543Z",
       "supersedesEstimateId": null
     },
     {
@@ -9759,7 +10384,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-24",
-      "lastUpdatedAt": "2026-04-04T07:15:57.096Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.543Z",
       "supersedesEstimateId": null
     },
     {
@@ -9783,7 +10408,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-24",
-      "lastUpdatedAt": "2026-04-04T07:15:57.096Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.544Z",
       "supersedesEstimateId": null
     },
     {
@@ -10047,7 +10672,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-23",
-      "lastUpdatedAt": "2026-04-04T07:15:57.097Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.544Z",
       "supersedesEstimateId": null
     },
     {
@@ -10059,7 +10684,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-23",
-      "lastUpdatedAt": "2026-04-04T07:15:57.097Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.544Z",
       "supersedesEstimateId": null
     },
     {
@@ -10107,7 +10732,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-23",
-      "lastUpdatedAt": "2026-04-04T07:15:57.097Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.544Z",
       "supersedesEstimateId": null
     },
     {
@@ -10263,7 +10888,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-20",
-      "lastUpdatedAt": "2026-04-04T07:15:57.097Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.544Z",
       "supersedesEstimateId": null
     },
     {
@@ -10419,7 +11044,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-03-20",
-      "lastUpdatedAt": "2026-04-04T07:15:57.097Z",
+      "lastUpdatedAt": "2026-04-05T07:21:52.545Z",
       "supersedesEstimateId": null
     },
     {
@@ -13401,6 +14026,231 @@
     }
   ],
   "sources": [
+    {
+      "id": "s_1e314f8ff82e",
+      "estimateId": "e_9f6b76f53f73",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Determination That STRATTERA (Atomoxetine Hydrochloride) Capsules 5 Milligrams, 10 Milligrams, 18 Milligrams, 25 Milligrams, 40 Milligrams, 60 Milligrams, 80 Milligrams, and 100 Milligrams, Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06661/determination-that-strattera-atomoxetine-hydrochloride-capsules-5-milligrams-10-milligrams-18",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_2b773190930c",
+      "estimateId": "e_da9955fcae43",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Center for Scientific Review; Notice of Closed Meetings",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06657/center-for-scientific-review-notice-of-closed-meetings",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_2bf30ec38acb",
+      "estimateId": "e_780027f83c40",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Refrigeration and Air Conditioning and Fire Suppression; Supplemental Notice of Proposed Rulemaking",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06665/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_38d49b9a5331",
+      "estimateId": "e_7e946c59add5",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Call for Applications for Secretary Appointment to Treasury Tribal Advisory Committee",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06652/call-for-applications-for-secretary-appointment-to-treasury-tribal-advisory-committee",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_546fef9434df",
+      "estimateId": "e_aabfcc8fab32",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Public Meetings of the New Jersey Advisory Committee to the U.S. Commission on Civil Rights",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06659/notice-of-public-meetings-of-the-new-jersey-advisory-committee-to-the-us-commission-on-civil-rights",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_5883a3267c51",
+      "estimateId": "e_84692523694c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Medicare Program; Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2027 and Updates to the IRF Quality Reporting Program",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06642/medicare-program-inpatient-rehabilitation-facility-prospective-payment-system-for-federal-fiscal",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_5ff661aaaca9",
+      "estimateId": "e_80eb9943a351",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Reducing Bureaucracy and Burden for Children, Youth, and Family Programs",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06646/reducing-bureaucracy-and-burden-for-children-youth-and-family-programs",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_659c7f016bce",
+      "estimateId": "e_b43c33a77312",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06655/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_7ebb0895175f",
+      "estimateId": "e_1f06b18256bb",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Float Glass Products From the People's Republic of China and Malaysia: Countervailing Duty Orders",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06649/float-glass-products-from-the-peoples-republic-of-china-and-malaysia-countervailing-duty-orders",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_906899e2ca2b",
+      "estimateId": "e_2fd2b5793153",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Determination of Attainment by the Attainment Date But for International Emissions for the 2015 Ozone National Ambient Air Quality Standards; Phoenix-Mesa Nonattainment Area, Arizona",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/C1-2026-05601/determination-of-attainment-by-the-attainment-date-but-for-international-emissions-for-the-2015",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_96f193c33773",
+      "estimateId": "e_a21c257be578",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Electronic Submission of Postmarketing Individual Case Safety Reports to the Food and Drug Administration Adverse Event Monitoring System Using International Council of Harmonisation E2B(R3) Data Standards; Regional Data Elements and Implementation Schedule",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06660/electronic-submission-of-postmarketing-individual-case-safety-reports-to-the-food-and-drug",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_9fbfad5af68a",
+      "estimateId": "e_bddd3b8b0078",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Cancellation of Withdrawal Application for the Upper Pecos River Watershed Protection Area, New Mexico",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06658/notice-of-cancellation-of-withdrawal-application-for-the-upper-pecos-river-watershed-protection-area",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_b282fae09fe4",
+      "estimateId": "e_45448bb4d27c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company; Correction",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06643/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company-correction",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_c90615506306",
+      "estimateId": "e_a3f5766037d9",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Request for Information: Icebreaker Collaboration Effort (ICE) Pact",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06648/request-for-information-icebreaker-collaboration-effort-ice-pact",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_ca01d3c3b04a",
+      "estimateId": "e_614ca09ef61a",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Magnuson-Stevens Fishery Conservation and Management Act Provisions; Modifications To Conform U.S. Fishery Regulations With the Presidential Proclamation Unleashing Commercial Fishing in the Atlantic",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06663/magnuson-stevens-fishery-conservation-and-management-act-provisions-modifications-to-conform-us",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_ddd85d5eb5d5",
+      "estimateId": "e_85da80512e42",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06644/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e440aa111c14",
+      "estimateId": "e_20d30077bf81",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Float Glass Products From the People's Republic of China: Antidumping Duty Order",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06647/float-glass-products-from-the-peoples-republic-of-china-antidumping-duty-order",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e594a30fec70",
+      "estimateId": "e_1e6a3ec6c2b8",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Department of Defense Wage Committee (DoD Wage Committee); Notice of Federal Advisory Committee Meetings",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06645/department-of-defense-wage-committee-dod-wage-committee-notice-of-federal-advisory-committee",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e8f9bdcac326",
+      "estimateId": "e_b6f217bb6b95",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Information Collection Being Reviewed by the Federal Communications Commission",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06656/information-collection-being-reviewed-by-the-federal-communications-commission",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_ee23841b97f8",
+      "estimateId": "e_687b859b44f6",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Center for Scientific Review; Notice of Closed Meetings",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06654/center-for-scientific-review-notice-of-closed-meetings",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_eeb557296126",
+      "estimateId": "e_2498b531b039",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Submission for OMB Review; 30-Day Comment Request; Hazardous Waste Worker Training-42 CFR Part 65, National Institute of Environmental Health Sciences (NIEHS)",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/C1-2026-05238/submission-for-omb-review-30-day-comment-request-hazardous-waste-worker-training-42-cfr-part-65",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_efb4dbcf6cb0",
+      "estimateId": "e_1ff7b2008a5d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Center for Scientific Review; Notice of Closed Meetings",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06650/center-for-scientific-review-notice-of-closed-meetings",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_eff0f711593a",
+      "estimateId": "e_5e24e78dbc3c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Seeking Comment on Prohibiting Importation and Marketing of Previously Authorized Covered Communications Equipment Added to the Covered List in 2024 or Earlier",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06653/seeking-comment-on-prohibiting-importation-and-marketing-of-previously-authorized-covered",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_f35dc97e2d86",
+      "estimateId": "e_bc407e7a1cca",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Center for Scientific Review; Notice of Closed Meetings",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06651/center-for-scientific-review-notice-of-closed-meetings",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_f653e1e9edff",
+      "estimateId": "e_6de3d17c0b8a",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Drinking Water Contaminant Candidate List 6-Draft",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06662/drinking-water-contaminant-candidate-list-6-draft",
+      "publishedAt": "2026-04-06",
+      "sourceType": "primary"
+    },
     {
       "id": "s_0ed5941c68c5",
       "estimateId": "e_73774a5d33ba",

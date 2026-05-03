@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-05-02",
-    "updatedAt": "2026-05-02T07:58:16.279Z",
+    "asOfDate": "2026-05-03",
+    "updatedAt": "2026-05-03T08:15:08.077Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -360,6 +360,19 @@
       "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Reporting Requirements for Commercial Fisheries Authorization Under Section 118 of the Marine Mammal Protection Act",
       "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
       "date": "2026-05-04",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_179168c3837c",
+      "type": "event",
+      "title": "ProPublica: Event With Links to Oil Industry Teaches Judges “Healthy Skepticism” of Climate Science",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-05-02",
       "location": "United States",
       "topicIds": [],
       "politicianIds": [
@@ -13941,7 +13954,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.280Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -13953,7 +13966,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.279Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -13965,7 +13978,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.277Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -13977,7 +13990,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.279Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -13989,7 +14002,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.280Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14001,7 +14014,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.279Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14013,7 +14026,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.275Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.109Z",
       "supersedesEstimateId": null
     },
     {
@@ -14025,7 +14038,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.280Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14037,7 +14050,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.280Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14049,7 +14062,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.274Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.109Z",
       "supersedesEstimateId": null
     },
     {
@@ -14061,7 +14074,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.278Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14073,7 +14086,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.276Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.109Z",
       "supersedesEstimateId": null
     },
     {
@@ -14085,7 +14098,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.276Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.109Z",
       "supersedesEstimateId": null
     },
     {
@@ -14097,7 +14110,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.278Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14109,7 +14122,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.277Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14121,7 +14134,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.279Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14133,7 +14146,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.278Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14145,7 +14158,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.278Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14157,7 +14170,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.277Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14169,7 +14182,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.278Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14181,7 +14194,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.279Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14193,7 +14206,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.278Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14205,7 +14218,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.276Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.109Z",
       "supersedesEstimateId": null
     },
     {
@@ -14217,7 +14230,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.280Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
       "supersedesEstimateId": null
     },
     {
@@ -14229,7 +14242,19 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-05-04",
-      "lastUpdatedAt": "2026-05-02T07:58:15.280Z",
+      "lastUpdatedAt": "2026-05-03T08:15:07.110Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_4181dcfef099",
+      "itemId": "i_179168c3837c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-05-02",
+      "lastUpdatedAt": "2026-05-03T08:15:08.072Z",
       "supersedesEstimateId": null
     },
     {
@@ -14385,7 +14410,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-05-01",
-      "lastUpdatedAt": "2026-05-02T07:58:16.274Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.073Z",
       "supersedesEstimateId": null
     },
     {
@@ -14397,7 +14422,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-05-01",
-      "lastUpdatedAt": "2026-05-02T07:58:16.275Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.073Z",
       "supersedesEstimateId": null
     },
     {
@@ -14697,7 +14722,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-30",
-      "lastUpdatedAt": "2026-05-02T07:58:16.276Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.074Z",
       "supersedesEstimateId": null
     },
     {
@@ -14745,7 +14770,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-30",
-      "lastUpdatedAt": "2026-05-02T07:58:16.275Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.074Z",
       "supersedesEstimateId": null
     },
     {
@@ -15045,7 +15070,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-29",
-      "lastUpdatedAt": "2026-05-02T07:58:16.276Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.074Z",
       "supersedesEstimateId": null
     },
     {
@@ -15189,7 +15214,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-29",
-      "lastUpdatedAt": "2026-05-02T07:58:16.276Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.074Z",
       "supersedesEstimateId": null
     },
     {
@@ -15453,7 +15478,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-28",
-      "lastUpdatedAt": "2026-05-02T07:58:16.276Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.075Z",
       "supersedesEstimateId": null
     },
     {
@@ -15489,7 +15514,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-28",
-      "lastUpdatedAt": "2026-05-02T07:58:16.276Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.074Z",
       "supersedesEstimateId": null
     },
     {
@@ -15645,7 +15670,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-27",
-      "lastUpdatedAt": "2026-05-02T07:58:16.277Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.075Z",
       "supersedesEstimateId": null
     },
     {
@@ -15789,7 +15814,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-27",
-      "lastUpdatedAt": "2026-05-02T07:58:16.277Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.075Z",
       "supersedesEstimateId": null
     },
     {
@@ -16041,7 +16066,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-24",
-      "lastUpdatedAt": "2026-05-02T07:58:16.277Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.075Z",
       "supersedesEstimateId": null
     },
     {
@@ -16269,7 +16294,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-23",
-      "lastUpdatedAt": "2026-05-02T07:58:16.277Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.075Z",
       "supersedesEstimateId": null
     },
     {
@@ -16317,7 +16342,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-23",
-      "lastUpdatedAt": "2026-05-02T07:58:16.277Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.076Z",
       "supersedesEstimateId": null
     },
     {
@@ -16545,7 +16570,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-22",
-      "lastUpdatedAt": "2026-05-02T07:58:16.278Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.076Z",
       "supersedesEstimateId": null
     },
     {
@@ -17085,7 +17110,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-21",
-      "lastUpdatedAt": "2026-05-02T07:58:16.278Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.076Z",
       "supersedesEstimateId": null
     },
     {
@@ -17241,7 +17266,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-20",
-      "lastUpdatedAt": "2026-05-02T07:58:16.278Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.076Z",
       "supersedesEstimateId": null
     },
     {
@@ -17481,7 +17506,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-17",
-      "lastUpdatedAt": "2026-05-02T07:58:16.278Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.077Z",
       "supersedesEstimateId": null
     },
     {
@@ -17637,7 +17662,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-17",
-      "lastUpdatedAt": "2026-05-02T07:58:16.279Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.077Z",
       "supersedesEstimateId": null
     },
     {
@@ -17877,7 +17902,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-04-16",
-      "lastUpdatedAt": "2026-05-02T07:58:16.279Z",
+      "lastUpdatedAt": "2026-05-03T08:15:08.077Z",
       "supersedesEstimateId": null
     },
     {
@@ -26975,6 +27000,15 @@
       "url": "https://www.federalregister.gov/documents/2026/05/04/2026-08645/establishment-of-class-d-and-class-e-airspace-ceiba-pr",
       "publishedAt": "2026-05-04",
       "sourceType": "primary"
+    },
+    {
+      "id": "s_951e732d6591",
+      "estimateId": "e_4181dcfef099",
+      "publisher": "ProPublica",
+      "title": "Event With Links to Oil Industry Teaches Judges “Healthy Skepticism” of Climate Science",
+      "url": "https://www.propublica.org/article/climate-science-oil-gas-fossil-fuel-judges-jim-jordan",
+      "publishedAt": "2026-05-02",
+      "sourceType": "secondary"
     },
     {
       "id": "s_02042d24ddb1",

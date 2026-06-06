@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-06-05",
-    "updatedAt": "2026-06-05T10:14:05.636Z",
+    "asOfDate": "2026-06-06",
+    "updatedAt": "2026-06-06T08:45:44.674Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -95,6 +95,19 @@
       "status": "active"
     },
     {
+      "id": "i_45703dab30e4",
+      "type": "event",
+      "title": "ProPublica: Founder of Kentucky Drug Rehab Center Indicted on Fraud and Money Laundering Charges",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-06-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
       "id": "i_4f4ea25be827",
       "type": "policy",
       "title": "Forged Steel Fittings From India and South Korea; Scheduling of Full Five-Year Reviews",
@@ -177,6 +190,19 @@
       "type": "policy",
       "title": "30-Day Notice of Proposed Information Collection: Request for Entry Into Children's Passport Issuance Alert Program",
       "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_709a67cc5a11",
+      "type": "event",
+      "title": "ProPublica: These Republican Lawmakers Challenged Abortion Bans. Then They Faced Backlash.",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
       "date": "2026-06-05",
       "location": "United States",
       "topicIds": [],
@@ -333,6 +359,19 @@
       "type": "policy",
       "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Financial Report for the Institutional Service Endowment Activities",
       "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f6e11d148fee",
+      "type": "event",
+      "title": "ProPublica: North Carolina Democrats Propose Changes to Block GOP Power Transfers and Secrecy",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
       "date": "2026-06-05",
       "location": "United States",
       "topicIds": [],
@@ -20891,6 +20930,30 @@
       "supersedesEstimateId": null
     },
     {
+      "id": "e_5a2c44ec9195",
+      "itemId": "i_709a67cc5a11",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-06-05",
+      "lastUpdatedAt": "2026-06-06T08:45:44.671Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_7ab9a5a923d6",
+      "itemId": "i_f6e11d148fee",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-06-05",
+      "lastUpdatedAt": "2026-06-06T08:45:44.670Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_7c6fe31c7d66",
       "itemId": "i_51155dbc90c2",
       "attributionType": "direct",
@@ -21035,6 +21098,18 @@
       "supersedesEstimateId": null
     },
     {
+      "id": "e_dcbf4c2ceb1a",
+      "itemId": "i_45703dab30e4",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-06-05",
+      "lastUpdatedAt": "2026-06-06T08:45:44.669Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_e37619043c41",
       "itemId": "i_8352ee9f1e14",
       "attributionType": "direct",
@@ -21103,7 +21178,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-04",
-      "lastUpdatedAt": "2026-06-05T10:14:05.630Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.672Z",
       "supersedesEstimateId": null
     },
     {
@@ -21139,7 +21214,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-04",
-      "lastUpdatedAt": "2026-06-05T10:14:05.631Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.672Z",
       "supersedesEstimateId": null
     },
     {
@@ -21451,7 +21526,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-03",
-      "lastUpdatedAt": "2026-06-05T10:14:05.632Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.672Z",
       "supersedesEstimateId": null
     },
     {
@@ -21463,7 +21538,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-03",
-      "lastUpdatedAt": "2026-06-05T10:14:05.632Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.672Z",
       "supersedesEstimateId": null
     },
     {
@@ -21691,7 +21766,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-03",
-      "lastUpdatedAt": "2026-06-05T10:14:05.631Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.672Z",
       "supersedesEstimateId": null
     },
     {
@@ -21847,7 +21922,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-02",
-      "lastUpdatedAt": "2026-06-05T10:14:05.632Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.673Z",
       "supersedesEstimateId": null
     },
     {
@@ -21919,7 +21994,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-02",
-      "lastUpdatedAt": "2026-06-05T10:14:05.632Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.673Z",
       "supersedesEstimateId": null
     },
     {
@@ -22135,7 +22210,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-01",
-      "lastUpdatedAt": "2026-06-05T10:14:05.633Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.673Z",
       "supersedesEstimateId": null
     },
     {
@@ -22447,7 +22522,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-05-29",
-      "lastUpdatedAt": "2026-06-05T10:14:05.634Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.673Z",
       "supersedesEstimateId": null
     },
     {
@@ -22519,7 +22594,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-05-29",
-      "lastUpdatedAt": "2026-06-05T10:14:05.633Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.673Z",
       "supersedesEstimateId": null
     },
     {
@@ -22879,7 +22954,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-05-28",
-      "lastUpdatedAt": "2026-06-05T10:14:05.634Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.673Z",
       "supersedesEstimateId": null
     },
     {
@@ -23239,7 +23314,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-05-27",
-      "lastUpdatedAt": "2026-06-05T10:14:05.634Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.674Z",
       "supersedesEstimateId": null
     },
     {
@@ -23419,7 +23494,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-05-26",
-      "lastUpdatedAt": "2026-06-05T10:14:05.635Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.674Z",
       "supersedesEstimateId": null
     },
     {
@@ -23467,7 +23542,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-05-26",
-      "lastUpdatedAt": "2026-06-05T10:14:05.634Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.674Z",
       "supersedesEstimateId": null
     },
     {
@@ -23515,7 +23590,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-05-26",
-      "lastUpdatedAt": "2026-06-05T10:14:05.634Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.674Z",
       "supersedesEstimateId": null
     },
     {
@@ -23707,7 +23782,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-05-22",
-      "lastUpdatedAt": "2026-06-05T10:14:05.635Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.674Z",
       "supersedesEstimateId": null
     },
     {
@@ -23971,7 +24046,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-05-22",
-      "lastUpdatedAt": "2026-06-05T10:14:05.635Z",
+      "lastUpdatedAt": "2026-06-06T08:45:44.674Z",
       "supersedesEstimateId": null
     },
     {
@@ -39920,6 +39995,15 @@
       "sourceType": "primary"
     },
     {
+      "id": "s_1d611063459f",
+      "estimateId": "e_7ab9a5a923d6",
+      "publisher": "ProPublica",
+      "title": "North Carolina Democrats Propose Changes to Block GOP Power Transfers and Secrecy",
+      "url": "https://www.propublica.org/article/north-carolina-legislation-governor-power",
+      "publishedAt": "2026-06-05",
+      "sourceType": "secondary"
+    },
+    {
       "id": "s_1fc076bbfdc4",
       "estimateId": "e_594bcf9ab539",
       "publisher": "Federal Register",
@@ -40046,6 +40130,15 @@
       "sourceType": "primary"
     },
     {
+      "id": "s_903231667f03",
+      "estimateId": "e_dcbf4c2ceb1a",
+      "publisher": "ProPublica",
+      "title": "Founder of Kentucky Drug Rehab Center Indicted on Fraud and Money Laundering Charges",
+      "url": "https://www.propublica.org/article/tim-robinson-indicted-addiction-recovery-care",
+      "publishedAt": "2026-06-05",
+      "sourceType": "secondary"
+    },
+    {
       "id": "s_9f4197e6ad2d",
       "estimateId": "e_93f7ae8de969",
       "publisher": "Federal Register",
@@ -40107,6 +40200,15 @@
       "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security",
       "publishedAt": "2026-06-05",
       "sourceType": "primary"
+    },
+    {
+      "id": "s_f6f1ec3b76c3",
+      "estimateId": "e_5a2c44ec9195",
+      "publisher": "ProPublica",
+      "title": "These Republican Lawmakers Challenged Abortion Bans. Then They Faced Backlash.",
+      "url": "https://www.propublica.org/article/republicans-face-backlash-after-challenging-abortion-bans",
+      "publishedAt": "2026-06-05",
+      "sourceType": "secondary"
     },
     {
       "id": "s_f718190a30c7",

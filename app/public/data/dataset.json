@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-06-23",
-    "updatedAt": "2026-06-23T07:32:09.273Z",
+    "asOfDate": "2026-06-24",
+    "updatedAt": "2026-06-24T07:28:05.434Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,383 @@
     }
   ],
   "items": [
+    {
+      "id": "i_0bf02c225a50",
+      "type": "policy",
+      "title": "Operating Limitations at John F. Kennedy International Airport",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_17de6fa66061",
+      "type": "policy",
+      "title": "Order Granting Conditional Exemptive Relief, Pursuant to Sections 17A and 36(a) of the Securities Exchange Act of 1934, From the Definition of an “Eligible Secondary Market Transaction” in Rule 17ad-22(a)",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_1baf5b40aea0",
+      "type": "event",
+      "title": "ProPublica: Do You Administer SNAP or Medicaid Benefits? Help ProPublica Report on America’s Safety Net.",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_1e79781f9888",
+      "type": "policy",
+      "title": "Steel Propane Cylinders From Thailand: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_54ec64620e0b",
+      "type": "event",
+      "title": "ProPublica: I Cold-Called President Trump. Here’s What He Told Me About an Oil Tycoon and Major Donor.",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_55c2a39388fe",
+      "type": "policy",
+      "title": "Fisheries Off West Coast States; Coastal Pelagic Species Fisheries; Amendment 22 to the Coastal Pelagic Species Fishery Management Plan",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_568eb79e1a23",
+      "type": "policy",
+      "title": "Silicon Metal From Malaysia: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_6b4afa0d0929",
+      "type": "policy",
+      "title": "Agency Information Collection Activities: Information Collection Renewal; Submission for OMB Review; Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_749875488209",
+      "type": "policy",
+      "title": "Aurobindo and Lannett; Analysis of Proposed Agreement Containing Consent Orders To Aid Public Comment",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_76b92babc678",
+      "type": "policy",
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_9221256ef128",
+      "type": "policy",
+      "title": "Operating Limitations at Newark Liberty International Airport",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_9428e8245b6a",
+      "type": "policy",
+      "title": "Alpha Summit Strategic Alternatives Fund and SteelPeak Wealth, LLC",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_9cd88a70c2a0",
+      "type": "policy",
+      "title": "Request for Information: Shaping the Future of the Bureau of Transportation Statistics; Extension of Comment Period",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_9d56fc42ea17",
+      "type": "policy",
+      "title": "Agency Information Collection Activities; Comment Request; William D. Ford Federal Direct Loan Program, Federal Direct PLUS Loan Request for Supplemental Information",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_ab57f0d72bda",
+      "type": "policy",
+      "title": "Rescission of Affirmative Outreach Requirements for Recipients of WIOA Title I Financial Assistance",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_aca900ff6207",
+      "type": "event",
+      "title": "ProPublica: Have Your SNAP Benefits Ever Been Stolen? Help ProPublica Investigate.",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_ad5d02eb7231",
+      "type": "policy",
+      "title": "Staffing-Related Relief Concerning Operations at Ronald Reagan Washington National Airport, John F. Kennedy International Airport, and LaGuardia Airport, October 25, 2026, Through March 27, 2027 (Winter 2026/2027), and March 28, 2027, Through October 30, 2027 (Summer 2027)",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_b77058f95545",
+      "type": "policy",
+      "title": "Privacy Act of 1974; System of Records",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_b7ef82fe6eaf",
+      "type": "policy",
+      "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_ba7bc4232092",
+      "type": "policy",
+      "title": "Notice of Intent To Extend and Revise a Previously Approved Information Collection",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c07ec10cc9b7",
+      "type": "policy",
+      "title": "Draft FY 2026-2030 Strategic Plan for the U.S. AbilityOne Commission",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c0ca9598f047",
+      "type": "policy",
+      "title": "Operating Limitations at New York LaGuardia Airport",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_cbe55fe09e10",
+      "type": "policy",
+      "title": "Agency Information Collection Activities: Requests for Comments; Clearance of a New Approval of Information Collection: Global Aircraft Maintenance Safety Improvements",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d29d350c6f69",
+      "type": "policy",
+      "title": "Notice of Submission Deadline for Schedule Information for Chicago O'Hare International Airport, John F. Kennedy International Airport, Los Angeles International Airport, Newark Liberty International Airport, and San Francisco International Airport for the Winter 2026/2027 Scheduling Season",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d34aea53c44e",
+      "type": "policy",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d36c9503ba12",
+      "type": "policy",
+      "title": "The RBB Fund Trust and Seven Post Investment Office LP",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d4cec05e9666",
+      "type": "policy",
+      "title": "Commercial Leasing for Outer Continental Shelf Minerals Offshore the Commonwealth of Virginia-Request for Information and Interest",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d5257ed10a4d",
+      "type": "event",
+      "title": "ProPublica: Jury Finds Home Financing Scheme That Targeted Muslims in Minnesota Violated State Law",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_daa4b6f3c31e",
+      "type": "policy",
+      "title": "Longshore and Harbor Workers' Compensation Act: Quality Standards for Hearing Loss Testing",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-06-23",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_080e90df52b7",
       "type": "policy",
@@ -24281,6 +24658,354 @@
   ],
   "estimates": [
     {
+      "id": "e_0acbbd81d100",
+      "itemId": "i_1baf5b40aea0",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:05.430Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_1ff9db72d3ef",
+      "itemId": "i_1e79781f9888",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.141Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2a5fc56bdd75",
+      "itemId": "i_b7ef82fe6eaf",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.141Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2a7ee2f0094b",
+      "itemId": "i_54ec64620e0b",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:05.431Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_453dcf6e0400",
+      "itemId": "i_17de6fa66061",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.140Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_4854a3ccb33e",
+      "itemId": "i_d29d350c6f69",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.141Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_56b79842f255",
+      "itemId": "i_76b92babc678",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.142Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_56fd13e32260",
+      "itemId": "i_9221256ef128",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.143Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5d666044b71d",
+      "itemId": "i_9428e8245b6a",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.141Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_6e4dc65430ad",
+      "itemId": "i_ba7bc4232092",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.138Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_7e6368bf418b",
+      "itemId": "i_9cd88a70c2a0",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.141Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_85bcebc61558",
+      "itemId": "i_9d56fc42ea17",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.142Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_86d7db57e1ba",
+      "itemId": "i_cbe55fe09e10",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.141Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_8a2b9c63f15c",
+      "itemId": "i_d4cec05e9666",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.142Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_8a326241cdbb",
+      "itemId": "i_0bf02c225a50",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.143Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_8f7096a57fb7",
+      "itemId": "i_55c2a39388fe",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.142Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_a102e0acf1f4",
+      "itemId": "i_aca900ff6207",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:05.431Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ae8023563428",
+      "itemId": "i_568eb79e1a23",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.141Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b845ce4d60f4",
+      "itemId": "i_ab57f0d72bda",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.139Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c296b267c4bc",
+      "itemId": "i_c07ec10cc9b7",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.142Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d02dc4d8b03d",
+      "itemId": "i_d36c9503ba12",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.141Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d8ad9931a4ae",
+      "itemId": "i_d5257ed10a4d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:05.429Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ded02f09b56e",
+      "itemId": "i_d34aea53c44e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.140Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e1a456451d65",
+      "itemId": "i_b77058f95545",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.142Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e3e1e0730156",
+      "itemId": "i_c0ca9598f047",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.143Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e4152d3c6fc9",
+      "itemId": "i_749875488209",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.140Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_f236a418fcda",
+      "itemId": "i_6b4afa0d0929",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.143Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_f9c30c014ede",
+      "itemId": "i_daa4b6f3c31e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.139Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_fc7db1849f71",
+      "itemId": "i_ad5d02eb7231",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-06-23",
+      "lastUpdatedAt": "2026-06-24T07:28:04.143Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_050925749368",
       "itemId": "i_535906c70c64",
       "attributionType": "direct",
@@ -24301,7 +25026,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-22",
-      "lastUpdatedAt": "2026-06-23T07:32:09.269Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.432Z",
       "supersedesEstimateId": null
     },
     {
@@ -24325,7 +25050,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-22",
-      "lastUpdatedAt": "2026-06-23T07:32:09.268Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.432Z",
       "supersedesEstimateId": null
     },
     {
@@ -24577,7 +25302,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-22",
-      "lastUpdatedAt": "2026-06-23T07:32:09.267Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.432Z",
       "supersedesEstimateId": null
     },
     {
@@ -24829,7 +25554,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-18",
-      "lastUpdatedAt": "2026-06-23T07:32:09.269Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.432Z",
       "supersedesEstimateId": null
     },
     {
@@ -24949,7 +25674,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-17",
-      "lastUpdatedAt": "2026-06-23T07:32:09.270Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.432Z",
       "supersedesEstimateId": null
     },
     {
@@ -24961,7 +25686,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-17",
-      "lastUpdatedAt": "2026-06-23T07:32:09.270Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.432Z",
       "supersedesEstimateId": null
     },
     {
@@ -25381,7 +26106,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-16",
-      "lastUpdatedAt": "2026-06-23T07:32:09.270Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.433Z",
       "supersedesEstimateId": null
     },
     {
@@ -25861,7 +26586,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-15",
-      "lastUpdatedAt": "2026-06-23T07:32:09.270Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.433Z",
       "supersedesEstimateId": null
     },
     {
@@ -25933,7 +26658,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-12",
-      "lastUpdatedAt": "2026-06-23T07:32:09.271Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.433Z",
       "supersedesEstimateId": null
     },
     {
@@ -26305,7 +27030,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-11",
-      "lastUpdatedAt": "2026-06-23T07:32:09.271Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.433Z",
       "supersedesEstimateId": null
     },
     {
@@ -26581,7 +27306,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-10",
-      "lastUpdatedAt": "2026-06-23T07:32:09.271Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.433Z",
       "supersedesEstimateId": null
     },
     {
@@ -26881,7 +27606,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-09",
-      "lastUpdatedAt": "2026-06-23T07:32:09.271Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.433Z",
       "supersedesEstimateId": null
     },
     {
@@ -26941,7 +27666,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-09",
-      "lastUpdatedAt": "2026-06-23T07:32:09.271Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.434Z",
       "supersedesEstimateId": null
     },
     {
@@ -27049,7 +27774,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-09",
-      "lastUpdatedAt": "2026-06-23T07:32:09.272Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.434Z",
       "supersedesEstimateId": null
     },
     {
@@ -27301,7 +28026,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-08",
-      "lastUpdatedAt": "2026-06-23T07:32:09.272Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.434Z",
       "supersedesEstimateId": null
     },
     {
@@ -27313,7 +28038,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-06-08",
-      "lastUpdatedAt": "2026-06-23T07:32:09.272Z",
+      "lastUpdatedAt": "2026-06-24T07:28:05.434Z",
       "supersedesEstimateId": null
     },
     {
@@ -46651,6 +47376,267 @@
     }
   ],
   "sources": [
+    {
+      "id": "s_003048e712fe",
+      "estimateId": "e_b845ce4d60f4",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Rescission of Affirmative Outreach Requirements for Recipients of WIOA Title I Financial Assistance",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12645/rescission-of-affirmative-outreach-requirements-for-recipients-of-wioa-title-i-financial-assistance",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_08651a8cef90",
+      "estimateId": "e_56fd13e32260",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Operating Limitations at Newark Liberty International Airport",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12589/operating-limitations-at-newark-liberty-international-airport",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_17fcf724bd34",
+      "estimateId": "e_8a326241cdbb",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Operating Limitations at John F. Kennedy International Airport",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12591/operating-limitations-at-john-f-kennedy-international-airport",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_1edde4259482",
+      "estimateId": "e_1ff9db72d3ef",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Steel Propane Cylinders From Thailand: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12609/steel-propane-cylinders-from-thailand-final-results-of-antidumping-duty-administrative-review",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_217546967d38",
+      "estimateId": "e_8f7096a57fb7",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Fisheries Off West Coast States; Coastal Pelagic Species Fisheries; Amendment 22 to the Coastal Pelagic Species Fishery Management Plan",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12597/fisheries-off-west-coast-states-coastal-pelagic-species-fisheries-amendment-22-to-the-coastal",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_28bf99fd0f10",
+      "estimateId": "e_0acbbd81d100",
+      "publisher": "ProPublica",
+      "title": "Do You Administer SNAP or Medicaid Benefits? Help ProPublica Report on America’s Safety Net.",
+      "url": "https://www.propublica.org/getinvolved/snap-medicaid-share-experience-with-propublica",
+      "publishedAt": "2026-06-23",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_2b20fe832042",
+      "estimateId": "e_2a5fc56bdd75",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12611/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_3b6caa064c40",
+      "estimateId": "e_f236a418fcda",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activities: Information Collection Renewal; Submission for OMB Review; Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12594/agency-information-collection-activities-information-collection-renewal-submission-for-omb-review",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_3c8389e7b7be",
+      "estimateId": "e_e1a456451d65",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Privacy Act of 1974; System of Records",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12596/privacy-act-of-1974-system-of-records",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_62355db7b455",
+      "estimateId": "e_2a7ee2f0094b",
+      "publisher": "ProPublica",
+      "title": "I Cold-Called President Trump. Here’s What He Told Me About an Oil Tycoon and Major Donor.",
+      "url": "https://www.propublica.org/article/propublica-called-trump-hildebrand",
+      "publishedAt": "2026-06-23",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_63ed2b8373a3",
+      "estimateId": "e_56b79842f255",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12595/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_6eaa76df25c7",
+      "estimateId": "e_d02dc4d8b03d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: The RBB Fund Trust and Seven Post Investment Office LP",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12607/the-rbb-fund-trust-and-seven-post-investment-office-lp",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_731061a04fe8",
+      "estimateId": "e_fc7db1849f71",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Staffing-Related Relief Concerning Operations at Ronald Reagan Washington National Airport, John F. Kennedy International Airport, and LaGuardia Airport, October 25, 2026, Through March 27, 2027 (Winter 2026/2027), and March 28, 2027, Through October 30, 2027 (Summer 2027)",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12593/staffing-related-relief-concerning-operations-at-ronald-reagan-washington-national-airport-john-f",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_76d84a93ffdd",
+      "estimateId": "e_6e4dc65430ad",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intent To Extend and Revise a Previously Approved Information Collection",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12647/notice-of-intent-to-extend-and-revise-a-previously-approved-information-collection",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_84ddb07db08e",
+      "estimateId": "e_e4152d3c6fc9",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Aurobindo and Lannett; Analysis of Proposed Agreement Containing Consent Orders To Aid Public Comment",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12612/aurobindo-and-lannett-analysis-of-proposed-agreement-containing-consent-orders-to-aid-public-comment",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_96699fd29a68",
+      "estimateId": "e_8a2b9c63f15c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Commercial Leasing for Outer Continental Shelf Minerals Offshore the Commonwealth of Virginia-Request for Information and Interest",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12600/commercial-leasing-for-outer-continental-shelf-minerals-offshore-the-commonwealth-of",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_9bd2222f336f",
+      "estimateId": "e_ae8023563428",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Silicon Metal From Malaysia: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12608/silicon-metal-from-malaysia-final-results-of-antidumping-duty-administrative-review-2023-2024",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_9cc9aefa12ed",
+      "estimateId": "e_85bcebc61558",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activities; Comment Request; William D. Ford Federal Direct Loan Program, Federal Direct PLUS Loan Request for Supplemental Information",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12602/agency-information-collection-activities-comment-request-william-d-ford-federal-direct-loan-program",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a2e46d441e25",
+      "estimateId": "e_ded02f09b56e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Center for Scientific Review; Notice of Closed Meetings",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12614/center-for-scientific-review-notice-of-closed-meetings",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_aaf265288579",
+      "estimateId": "e_453dcf6e0400",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Order Granting Conditional Exemptive Relief, Pursuant to Sections 17A and 36(a) of the Securities Exchange Act of 1934, From the Definition of an “Eligible Secondary Market Transaction” in Rule 17ad-22(a)",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12613/order-granting-conditional-exemptive-relief-pursuant-to-sections-17a-and-36a-of-the-securities",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_b6b659a18c70",
+      "estimateId": "e_5d666044b71d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Alpha Summit Strategic Alternatives Fund and SteelPeak Wealth, LLC",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12610/alpha-summit-strategic-alternatives-fund-and-steelpeak-wealth-llc",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_bff286859a52",
+      "estimateId": "e_e3e1e0730156",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Operating Limitations at New York LaGuardia Airport",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12592/operating-limitations-at-new-york-laguardia-airport",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_dee070405263",
+      "estimateId": "e_a102e0acf1f4",
+      "publisher": "ProPublica",
+      "title": "Have Your SNAP Benefits Ever Been Stolen? Help ProPublica Investigate.",
+      "url": "https://www.propublica.org/getinvolved/ebt-snap-theft-share-with-propublica",
+      "publishedAt": "2026-06-23",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_e1ff50abcc7e",
+      "estimateId": "e_7e6368bf418b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Request for Information: Shaping the Future of the Bureau of Transportation Statistics; Extension of Comment Period",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12605/request-for-information-shaping-the-future-of-the-bureau-of-transportation-statistics-extension-of",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e41ae6760e15",
+      "estimateId": "e_86d7db57e1ba",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activities: Requests for Comments; Clearance of a New Approval of Information Collection: Global Aircraft Maintenance Safety Improvements",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12606/agency-information-collection-activities-requests-for-comments-clearance-of-a-new-approval-of",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_ec3cda34c971",
+      "estimateId": "e_d8ad9931a4ae",
+      "publisher": "ProPublica",
+      "title": "Jury Finds Home Financing Scheme That Targeted Muslims in Minnesota Violated State Law",
+      "url": "https://www.propublica.org/article/minnesota-jury-predatory-home-financing-chadwick-banken-contract-for-deed",
+      "publishedAt": "2026-06-23",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_f88317121a89",
+      "estimateId": "e_c296b267c4bc",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Draft FY 2026-2030 Strategic Plan for the U.S. AbilityOne Commission",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12601/draft-fy-2026-2030-strategic-plan-for-the-us-abilityone-commission",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_fa94ff324575",
+      "estimateId": "e_f9c30c014ede",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Longshore and Harbor Workers' Compensation Act: Quality Standards for Hearing Loss Testing",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12644/longshore-and-harbor-workers-compensation-act-quality-standards-for-hearing-loss-testing",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_ffac6a2dd00d",
+      "estimateId": "e_4854a3ccb33e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Submission Deadline for Schedule Information for Chicago O'Hare International Airport, John F. Kennedy International Airport, Los Angeles International Airport, Newark Liberty International Airport, and San Francisco International Airport for the Winter 2026/2027 Scheduling Season",
+      "url": "https://www.federalregister.gov/documents/2026/06/23/2026-12603/notice-of-submission-deadline-for-schedule-information-for-chicago-ohare-international-airport-john",
+      "publishedAt": "2026-06-23",
+      "sourceType": "primary"
+    },
     {
       "id": "s_0111eae4e622",
       "estimateId": "e_050925749368",

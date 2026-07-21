@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-07-20",
-    "updatedAt": "2026-07-20T07:21:00.702Z",
+    "asOfDate": "2026-07-21",
+    "updatedAt": "2026-07-21T07:08:30.298Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,331 @@
     }
   ],
   "items": [
+    {
+      "id": "i_0250e52da6cc",
+      "type": "policy",
+      "title": "Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 38; 2027-28 Biennial Specifications and Management Measures",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_0a79988031c1",
+      "type": "policy",
+      "title": "Foreign-Trade Zone (FTZ) 202, Notification of Proposed Production Activity; PolyPeptide Laboratories Inc.; (Peptides); Torrance, California",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_1e0e0040711d",
+      "type": "policy",
+      "title": "Commission Information Collection Activities (FERC-725S); Comment Request; Extension",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_25f67b4b5e6e",
+      "type": "policy",
+      "title": "Combined Notice of Filings #2",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_331f9ffb70aa",
+      "type": "policy",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_3d2b3f1dbf23",
+      "type": "policy",
+      "title": "Combined Notice of Filings #1",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_4d68e4e9fdb1",
+      "type": "policy",
+      "title": "Electronic Delivery of Information Under the Federal Securities Laws",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_50b23a21cfed",
+      "type": "policy",
+      "title": "Approval of Subzone Status; Pratt & Whitney Engine Services, Inc.; Bridgeport, West Virginia",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_6c8dea2e7cc6",
+      "type": "policy",
+      "title": "Combined Notice of Filings",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_82f15bd528a6",
+      "type": "policy",
+      "title": "Notice of Agreements Filed",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_8eb384273eb0",
+      "type": "policy",
+      "title": "Small Business Investment Company (“SBIC”) Program: SBA Model Form of Agreement for Limited Partnership SBICs",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_98589d348372",
+      "type": "policy",
+      "title": "Order Sunsetting Certain Large Trader Reporting Requirements for Physical Commodity Swaps",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_a24f42b8de32",
+      "type": "policy",
+      "title": "PJM Governance and Stakeholder Reforms; Third Supplemental Notice of Commission-Led Technical Conference",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_bd772e00cafe",
+      "type": "policy",
+      "title": "Order Adopting Categorical Exclusions From Tennessee Valley Authority Under the National Environmental Policy Act Notice of Adoption of Categorical Exclusions Under the National Environmental Policy Act",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_be96fdfde261",
+      "type": "policy",
+      "title": "Receipt of Incidental Take Permit Application and Proposed Habitat Conservation Plan for Los Angeles County Sanitation Districts Joint Outfall J Unit 1E Trunk Sewer Rehabilitation Project, City of Rancho Palos Verdes, CA; Categorical Exclusion",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c520c15d3759",
+      "type": "policy",
+      "title": "USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill; Correction",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c7da7a3ca607",
+      "type": "policy",
+      "title": "ETC Tiger Pipeline, LLC; Notice of Application and Establishing Intervention Deadline",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d1a59dde7006",
+      "type": "policy",
+      "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e36ee7b50b58",
+      "type": "policy",
+      "title": "Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program; Correction",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e48186422fe5",
+      "type": "policy",
+      "title": "International Product Change-Priority Mail Express International, Priority Mail International & First-Class Package International Service Agreement",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_eeb019902a53",
+      "type": "policy",
+      "title": "Tennessee Gas Pipeline Company, L.L.C.; Notice of Scoping Period Requesting Comments on Environmental Issues for the Proposed South Texas Enhancement Project",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_eec5b614b76e",
+      "type": "policy",
+      "title": "General Technical, Organizational, Conforming, and Correcting Amendments to the Federal Motor Carrier Safety Regulations",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f1bf18447a41",
+      "type": "policy",
+      "title": "Pacific Fishery Management Council; Public Meeting",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f3c18c3b45a0",
+      "type": "policy",
+      "title": "Request for Comment: Commission Agenda and Priorities",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f9c6af79cb9b",
+      "type": "policy",
+      "title": "Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From North Carolina to Massachusetts",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-21",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_02667e129bba",
       "type": "policy",
@@ -186,10 +511,36 @@
       "status": "active"
     },
     {
+      "id": "i_86252f3b83bf",
+      "type": "event",
+      "title": "ProPublica: Children in This Church Were Sexually Abused. Then They Began Abusing Other Kids. Some Continued as Adults.",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-07-20",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
       "id": "i_8a721d059fa6",
       "type": "policy",
       "title": "Safety Zones; Delaware River Dredging, Marcus Hook, PA",
       "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-07-20",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_8ec58f893e7d",
+      "type": "event",
+      "title": "ProPublica: On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
       "date": "2026-07-20",
       "location": "United States",
       "topicIds": [],
@@ -29793,6 +30144,306 @@
   ],
   "estimates": [
     {
+      "id": "e_0717776841ba",
+      "itemId": "i_f3c18c3b45a0",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.118Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_0fc3da80ebf2",
+      "itemId": "i_a24f42b8de32",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.120Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_16ef8671856f",
+      "itemId": "i_c7da7a3ca607",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.121Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_1e3bd577f4be",
+      "itemId": "i_3d2b3f1dbf23",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.120Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_20f7006e84f0",
+      "itemId": "i_c520c15d3759",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.118Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_3169d0b57314",
+      "itemId": "i_25f67b4b5e6e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.121Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_352da47e424e",
+      "itemId": "i_f1bf18447a41",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.122Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_51ed05a7a453",
+      "itemId": "i_e48186422fe5",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.119Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5d9d7e4cdb90",
+      "itemId": "i_f9c6af79cb9b",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.118Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5e518d591e51",
+      "itemId": "i_4d68e4e9fdb1",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.123Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_7f41738dc658",
+      "itemId": "i_8eb384273eb0",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.119Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_96431f4f6939",
+      "itemId": "i_0250e52da6cc",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.119Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_a0eb6ed39403",
+      "itemId": "i_82f15bd528a6",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.123Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_addcb194bdc0",
+      "itemId": "i_331f9ffb70aa",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.118Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ae6402d837fd",
+      "itemId": "i_50b23a21cfed",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.120Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_af16ab42d873",
+      "itemId": "i_bd772e00cafe",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.122Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_af4c561e20e7",
+      "itemId": "i_d1a59dde7006",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.122Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_beefdfc437de",
+      "itemId": "i_e36ee7b50b58",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.116Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_bf628e5a7f99",
+      "itemId": "i_1e0e0040711d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.122Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_bfe8a77d4066",
+      "itemId": "i_98589d348372",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.115Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c3bc741d44b3",
+      "itemId": "i_6c8dea2e7cc6",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.121Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c82da2756fa9",
+      "itemId": "i_eec5b614b76e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.117Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_cd1c4cea7524",
+      "itemId": "i_0a79988031c1",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.120Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_cd95be0c7a0b",
+      "itemId": "i_eeb019902a53",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.121Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ed5e10ca7fde",
+      "itemId": "i_be96fdfde261",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-07-21",
+      "lastUpdatedAt": "2026-07-21T07:08:29.123Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_011b9fd751d5",
       "itemId": "i_e3a4f031dc43",
       "attributionType": "direct",
@@ -29826,6 +30477,18 @@
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-07-20",
       "lastUpdatedAt": "2026-07-20T07:20:59.434Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_1aea25354f3b",
+      "itemId": "i_86252f3b83bf",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-07-20",
+      "lastUpdatedAt": "2026-07-21T07:08:30.294Z",
       "supersedesEstimateId": null
     },
     {
@@ -29886,6 +30549,18 @@
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-07-20",
       "lastUpdatedAt": "2026-07-20T07:20:59.434Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_3c04cbe8b5fc",
+      "itemId": "i_8ec58f893e7d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-07-20",
+      "lastUpdatedAt": "2026-07-21T07:08:30.294Z",
       "supersedesEstimateId": null
     },
     {
@@ -30101,7 +30776,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-18",
-      "lastUpdatedAt": "2026-07-20T07:21:00.698Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.295Z",
       "supersedesEstimateId": null
     },
     {
@@ -30113,7 +30788,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-17",
-      "lastUpdatedAt": "2026-07-20T07:21:00.698Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.295Z",
       "supersedesEstimateId": null
     },
     {
@@ -30125,7 +30800,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-17",
-      "lastUpdatedAt": "2026-07-20T07:21:00.699Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.295Z",
       "supersedesEstimateId": null
     },
     {
@@ -30149,7 +30824,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-16",
-      "lastUpdatedAt": "2026-07-20T07:21:00.700Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.296Z",
       "supersedesEstimateId": null
     },
     {
@@ -30293,7 +30968,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-16",
-      "lastUpdatedAt": "2026-07-20T07:21:00.700Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.296Z",
       "supersedesEstimateId": null
     },
     {
@@ -30305,7 +30980,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-16",
-      "lastUpdatedAt": "2026-07-20T07:21:00.699Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.296Z",
       "supersedesEstimateId": null
     },
     {
@@ -30329,7 +31004,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-16",
-      "lastUpdatedAt": "2026-07-20T07:21:00.699Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.296Z",
       "supersedesEstimateId": null
     },
     {
@@ -30569,7 +31244,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-15",
-      "lastUpdatedAt": "2026-07-20T07:21:00.700Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.296Z",
       "supersedesEstimateId": null
     },
     {
@@ -30689,7 +31364,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-15",
-      "lastUpdatedAt": "2026-07-20T07:21:00.700Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.296Z",
       "supersedesEstimateId": null
     },
     {
@@ -30773,7 +31448,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-15",
-      "lastUpdatedAt": "2026-07-20T07:21:00.701Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.296Z",
       "supersedesEstimateId": null
     },
     {
@@ -30821,7 +31496,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-14",
-      "lastUpdatedAt": "2026-07-20T07:21:00.701Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.297Z",
       "supersedesEstimateId": null
     },
     {
@@ -30833,7 +31508,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-14",
-      "lastUpdatedAt": "2026-07-20T07:21:00.701Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.297Z",
       "supersedesEstimateId": null
     },
     {
@@ -31121,7 +31796,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-13",
-      "lastUpdatedAt": "2026-07-20T07:21:00.701Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.297Z",
       "supersedesEstimateId": null
     },
     {
@@ -31145,7 +31820,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-13",
-      "lastUpdatedAt": "2026-07-20T07:21:00.701Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.297Z",
       "supersedesEstimateId": null
     },
     {
@@ -31169,7 +31844,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-10",
-      "lastUpdatedAt": "2026-07-20T07:21:00.702Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.298Z",
       "supersedesEstimateId": null
     },
     {
@@ -31181,7 +31856,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-10",
-      "lastUpdatedAt": "2026-07-20T07:21:00.702Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.298Z",
       "supersedesEstimateId": null
     },
     {
@@ -31193,7 +31868,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-10",
-      "lastUpdatedAt": "2026-07-20T07:21:00.702Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.298Z",
       "supersedesEstimateId": null
     },
     {
@@ -31325,7 +32000,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-09",
-      "lastUpdatedAt": "2026-07-20T07:21:00.702Z",
+      "lastUpdatedAt": "2026-07-21T07:08:30.298Z",
       "supersedesEstimateId": null
     },
     {
@@ -57252,6 +57927,231 @@
   ],
   "sources": [
     {
+      "id": "s_0915476a0ae3",
+      "estimateId": "e_51ed05a7a453",
+      "publisher": "Federal Register",
+      "title": "Federal Register: International Product Change-Priority Mail Express International, Priority Mail International & First-Class Package International Service Agreement",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14695/international-product-change-priority-mail-express-international-priority-mail-international-and",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_0fa46476f1e7",
+      "estimateId": "e_0717776841ba",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Request for Comment: Commission Agenda and Priorities",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14700/request-for-comment-commission-agenda-and-priorities",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_10742ea0e487",
+      "estimateId": "e_cd1c4cea7524",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Foreign-Trade Zone (FTZ) 202, Notification of Proposed Production Activity; PolyPeptide Laboratories Inc.; (Peptides); Torrance, California",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14692/foreign-trade-zone-ftz-202-notification-of-proposed-production-activity-polypeptide-laboratories-inc",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_20f008f29016",
+      "estimateId": "e_addcb194bdc0",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14699/agency-information-collection-activities-proposed-collection-comment-request",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_28d6030c9c2f",
+      "estimateId": "e_c82da2756fa9",
+      "publisher": "Federal Register",
+      "title": "Federal Register: General Technical, Organizational, Conforming, and Correcting Amendments to the Federal Motor Carrier Safety Regulations",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14701/general-technical-organizational-conforming-and-correcting-amendments-to-the-federal-motor-carrier",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_37407a43de47",
+      "estimateId": "e_352da47e424e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Pacific Fishery Management Council; Public Meeting",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14682/pacific-fishery-management-council-public-meeting",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_375dac9ccb60",
+      "estimateId": "e_a0eb6ed39403",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Agreements Filed",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14678/notice-of-agreements-filed",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_3ce0a35a74c1",
+      "estimateId": "e_96431f4f6939",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 38; 2027-28 Biennial Specifications and Management Measures",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14694/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_3e39edaf73e9",
+      "estimateId": "e_16ef8671856f",
+      "publisher": "Federal Register",
+      "title": "Federal Register: ETC Tiger Pipeline, LLC; Notice of Application and Establishing Intervention Deadline",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14686/etc-tiger-pipeline-llc-notice-of-application-and-establishing-intervention-deadline",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_402b7fa05572",
+      "estimateId": "e_bf628e5a7f99",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Commission Information Collection Activities (FERC-725S); Comment Request; Extension",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14684/commission-information-collection-activities-ferc-725s-comment-request-extension",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_4495f3017f50",
+      "estimateId": "e_5d9d7e4cdb90",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From North Carolina to Massachusetts",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14697/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_468c441e1e86",
+      "estimateId": "e_1e3bd577f4be",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Combined Notice of Filings #1",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14690/combined-notice-of-filings-1",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_4940900722f4",
+      "estimateId": "e_bfe8a77d4066",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Order Sunsetting Certain Large Trader Reporting Requirements for Physical Commodity Swaps",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14710/order-sunsetting-certain-large-trader-reporting-requirements-for-physical-commodity-swaps",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_52a102d1aade",
+      "estimateId": "e_c3bc741d44b3",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Combined Notice of Filings",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14688/combined-notice-of-filings",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_55a423ec5e77",
+      "estimateId": "e_20f7006e84f0",
+      "publisher": "Federal Register",
+      "title": "Federal Register: USCIS Immigration Fees and Related Procedures Required by H.R.1 Reconciliation Bill; Correction",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14698/uscis-immigration-fees-and-related-procedures-required-by-hr1-reconciliation-bill-correction",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_61ad3f701fbd",
+      "estimateId": "e_af4c561e20e7",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14681/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_6b2fd9a41485",
+      "estimateId": "e_ed5e10ca7fde",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Receipt of Incidental Take Permit Application and Proposed Habitat Conservation Plan for Los Angeles County Sanitation Districts Joint Outfall J Unit 1E Trunk Sewer Rehabilitation Project, City of Rancho Palos Verdes, CA; Categorical Exclusion",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14680/receipt-of-incidental-take-permit-application-and-proposed-habitat-conservation-plan-for-los-angeles",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_7bf905c9e69e",
+      "estimateId": "e_cd95be0c7a0b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Tennessee Gas Pipeline Company, L.L.C.; Notice of Scoping Period Requesting Comments on Environmental Issues for the Proposed South Texas Enhancement Project",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14687/tennessee-gas-pipeline-company-llc-notice-of-scoping-period-requesting-comments-on-environmental",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a51823c84fcd",
+      "estimateId": "e_3169d0b57314",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Combined Notice of Filings #2",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14689/combined-notice-of-filings-2",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a5a544c78d06",
+      "estimateId": "e_0fc3da80ebf2",
+      "publisher": "Federal Register",
+      "title": "Federal Register: PJM Governance and Stakeholder Reforms; Third Supplemental Notice of Commission-Led Technical Conference",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14691/pjm-governance-and-stakeholder-reforms-third-supplemental-notice-of-commission-led-technical",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a652eb251655",
+      "estimateId": "e_af16ab42d873",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Order Adopting Categorical Exclusions From Tennessee Valley Authority Under the National Environmental Policy Act Notice of Adoption of Categorical Exclusions Under the National Environmental Policy Act",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14685/order-adopting-categorical-exclusions-from-tennessee-valley-authority-under-the-national",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_b2e26ff9c2e6",
+      "estimateId": "e_7f41738dc658",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Small Business Investment Company (“SBIC”) Program: SBA Model Form of Agreement for Limited Partnership SBICs",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14696/small-business-investment-company-sbic-program-sba-model-form-of-agreement-for-limited-partnership",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_bfe4907496e0",
+      "estimateId": "e_5e518d591e51",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Electronic Delivery of Information Under the Federal Securities Laws",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14679/electronic-delivery-of-information-under-the-federal-securities-laws",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_df4c90847f2f",
+      "estimateId": "e_ae6402d837fd",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Approval of Subzone Status; Pratt & Whitney Engine Services, Inc.; Bridgeport, West Virginia",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14693/approval-of-subzone-status-pratt-and-whitney-engine-services-inc-bridgeport-west-virginia",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_fce91d6afb8d",
+      "estimateId": "e_beefdfc437de",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Patient Protection and Affordable Care Act, HHS Notice of Benefit and Payment Parameters for 2027; and Basic Health Program; Correction",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14709/patient-protection-and-affordable-care-act-hhs-notice-of-benefit-and-payment-parameters-for-2027-and",
+      "publishedAt": "2026-07-21",
+      "sourceType": "primary"
+    },
+    {
       "id": "s_057693f4c3b7",
       "estimateId": "e_398c74c747da",
       "publisher": "Federal Register",
@@ -57360,6 +58260,15 @@
       "sourceType": "primary"
     },
     {
+      "id": "s_9d4b5dae6f9f",
+      "estimateId": "e_3c04cbe8b5fc",
+      "publisher": "ProPublica",
+      "title": "On This Nearly Deserted Alaska Island, You Pay to Keep Hundreds of Empty Buildings Wired for Internet",
+      "url": "https://www.propublica.org/article/adak-island-alaska-internet-subsidy-fcc",
+      "publishedAt": "2026-07-20",
+      "sourceType": "secondary"
+    },
+    {
       "id": "s_9d952482fa70",
       "estimateId": "e_2803317db32a",
       "publisher": "Federal Register",
@@ -57385,6 +58294,15 @@
       "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14602/lamb-meat-institution-of-investigation-scheduling-of-public-hearings-and-determination-that-the",
       "publishedAt": "2026-07-20",
       "sourceType": "primary"
+    },
+    {
+      "id": "s_be2636c19b30",
+      "estimateId": "e_1aea25354f3b",
+      "publisher": "ProPublica",
+      "title": "Children in This Church Were Sexually Abused. Then They Began Abusing Other Kids. Some Continued as Adults.",
+      "url": "https://www.propublica.org/article/old-apostolic-lutheran-church-child-sexual-assault-cycle-abuse",
+      "publishedAt": "2026-07-20",
+      "sourceType": "secondary"
     },
     {
       "id": "s_c2df73576336",

@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-07-31",
-    "updatedAt": "2026-07-31T07:15:00.763Z",
+    "asOfDate": "2026-08-01",
+    "updatedAt": "2026-08-01T07:05:48.054Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,357 @@
     }
   ],
   "items": [
+    {
+      "id": "i_0b25d0467a33",
+      "type": "policy",
+      "title": "Visas: Visa Bond Program",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_1d2ed61c4c46",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: Stanford University, Stanford, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_2b80503ad404",
+      "type": "policy",
+      "title": "Ventilation Plan Approval Criteria",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_35e7162b41ca",
+      "type": "policy",
+      "title": "High-Speed Train Noise Emission Standards",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_3ae95772db64",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: Museum of Ventura County, Ventura, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_4376a839e47f",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: Franklin County Historical Society, Ottawa, KS",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_462c0e7b9d5c",
+      "type": "policy",
+      "title": "Rescinding Portions of Department of the Treasury Title VI Regulations To Conform More Closely With the Statutory Text and To Implement an Executive Order",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_55d44c9eb47f",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: U.S. Army Corps of Engineers, St. Louis District, St. Louis, MO",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_574e3468fa6e",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: Archaeological Survey of Idaho Western Repository, Idaho State Historical Society, Boise, ID",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_5b2626d41450",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: Staten Island Institute of Arts and Sciences, Staten Island, NY",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_6d4de16bc9ea",
+      "type": "policy",
+      "title": "Foreign-Trade Zone 75; Application for Subzone Expansion; Intel Corporation; Chandler, Arizona",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_7eb9a93ef9f0",
+      "type": "policy",
+      "title": "Notice of Proposed Transfer or Reinterment: University of Wisconsin Oshkosh, Oshkosh, WI",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_8358f755550c",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: Michigan State University, East Lansing, MI",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_89efe8f557db",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_9359abd6a1dd",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: Denver Art Museum, Denver, CO",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_a949c576c3b2",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_acc8b6d84253",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: Lost City Museum, Overton, NV",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_af834e6cb49d",
+      "type": "policy",
+      "title": "Auction of Flexible-Use Licenses in the Upper C-Band for Next-Generation Wireless Services Scheduled for April 27, 2027; Comment Sought on Competitive Bidding Procedures for Auction 115",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_badef0091c22",
+      "type": "policy",
+      "title": "Sunshine Act; Open Commission Meeting Thursday, August 6, 2026",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c56b759e403e",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: Stanford University, Stanford, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_cbb3848d5d03",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: University of Kansas, Lawrence, KS, and University of Tennessee, Department of Anthropology, Knoxville, TN",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_ce14727528b9",
+      "type": "policy",
+      "title": "Tobacco Report: Notice of Request for an Extension of a Currently Approved Information Collection",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d336fb19e06a",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: University of Michigan, Ann Arbor, MI",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_ea2c844572c6",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: Stanford University, Stanford, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_ec840933e7ca",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: University of California, San Diego, San Diego, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_170639970154",
+      "type": "event",
+      "title": "ProPublica: As Trump’s Tariff War With Canada Drags On, This Border Community Suffers Without a Voice",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-07-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_5c1b2bf42fa8",
+      "type": "event",
+      "title": "ProPublica: For the Second Time, Lawmakers Failed to Fix California’s Warning System for Teacher Misconduct",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-07-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_018e76403c97",
       "type": "policy",
@@ -32562,6 +32913,330 @@
   ],
   "estimates": [
     {
+      "id": "e_0dae1d4d07cf",
+      "itemId": "i_4376a839e47f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.479Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_20bf4449b8ae",
+      "itemId": "i_ce14727528b9",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.479Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_227d97d4c637",
+      "itemId": "i_1d2ed61c4c46",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.482Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2b0d18591c3b",
+      "itemId": "i_cbb3848d5d03",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.481Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_357ba9060057",
+      "itemId": "i_acc8b6d84253",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.480Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_494f3985a210",
+      "itemId": "i_9359abd6a1dd",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.481Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_4ea48c9705ed",
+      "itemId": "i_badef0091c22",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.476Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5a5baf3a4fce",
+      "itemId": "i_a949c576c3b2",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.481Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_6475420d3e98",
+      "itemId": "i_c56b759e403e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.481Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_6b74a46b7746",
+      "itemId": "i_55d44c9eb47f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.480Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_78f1fbb49c5b",
+      "itemId": "i_89efe8f557db",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.481Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9619239a21e3",
+      "itemId": "i_35e7162b41ca",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.478Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_982a414f29c5",
+      "itemId": "i_574e3468fa6e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.480Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_98742a773a88",
+      "itemId": "i_462c0e7b9d5c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.479Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9dfa7161dd1d",
+      "itemId": "i_3ae95772db64",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.479Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ab8409130654",
+      "itemId": "i_2b80503ad404",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.479Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b1b7b9991f0f",
+      "itemId": "i_ea2c844572c6",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.482Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_bbbf78a9f158",
+      "itemId": "i_af834e6cb49d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.478Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c12c4c450c9f",
+      "itemId": "i_5b2626d41450",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.481Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ccaa29b8d79d",
+      "itemId": "i_8358f755550c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.480Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d0da1321c444",
+      "itemId": "i_7eb9a93ef9f0",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.480Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d84b9fb1f045",
+      "itemId": "i_d336fb19e06a",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.481Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e14e0926942a",
+      "itemId": "i_6d4de16bc9ea",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.479Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e70bcb0d06a6",
+      "itemId": "i_ec840933e7ca",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.480Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_f8e6d3ef0ead",
+      "itemId": "i_0b25d0467a33",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-03",
+      "lastUpdatedAt": "2026-08-01T07:05:46.478Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_3a6de76613de",
+      "itemId": "i_170639970154",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-07-31",
+      "lastUpdatedAt": "2026-08-01T07:05:48.050Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_f5f64855fb23",
+      "itemId": "i_5c1b2bf42fa8",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-07-31",
+      "lastUpdatedAt": "2026-08-01T07:05:48.049Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_077b6028a1a6",
       "itemId": "i_c534b94e516e",
       "attributionType": "direct",
@@ -32726,7 +33401,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-30",
-      "lastUpdatedAt": "2026-07-31T07:15:00.758Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.051Z",
       "supersedesEstimateId": null
     },
     {
@@ -32978,7 +33653,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-29",
-      "lastUpdatedAt": "2026-07-31T07:15:00.759Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.051Z",
       "supersedesEstimateId": null
     },
     {
@@ -33098,7 +33773,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-29",
-      "lastUpdatedAt": "2026-07-31T07:15:00.759Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.051Z",
       "supersedesEstimateId": null
     },
     {
@@ -33230,7 +33905,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-28",
-      "lastUpdatedAt": "2026-07-31T07:15:00.760Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.052Z",
       "supersedesEstimateId": null
     },
     {
@@ -33338,7 +34013,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-28",
-      "lastUpdatedAt": "2026-07-31T07:15:00.760Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.051Z",
       "supersedesEstimateId": null
     },
     {
@@ -33590,7 +34265,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-27",
-      "lastUpdatedAt": "2026-07-31T07:15:00.760Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.052Z",
       "supersedesEstimateId": null
     },
     {
@@ -33854,7 +34529,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-24",
-      "lastUpdatedAt": "2026-07-31T07:15:00.760Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.052Z",
       "supersedesEstimateId": null
     },
     {
@@ -34154,7 +34829,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-24",
-      "lastUpdatedAt": "2026-07-31T07:15:00.760Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.052Z",
       "supersedesEstimateId": null
     },
     {
@@ -34166,7 +34841,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-23",
-      "lastUpdatedAt": "2026-07-31T07:15:00.760Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.052Z",
       "supersedesEstimateId": null
     },
     {
@@ -34778,7 +35453,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-22",
-      "lastUpdatedAt": "2026-07-31T07:15:00.761Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.052Z",
       "supersedesEstimateId": null
     },
     {
@@ -35090,7 +35765,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-21",
-      "lastUpdatedAt": "2026-07-31T07:15:00.761Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.053Z",
       "supersedesEstimateId": null
     },
     {
@@ -35138,7 +35813,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-20",
-      "lastUpdatedAt": "2026-07-31T07:15:00.761Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.053Z",
       "supersedesEstimateId": null
     },
     {
@@ -35210,7 +35885,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-20",
-      "lastUpdatedAt": "2026-07-31T07:15:00.761Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.053Z",
       "supersedesEstimateId": null
     },
     {
@@ -35426,7 +36101,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-18",
-      "lastUpdatedAt": "2026-07-31T07:15:00.761Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.053Z",
       "supersedesEstimateId": null
     },
     {
@@ -35438,7 +36113,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-17",
-      "lastUpdatedAt": "2026-07-31T07:15:00.762Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.053Z",
       "supersedesEstimateId": null
     },
     {
@@ -35450,7 +36125,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-17",
-      "lastUpdatedAt": "2026-07-31T07:15:00.762Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.054Z",
       "supersedesEstimateId": null
     },
     {
@@ -35630,7 +36305,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-16",
-      "lastUpdatedAt": "2026-07-31T07:15:00.762Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.054Z",
       "supersedesEstimateId": null
     },
     {
@@ -35654,7 +36329,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-16",
-      "lastUpdatedAt": "2026-07-31T07:15:00.762Z",
+      "lastUpdatedAt": "2026-08-01T07:05:48.054Z",
       "supersedesEstimateId": null
     },
     {
@@ -62576,6 +63251,249 @@
     }
   ],
   "sources": [
+    {
+      "id": "s_046351e042e7",
+      "estimateId": "e_982a414f29c5",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: Archaeological Survey of Idaho Western Repository, Idaho State Historical Society, Boise, ID",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15711/notice-of-inventory-completion-archaeological-survey-of-idaho-western-repository-idaho-state",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_0dc698d1a2b4",
+      "estimateId": "e_ccaa29b8d79d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: Michigan State University, East Lansing, MI",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15713/notice-of-intended-repatriation-michigan-state-university-east-lansing-mi",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_0f0d470173df",
+      "estimateId": "e_e70bcb0d06a6",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: University of California, San Diego, San Diego, CA",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15710/notice-of-intended-repatriation-university-of-california-san-diego-san-diego-ca",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_0f2b2cab8219",
+      "estimateId": "e_78f1fbb49c5b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15706/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_1720b1f06eb8",
+      "estimateId": "e_6b74a46b7746",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: U.S. Army Corps of Engineers, St. Louis District, St. Louis, MO",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15712/notice-of-inventory-completion-us-army-corps-of-engineers-st-louis-district-st-louis-mo",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_1a46b108872c",
+      "estimateId": "e_6475420d3e98",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: Stanford University, Stanford, CA",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15701/notice-of-intended-repatriation-stanford-university-stanford-ca",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_1c8a1a8f2f3a",
+      "estimateId": "e_f8e6d3ef0ead",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Visas: Visa Bond Program",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_29fd766bff03",
+      "estimateId": "e_2b0d18591c3b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: University of Kansas, Lawrence, KS, and University of Tennessee, Department of Anthropology, Knoxville, TN",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15707/notice-of-inventory-completion-university-of-kansas-lawrence-ks-and-university-of-tennessee",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_2b70ed0832c0",
+      "estimateId": "e_227d97d4c637",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: Stanford University, Stanford, CA",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15699/notice-of-intended-repatriation-stanford-university-stanford-ca",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_3667a7499b36",
+      "estimateId": "e_d0da1321c444",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Proposed Transfer or Reinterment: University of Wisconsin Oshkosh, Oshkosh, WI",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15709/notice-of-proposed-transfer-or-reinterment-university-of-wisconsin-oshkosh-oshkosh-wi",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_3b056437a7bc",
+      "estimateId": "e_ab8409130654",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Ventilation Plan Approval Criteria",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15717/ventilation-plan-approval-criteria",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_43739cfaeba2",
+      "estimateId": "e_9619239a21e3",
+      "publisher": "Federal Register",
+      "title": "Federal Register: High-Speed Train Noise Emission Standards",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15724/high-speed-train-noise-emission-standards",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_530a5cfa3a3d",
+      "estimateId": "e_494f3985a210",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: Denver Art Museum, Denver, CO",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15704/notice-of-intended-repatriation-denver-art-museum-denver-co",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_72ef38af3a6d",
+      "estimateId": "e_5a5baf3a4fce",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15705/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_749e5b429e04",
+      "estimateId": "e_b1b7b9991f0f",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: Stanford University, Stanford, CA",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15700/notice-of-intended-repatriation-stanford-university-stanford-ca",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_8123303dae7b",
+      "estimateId": "e_d84b9fb1f045",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: University of Michigan, Ann Arbor, MI",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15703/notice-of-inventory-completion-university-of-michigan-ann-arbor-mi",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_883d13ed37ef",
+      "estimateId": "e_9dfa7161dd1d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: Museum of Ventura County, Ventura, CA",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15714/notice-of-intended-repatriation-museum-of-ventura-county-ventura-ca",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_928d0c498103",
+      "estimateId": "e_4ea48c9705ed",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Sunshine Act; Open Commission Meeting Thursday, August 6, 2026",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15733/sunshine-act-open-commission-meeting-thursday-august-6-2026",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_9355093585b0",
+      "estimateId": "e_bbbf78a9f158",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Auction of Flexible-Use Licenses in the Upper C-Band for Next-Generation Wireless Services Scheduled for April 27, 2027; Comment Sought on Competitive Bidding Procedures for Auction 115",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15725/auction-of-flexible-use-licenses-in-the-upper-c-band-for-next-generation-wireless-services-scheduled",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a3e1d2bb254d",
+      "estimateId": "e_98742a773a88",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Rescinding Portions of Department of the Treasury Title VI Regulations To Conform More Closely With the Statutory Text and To Implement an Executive Order",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15720/rescinding-portions-of-department-of-the-treasury-title-vi-regulations-to-conform-more-closely-with",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_b1a7c34e1cc6",
+      "estimateId": "e_20bf4449b8ae",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Tobacco Report: Notice of Request for an Extension of a Currently Approved Information Collection",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15718/tobacco-report-notice-of-request-for-an-extension-of-a-currently-approved-information-collection",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_b698503d7903",
+      "estimateId": "e_0dae1d4d07cf",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: Franklin County Historical Society, Ottawa, KS",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15715/notice-of-intended-repatriation-franklin-county-historical-society-ottawa-ks",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_ccdb0be901d7",
+      "estimateId": "e_e14e0926942a",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Foreign-Trade Zone 75; Application for Subzone Expansion; Intel Corporation; Chandler, Arizona",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15719/foreign-trade-zone-75-application-for-subzone-expansion-intel-corporation-chandler-arizona",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_ce5331d38c13",
+      "estimateId": "e_357ba9060057",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: Lost City Museum, Overton, NV",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15708/notice-of-inventory-completion-lost-city-museum-overton-nv",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_eb5146ae4f43",
+      "estimateId": "e_c12c4c450c9f",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: Staten Island Institute of Arts and Sciences, Staten Island, NY",
+      "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15702/notice-of-inventory-completion-staten-island-institute-of-arts-and-sciences-staten-island-ny",
+      "publishedAt": "2026-08-03",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_1a1ab21ef685",
+      "estimateId": "e_f5f64855fb23",
+      "publisher": "ProPublica",
+      "title": "For the Second Time, Lawmakers Failed to Fix California’s Warning System for Teacher Misconduct",
+      "url": "https://www.propublica.org/article/california-teacher-misconduct-database-bill-failed-al-muratsuchi",
+      "publishedAt": "2026-07-31",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_f1fd8fd19a2a",
+      "estimateId": "e_3a6de76613de",
+      "publisher": "ProPublica",
+      "title": "As Trump’s Tariff War With Canada Drags On, This Border Community Suffers Without a Voice",
+      "url": "https://www.propublica.org/article/trump-canada-tariffs-michigan-sault-ste-marie",
+      "publishedAt": "2026-07-31",
+      "sourceType": "secondary"
+    },
     {
       "id": "s_01a4cd983056",
       "estimateId": "e_b4f11f21be99",

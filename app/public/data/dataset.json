@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-08-11",
-    "updatedAt": "2026-08-11T07:33:29.299Z",
+    "asOfDate": "2026-08-12",
+    "updatedAt": "2026-08-12T07:49:05.046Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,344 @@
     }
   ],
   "items": [
+    {
+      "id": "i_221cf34570b4",
+      "type": "policy",
+      "title": "Wooden Bedroom Furniture From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_275145e71af2",
+      "type": "policy",
+      "title": "Issuance of Multiple Exemptions",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_2c48b1105e68",
+      "type": "policy",
+      "title": "Appellate Jurisdiction Update II",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_2d9395685b95",
+      "type": "policy",
+      "title": "Dauphin Island Gathering Partners; Notice of Application and Establishing Intervention Deadline",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_310765ac7cf8",
+      "type": "policy",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Steel Import License",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_34348387cfde",
+      "type": "policy",
+      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; New Information Collection; USAO-PR COMMUNITY OUTREACH REQUEST FORM Feedback Form Package",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_609e0a952830",
+      "type": "policy",
+      "title": "Government Owned Invention Available for License: MC38 B2m KO Cell Line",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_647d6301263d",
+      "type": "policy",
+      "title": "Special Local Regulation; Daugherty Creek, Crisfield, MD",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_6ec0f28bcc3e",
+      "type": "policy",
+      "title": "NIH Owned Invention Available for License: Drug-Regulatable, Inducible Expression of Membrane-Bound Interleukin 12 (DRIM-IL-12) for Use in Adoptive Cell Therapy",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_71ca84f8cccc",
+      "type": "policy",
+      "title": "Prospective Grant of an Exclusive Patent License: Development and Commercialization of BL-760 Dye for Intraoperative Fluorescence Imaging",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_9182e8951df8",
+      "type": "policy",
+      "title": "Government Owned Invention Available for License: Human Antibodies Targeting Beneficial Viral Peptide in Liver Cancer",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_9af66c31ce4f",
+      "type": "policy",
+      "title": "Government Owned Invention Available for License: DNA Methylation-Based Cancer Diagnostics for Accurate Tumor Classification",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_9ff0cc27475f",
+      "type": "policy",
+      "title": "Government Owned Invention Available for License: Quantitative Particle Identification (QPID) Digital Autoradiography System",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_ad06fd5fa34b",
+      "type": "policy",
+      "title": "Triton Power Company; Notice of Application Tendered for Filing With the Commission and Soliciting Additional Study Requests and Establishing Procedural Schedule for Relicensing and a Deadline for Submission of Final Amendments",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_af94709e6d73",
+      "type": "policy",
+      "title": "Mountain Valley Pipeline, LLC; Notice of Availability of the Environmental Assessment for the Proposed Mountain Valley Pipeline Boost Project",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_af9eec72361d",
+      "type": "policy",
+      "title": "Information Collection: Physical Protection of Category 1 and 2 Quantities of Radioactive Material",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c3a045991844",
+      "type": "policy",
+      "title": "Imposition of Import Restrictions on Categories of Archaeological and Ethnological Material of Nepal",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c68024fa22a6",
+      "type": "policy",
+      "title": "Government Owned Invention Available for License: Monoclonal Antibody (RO4) That Reacts With the Juxta-Membrane Region of Mesothelin",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d44a56f61cfe",
+      "type": "policy",
+      "title": "Special Local Regulation; Casco Bay, Flotilla To Fight Cancer, Long Island, ME",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d5f10bbea297",
+      "type": "policy",
+      "title": "UChicago Argonne LLC et al; Notice of Decision on Application for Duty-Free Entry of Scientific Instruments",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_db94735f8e57",
+      "type": "policy",
+      "title": "Pacific Northwest National Laboratory et al; Application(s) for Duty-Free Entry of Scientific Instruments",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e1e88e753c21",
+      "type": "policy",
+      "title": "NIH Owned Invention Available for License: Soluble Tissue Factor, a Novel Target, and Antibodies, for Diagnosis, Prevention and Treatment of Thrombosis and Related Conditions",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e5b630749e09",
+      "type": "policy",
+      "title": "Community Reinvestment Act Regulations",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f45811aea3bf",
+      "type": "policy",
+      "title": "Belt Railway Company of Chicago's Request To Amend Its Positive Train Control Safety Plan",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f67319854b0a",
+      "type": "policy",
+      "title": "International Product Change-Priority Mail Express International, Priority Mail International & First-Class Package International Service Agreement",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-12",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_35bf3b006f8d",
+      "type": "event",
+      "title": "ProPublica: Is There Anyone Who Can Respond to My FOIA Requests? Anyone?",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-08-11",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_0d413728cf5f",
       "type": "policy",
@@ -34031,6 +34369,318 @@
   ],
   "estimates": [
     {
+      "id": "e_002ce4f38ef5",
+      "itemId": "i_647d6301263d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.634Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2e100b3ac3c7",
+      "itemId": "i_c68024fa22a6",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.631Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_37544d01cc06",
+      "itemId": "i_d5f10bbea297",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.630Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_4a8fbc7b0a21",
+      "itemId": "i_d44a56f61cfe",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.633Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_4fa9958abe78",
+      "itemId": "i_e5b630749e09",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.629Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_539aa2ea0ae5",
+      "itemId": "i_9ff0cc27475f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.632Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_585e6d104517",
+      "itemId": "i_275145e71af2",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.633Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_59bdfaafe0aa",
+      "itemId": "i_e1e88e753c21",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.632Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5b7e0ea36afa",
+      "itemId": "i_310765ac7cf8",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.631Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_6f3b3f3e60f6",
+      "itemId": "i_9af66c31ce4f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.631Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_7c26046ab98e",
+      "itemId": "i_db94735f8e57",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.630Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_80b74c844ac2",
+      "itemId": "i_f45811aea3bf",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.633Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_851a46babe28",
+      "itemId": "i_2d9395685b95",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.632Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_95e650dc0324",
+      "itemId": "i_c3a045991844",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.633Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9606f24afba4",
+      "itemId": "i_af94709e6d73",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.632Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9d29d4e1f603",
+      "itemId": "i_609e0a952830",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.630Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9d5c983125dc",
+      "itemId": "i_221cf34570b4",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.630Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ac4ae1d78f8e",
+      "itemId": "i_f67319854b0a",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.634Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c14d1a1077d8",
+      "itemId": "i_71ca84f8cccc",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.631Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c26353a0173f",
+      "itemId": "i_ad06fd5fa34b",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.633Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c348db8d6b03",
+      "itemId": "i_6ec0f28bcc3e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.632Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_cf46af35946c",
+      "itemId": "i_af9eec72361d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.633Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e0396531ac54",
+      "itemId": "i_34348387cfde",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.632Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e14dfdfd6a9e",
+      "itemId": "i_9182e8951df8",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.631Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_edc0244f0922",
+      "itemId": "i_2c48b1105e68",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-12",
+      "lastUpdatedAt": "2026-08-12T07:49:03.627Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_1baa79c3a97b",
+      "itemId": "i_35bf3b006f8d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-08-11",
+      "lastUpdatedAt": "2026-08-12T07:49:05.040Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_0977eed43c50",
       "itemId": "i_92da7e157fe3",
       "attributionType": "direct",
@@ -34147,7 +34797,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-10",
-      "lastUpdatedAt": "2026-08-11T07:33:29.294Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.041Z",
       "supersedesEstimateId": null
     },
     {
@@ -34519,7 +35169,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-07",
-      "lastUpdatedAt": "2026-08-11T07:33:29.295Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.041Z",
       "supersedesEstimateId": null
     },
     {
@@ -34567,7 +35217,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-07",
-      "lastUpdatedAt": "2026-08-11T07:33:29.296Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.042Z",
       "supersedesEstimateId": null
     },
     {
@@ -34675,7 +35325,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-06",
-      "lastUpdatedAt": "2026-08-11T07:33:29.296Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.042Z",
       "supersedesEstimateId": null
     },
     {
@@ -34867,7 +35517,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-05",
-      "lastUpdatedAt": "2026-08-11T07:33:29.297Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.043Z",
       "supersedesEstimateId": null
     },
     {
@@ -34987,7 +35637,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-05",
-      "lastUpdatedAt": "2026-08-11T07:33:29.296Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.042Z",
       "supersedesEstimateId": null
     },
     {
@@ -35011,7 +35661,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-04",
-      "lastUpdatedAt": "2026-08-11T07:33:29.297Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.043Z",
       "supersedesEstimateId": null
     },
     {
@@ -35023,7 +35673,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-04",
-      "lastUpdatedAt": "2026-08-11T07:33:29.297Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.043Z",
       "supersedesEstimateId": null
     },
     {
@@ -35035,7 +35685,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-04",
-      "lastUpdatedAt": "2026-08-11T07:33:29.297Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.043Z",
       "supersedesEstimateId": null
     },
     {
@@ -35179,7 +35829,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-03",
-      "lastUpdatedAt": "2026-08-11T07:33:29.297Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.044Z",
       "supersedesEstimateId": null
     },
     {
@@ -35239,7 +35889,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-03",
-      "lastUpdatedAt": "2026-08-11T07:33:29.297Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.044Z",
       "supersedesEstimateId": null
     },
     {
@@ -35371,7 +36021,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-31",
-      "lastUpdatedAt": "2026-08-11T07:33:29.298Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.044Z",
       "supersedesEstimateId": null
     },
     {
@@ -35383,7 +36033,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-31",
-      "lastUpdatedAt": "2026-08-11T07:33:29.297Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.044Z",
       "supersedesEstimateId": null
     },
     {
@@ -35551,7 +36201,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-30",
-      "lastUpdatedAt": "2026-08-11T07:33:29.298Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.045Z",
       "supersedesEstimateId": null
     },
     {
@@ -35803,7 +36453,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-29",
-      "lastUpdatedAt": "2026-08-11T07:33:29.298Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.045Z",
       "supersedesEstimateId": null
     },
     {
@@ -35923,7 +36573,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-29",
-      "lastUpdatedAt": "2026-08-11T07:33:29.298Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.045Z",
       "supersedesEstimateId": null
     },
     {
@@ -36055,7 +36705,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-28",
-      "lastUpdatedAt": "2026-08-11T07:33:29.299Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.045Z",
       "supersedesEstimateId": null
     },
     {
@@ -36163,7 +36813,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-28",
-      "lastUpdatedAt": "2026-08-11T07:33:29.299Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.045Z",
       "supersedesEstimateId": null
     },
     {
@@ -36415,7 +37065,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-07-27",
-      "lastUpdatedAt": "2026-08-11T07:33:29.299Z",
+      "lastUpdatedAt": "2026-08-12T07:49:05.046Z",
       "supersedesEstimateId": null
     },
     {
@@ -65401,6 +66051,240 @@
     }
   ],
   "sources": [
+    {
+      "id": "s_28b098fc92b5",
+      "estimateId": "e_c14d1a1077d8",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Prospective Grant of an Exclusive Patent License: Development and Commercialization of BL-760 Dye for Intraoperative Fluorescence Imaging",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16444/prospective-grant-of-an-exclusive-patent-license-development-and-commercialization-of-bl-760-dye-for",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_29115897451e",
+      "estimateId": "e_37544d01cc06",
+      "publisher": "Federal Register",
+      "title": "Federal Register: UChicago Argonne LLC et al; Notice of Decision on Application for Duty-Free Entry of Scientific Instruments",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16448/uchicago-argonne-llc-et-al-notice-of-decision-on-application-for-duty-free-entry-of-scientific",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_2daaf2f32e3d",
+      "estimateId": "e_9606f24afba4",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Mountain Valley Pipeline, LLC; Notice of Availability of the Environmental Assessment for the Proposed Mountain Valley Pipeline Boost Project",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16435/mountain-valley-pipeline-llc-notice-of-availability-of-the-environmental-assessment-for-the-proposed",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_412d6bc8d271",
+      "estimateId": "e_851a46babe28",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Dauphin Island Gathering Partners; Notice of Application and Establishing Intervention Deadline",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16436/dauphin-island-gathering-partners-notice-of-application-and-establishing-intervention-deadline",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_414373a319a9",
+      "estimateId": "e_9d29d4e1f603",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Government Owned Invention Available for License: MC38 B2m KO Cell Line",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16449/government-owned-invention-available-for-license-mc38-b2m-ko-cell-line",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_47d5a318ff73",
+      "estimateId": "e_59bdfaafe0aa",
+      "publisher": "Federal Register",
+      "title": "Federal Register: NIH Owned Invention Available for License: Soluble Tissue Factor, a Novel Target, and Antibodies, for Diagnosis, Prevention and Treatment of Thrombosis and Related Conditions",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16440/nih-owned-invention-available-for-license-soluble-tissue-factor-a-novel-target-and-antibodies-for",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_5f5477254733",
+      "estimateId": "e_6f3b3f3e60f6",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Government Owned Invention Available for License: DNA Methylation-Based Cancer Diagnostics for Accurate Tumor Classification",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16441/government-owned-invention-available-for-license-dna-methylation-based-cancer-diagnostics-for",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_6f4a25ff6ada",
+      "estimateId": "e_c348db8d6b03",
+      "publisher": "Federal Register",
+      "title": "Federal Register: NIH Owned Invention Available for License: Drug-Regulatable, Inducible Expression of Membrane-Bound Interleukin 12 (DRIM-IL-12) for Use in Adoptive Cell Therapy",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16438/nih-owned-invention-available-for-license-drug-regulatable-inducible-expression-of-membrane-bound",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_757209ccd5d6",
+      "estimateId": "e_4a8fbc7b0a21",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Special Local Regulation; Casco Bay, Flotilla To Fight Cancer, Long Island, ME",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16428/special-local-regulation-casco-bay-flotilla-to-fight-cancer-long-island-me",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_7b8fa2aae822",
+      "estimateId": "e_539aa2ea0ae5",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Government Owned Invention Available for License: Quantitative Particle Identification (QPID) Digital Autoradiography System",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16439/government-owned-invention-available-for-license-quantitative-particle-identification-qpid-digital",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_901231bfd9b3",
+      "estimateId": "e_e0396531ac54",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activities; Proposed eCollection eComments Requested; New Information Collection; USAO-PR COMMUNITY OUTREACH REQUEST FORM Feedback Form Package",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16437/agency-information-collection-activities-proposed-ecollection-ecomments-requested-new-information",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_91d8e1fc4155",
+      "estimateId": "e_5b7e0ea36afa",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Steel Import License",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16445/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_9bda4a8bd79e",
+      "estimateId": "e_e14dfdfd6a9e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Government Owned Invention Available for License: Human Antibodies Targeting Beneficial Viral Peptide in Liver Cancer",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16442/government-owned-invention-available-for-license-human-antibodies-targeting-beneficial-viral-peptide",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_9dfee7f9f5f8",
+      "estimateId": "e_2e100b3ac3c7",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Government Owned Invention Available for License: Monoclonal Antibody (RO4) That Reacts With the Juxta-Membrane Region of Mesothelin",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16443/government-owned-invention-available-for-license-monoclonal-antibody-ro4-that-reacts-with-the",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a428593ebd3d",
+      "estimateId": "e_c26353a0173f",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Triton Power Company; Notice of Application Tendered for Filing With the Commission and Soliciting Additional Study Requests and Establishing Procedural Schedule for Relicensing and a Deadline for Submission of Final Amendments",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16431/triton-power-company-notice-of-application-tendered-for-filing-with-the-commission-and-soliciting",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a7a80e1946cc",
+      "estimateId": "e_9d5c983125dc",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Wooden Bedroom Furniture From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16446/wooden-bedroom-furniture-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_ad0ea15c34d0",
+      "estimateId": "e_ac4ae1d78f8e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: International Product Change-Priority Mail Express International, Priority Mail International & First-Class Package International Service Agreement",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16427/international-product-change-priority-mail-express-international-priority-mail-international-and",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_b3c290eef598",
+      "estimateId": "e_002ce4f38ef5",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Special Local Regulation; Daugherty Creek, Crisfield, MD",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16426/special-local-regulation-daugherty-creek-crisfield-md",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_bc616a844906",
+      "estimateId": "e_95e650dc0324",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Imposition of Import Restrictions on Categories of Archaeological and Ethnological Material of Nepal",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16432/imposition-of-import-restrictions-on-categories-of-archaeological-and-ethnological-material-of-nepal",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_c8597590a74d",
+      "estimateId": "e_edc0244f0922",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Appellate Jurisdiction Update II",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16456/appellate-jurisdiction-update-ii",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_d3e0f351f059",
+      "estimateId": "e_cf46af35946c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Information Collection: Physical Protection of Category 1 and 2 Quantities of Radioactive Material",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16433/information-collection-physical-protection-of-category-1-and-2-quantities-of-radioactive-material",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_daa39ebb6012",
+      "estimateId": "e_4fa9958abe78",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Community Reinvestment Act Regulations",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16454/community-reinvestment-act-regulations",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_de459721dca5",
+      "estimateId": "e_7c26046ab98e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Pacific Northwest National Laboratory et al; Application(s) for Duty-Free Entry of Scientific Instruments",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16447/pacific-northwest-national-laboratory-et-al-applications-for-duty-free-entry-of-scientific",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e80cf5d36937",
+      "estimateId": "e_585e6d104517",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Issuance of Multiple Exemptions",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16434/issuance-of-multiple-exemptions",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e8953cf302e2",
+      "estimateId": "e_80b74c844ac2",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Belt Railway Company of Chicago's Request To Amend Its Positive Train Control Safety Plan",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16430/belt-railway-company-of-chicagos-request-to-amend-its-positive-train-control-safety-plan",
+      "publishedAt": "2026-08-12",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_94d56c87164e",
+      "estimateId": "e_1baa79c3a97b",
+      "publisher": "ProPublica",
+      "title": "Is There Anyone Who Can Respond to My FOIA Requests? Anyone?",
+      "url": "https://www.propublica.org/article/foia-requests-responses",
+      "publishedAt": "2026-08-11",
+      "sourceType": "secondary"
+    },
     {
       "id": "s_0a966a2f6eba",
       "estimateId": "e_94e3efd968f7",

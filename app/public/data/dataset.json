@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-08-28",
-    "updatedAt": "2026-08-28T18:38:21.863Z",
+    "asOfDate": "2026-08-29",
+    "updatedAt": "2026-08-29T12:39:32.786Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,331 @@
     }
   ],
   "items": [
+    {
+      "id": "i_16007645dfcd",
+      "type": "policy",
+      "title": "Regulatory Relief From Locomotive Horn Sounding Pattern at Public Highway-Rail Grade Crossings",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_2fbe05fa6226",
+      "type": "policy",
+      "title": "Miscellaneous Amendments to FRA's Accident Reporting Regulations",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_4b2f1d61b3cf",
+      "type": "policy",
+      "title": "Regulatory Relief for End of Car Cushioning Units",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_52218e66ddcb",
+      "type": "policy",
+      "title": "[No title available]",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_60a1f7bb7ffd",
+      "type": "policy",
+      "title": "Petition for Exemption and Other Relief",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_726f34fb1b69",
+      "type": "policy",
+      "title": "Declaring a National Emergency To Secure the United States Bulk-Power System",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_760202659d94",
+      "type": "policy",
+      "title": "Expanding Certain Locomotive Wheel Set Diameter Variations",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_7662d17176e2",
+      "type": "policy",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_7e1882aa81f3",
+      "type": "policy",
+      "title": "Promoting Telehealth in Rural America",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_84d4de90788c",
+      "type": "policy",
+      "title": "Permitting Use of Computer-Based, Three-Dimensional Simulation for Periodic Refresher Training on Brake Systems",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_8b97bbde1e25",
+      "type": "policy",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_8c9ef268e5bb",
+      "type": "policy",
+      "title": "[No title available]",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_9230a4419bc9",
+      "type": "policy",
+      "title": "Fifth Anniversary of the Attack at Abbey Gate",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_9c20b6694014",
+      "type": "policy",
+      "title": "North Pacific Fishery Management Council; Public Meeting",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_aa75b9e1edf8",
+      "type": "policy",
+      "title": "Repealing Outdated Railroad Workplace Safety Requirements and Making Other Improvements",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c224b6bb55aa",
+      "type": "policy",
+      "title": "Repealing Special Approval Requirement for Freight Cars More Than 50 Years Old",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c58caa462deb",
+      "type": "policy",
+      "title": "Retiring Form FRA F 6180.107 and Form FRA F 6180.150",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c5e3b0f0d9af",
+      "type": "policy",
+      "title": "Amendments to Brake System Maintenance and Inspection Requirements",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_cab54f0f070c",
+      "type": "policy",
+      "title": "Further Ensuring Affordable Beef for the American Consumer",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e1032e235991",
+      "type": "policy",
+      "title": "Maximizing Efficiencies in Universal Service Administration",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e5ff14f0b2d7",
+      "type": "policy",
+      "title": "Section 898(c) Transition Rule for Allocating Foreign Taxes and Section 960(d)(4) Foreign Tax Credit Disallowance; Correction",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_eadce05701c7",
+      "type": "policy",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_ecc00eb93f3b",
+      "type": "policy",
+      "title": "Affirmative Asylum Referrals Without Interview",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_ef0e6a487b7b",
+      "type": "policy",
+      "title": "Consumer and Governmental Affairs Bureau Seeks To Dismiss Twenty-Four Mooted or Outdated Petitions",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f0c5477a40ed",
+      "type": "policy",
+      "title": "Enhancing Railroad Discretion in Sounding Locomotive Horns at Passenger Stations",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-08-31",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_0e58d694d2ba",
       "type": "policy",
@@ -37606,6 +37931,306 @@
   ],
   "estimates": [
     {
+      "id": "e_11114bde3145",
+      "itemId": "i_cab54f0f070c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.431Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_1e8215421d48",
+      "itemId": "i_4b2f1d61b3cf",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.434Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_1f2c3795f582",
+      "itemId": "i_726f34fb1b69",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.432Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_250bc62807ce",
+      "itemId": "i_eadce05701c7",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.435Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_44e491851857",
+      "itemId": "i_52218e66ddcb",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.432Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_58afa395b3e8",
+      "itemId": "i_e1032e235991",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.436Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5b0c1bdf5d7d",
+      "itemId": "i_8b97bbde1e25",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.435Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_672e71607cb2",
+      "itemId": "i_7662d17176e2",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.435Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_6e12100826ec",
+      "itemId": "i_760202659d94",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.433Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_70e55784527d",
+      "itemId": "i_9230a4419bc9",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.432Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_7822442da6f6",
+      "itemId": "i_aa75b9e1edf8",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.433Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_78be253cc7ee",
+      "itemId": "i_c58caa462deb",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.433Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_834635af611f",
+      "itemId": "i_ef0e6a487b7b",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.434Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_870548d03c2b",
+      "itemId": "i_e5ff14f0b2d7",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.435Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_938a5cea5755",
+      "itemId": "i_60a1f7bb7ffd",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.432Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9a2955969d1b",
+      "itemId": "i_8c9ef268e5bb",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.430Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_a01f92413cfe",
+      "itemId": "i_c224b6bb55aa",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.433Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c5c21ede23f4",
+      "itemId": "i_16007645dfcd",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.434Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c859c06e3ac6",
+      "itemId": "i_84d4de90788c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.433Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_cbd649e017ae",
+      "itemId": "i_9c20b6694014",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.435Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ce0c1886c0bf",
+      "itemId": "i_ecc00eb93f3b",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.432Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d12a4db3cd13",
+      "itemId": "i_2fbe05fa6226",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.433Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d668321c4b91",
+      "itemId": "i_7e1882aa81f3",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.435Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e5fccf87575b",
+      "itemId": "i_c5e3b0f0d9af",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.434Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_fa6bd36f7bfc",
+      "itemId": "i_f0c5477a40ed",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-08-31",
+      "lastUpdatedAt": "2026-08-29T12:39:31.434Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_06efb0e3c3e7",
       "itemId": "i_81981a9b7ccc",
       "attributionType": "direct",
@@ -37638,7 +38263,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-28",
-      "lastUpdatedAt": "2026-08-28T18:38:21.858Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.781Z",
       "supersedesEstimateId": null
     },
     {
@@ -37890,7 +38515,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-28",
-      "lastUpdatedAt": "2026-08-28T18:38:21.859Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.782Z",
       "supersedesEstimateId": null
     },
     {
@@ -38058,7 +38683,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-27",
-      "lastUpdatedAt": "2026-08-28T18:38:21.859Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.782Z",
       "supersedesEstimateId": null
     },
     {
@@ -38106,7 +38731,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-27",
-      "lastUpdatedAt": "2026-08-28T18:38:21.860Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.783Z",
       "supersedesEstimateId": null
     },
     {
@@ -38262,7 +38887,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-26",
-      "lastUpdatedAt": "2026-08-28T18:38:21.860Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.783Z",
       "supersedesEstimateId": null
     },
     {
@@ -38274,7 +38899,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-26",
-      "lastUpdatedAt": "2026-08-28T18:38:21.860Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.783Z",
       "supersedesEstimateId": null
     },
     {
@@ -38370,7 +38995,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-25",
-      "lastUpdatedAt": "2026-08-28T18:38:21.861Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.783Z",
       "supersedesEstimateId": null
     },
     {
@@ -38550,7 +39175,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-25",
-      "lastUpdatedAt": "2026-08-28T18:38:21.861Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.784Z",
       "supersedesEstimateId": null
     },
     {
@@ -38634,7 +39259,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-24",
-      "lastUpdatedAt": "2026-08-28T18:38:21.861Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.784Z",
       "supersedesEstimateId": null
     },
     {
@@ -38862,7 +39487,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-24",
-      "lastUpdatedAt": "2026-08-28T18:38:21.861Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.784Z",
       "supersedesEstimateId": null
     },
     {
@@ -38934,7 +39559,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-21",
-      "lastUpdatedAt": "2026-08-28T18:38:21.861Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.784Z",
       "supersedesEstimateId": null
     },
     {
@@ -38946,7 +39571,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-21",
-      "lastUpdatedAt": "2026-08-28T18:38:21.862Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.784Z",
       "supersedesEstimateId": null
     },
     {
@@ -39078,7 +39703,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-20",
-      "lastUpdatedAt": "2026-08-28T18:38:21.862Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.785Z",
       "supersedesEstimateId": null
     },
     {
@@ -39174,7 +39799,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-20",
-      "lastUpdatedAt": "2026-08-28T18:38:21.862Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.785Z",
       "supersedesEstimateId": null
     },
     {
@@ -39414,7 +40039,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-19",
-      "lastUpdatedAt": "2026-08-28T18:38:21.863Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.785Z",
       "supersedesEstimateId": null
     },
     {
@@ -39474,7 +40099,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-19",
-      "lastUpdatedAt": "2026-08-28T18:38:21.862Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.785Z",
       "supersedesEstimateId": null
     },
     {
@@ -39498,7 +40123,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-19",
-      "lastUpdatedAt": "2026-08-28T18:38:21.863Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.786Z",
       "supersedesEstimateId": null
     },
     {
@@ -39750,7 +40375,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-18",
-      "lastUpdatedAt": "2026-08-28T18:38:21.863Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.786Z",
       "supersedesEstimateId": null
     },
     {
@@ -39966,7 +40591,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-17",
-      "lastUpdatedAt": "2026-08-28T18:38:21.863Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.786Z",
       "supersedesEstimateId": null
     },
     {
@@ -40242,7 +40867,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-08-14",
-      "lastUpdatedAt": "2026-08-28T18:38:21.863Z",
+      "lastUpdatedAt": "2026-08-29T12:39:32.786Z",
       "supersedesEstimateId": null
     },
     {
@@ -72276,6 +72901,231 @@
     }
   ],
   "sources": [
+    {
+      "id": "s_01bcf74b823b",
+      "estimateId": "e_1f2c3795f582",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Declaring a National Emergency To Secure the United States Bulk-Power System",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17843/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_05ad2f92375e",
+      "estimateId": "e_fa6bd36f7bfc",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Enhancing Railroad Discretion in Sounding Locomotive Horns at Passenger Stations",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17786/enhancing-railroad-discretion-in-sounding-locomotive-horns-at-passenger-stations",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_0811e37dd5ca",
+      "estimateId": "e_672e71607cb2",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Information Collection Being Reviewed by the Federal Communications Commission",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17765/information-collection-being-reviewed-by-the-federal-communications-commission",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_18d11002c1cf",
+      "estimateId": "e_78be253cc7ee",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Retiring Form FRA F 6180.107 and Form FRA F 6180.150",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17790/retiring-form-fra-f-6180107-and-form-fra-f-6180150",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_222869c69eb6",
+      "estimateId": "e_7822442da6f6",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Repealing Outdated Railroad Workplace Safety Requirements and Making Other Improvements",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17789/repealing-outdated-railroad-workplace-safety-requirements-and-making-other-improvements",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_275258477e77",
+      "estimateId": "e_870548d03c2b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Section 898(c) Transition Rule for Allocating Foreign Taxes and Section 960(d)(4) Foreign Tax Credit Disallowance; Correction",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17764/section-898c-transition-rule-for-allocating-foreign-taxes-and-section-960d4-foreign-tax-credit",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_2901990d5aaa",
+      "estimateId": "e_6e12100826ec",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Expanding Certain Locomotive Wheel Set Diameter Variations",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17788/expanding-certain-locomotive-wheel-set-diameter-variations",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_3ae399e9b290",
+      "estimateId": "e_834635af611f",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Consumer and Governmental Affairs Bureau Seeks To Dismiss Twenty-Four Mooted or Outdated Petitions",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17774/consumer-and-governmental-affairs-bureau-seeks-to-dismiss-twenty-four-mooted-or-outdated-petitions",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_45f7612e5bf5",
+      "estimateId": "e_c859c06e3ac6",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Permitting Use of Computer-Based, Three-Dimensional Simulation for Periodic Refresher Training on Brake Systems",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17792/permitting-use-of-computer-based-three-dimensional-simulation-for-periodic-refresher-training-on",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_48edde033937",
+      "estimateId": "e_1e8215421d48",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Regulatory Relief for End of Car Cushioning Units",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17782/regulatory-relief-for-end-of-car-cushioning-units",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_50cc61dadbc6",
+      "estimateId": "e_44e491851857",
+      "publisher": "Federal Register",
+      "title": "Federal Register: [No title available]",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17842/no-title-available",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_5a5dfcc8b3b2",
+      "estimateId": "e_ce0c1886c0bf",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Affirmative Asylum Referrals Without Interview",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/C3-2026-15190/affirmative-asylum-referrals-without-interview",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_5fb19789a57a",
+      "estimateId": "e_938a5cea5755",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Petition for Exemption and Other Relief",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17800/petition-for-exemption-and-other-relief",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_6ce9aaef1e92",
+      "estimateId": "e_c5c21ede23f4",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Regulatory Relief From Locomotive Horn Sounding Pattern at Public Highway-Rail Grade Crossings",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17783/regulatory-relief-from-locomotive-horn-sounding-pattern-at-public-highway-rail-grade-crossings",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_6f1fe648642d",
+      "estimateId": "e_70e55784527d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Fifth Anniversary of the Attack at Abbey Gate",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17841/fifth-anniversary-of-the-attack-at-abbey-gate",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_6f23eee60078",
+      "estimateId": "e_cbd649e017ae",
+      "publisher": "Federal Register",
+      "title": "Federal Register: North Pacific Fishery Management Council; Public Meeting",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17762/north-pacific-fishery-management-council-public-meeting",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_7ebfb3f532c1",
+      "estimateId": "e_d668321c4b91",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Promoting Telehealth in Rural America",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17767/promoting-telehealth-in-rural-america",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_91c0d9084014",
+      "estimateId": "e_250bc62807ce",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17766/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_baa48050872c",
+      "estimateId": "e_11114bde3145",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Further Ensuring Affordable Beef for the American Consumer",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/X26-10831/further-ensuring-affordable-beef-for-the-american-consumer",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_baf0600b5875",
+      "estimateId": "e_9a2955969d1b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: [No title available]",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/X26-20831/no-title-available",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_bfa69bfd6ac0",
+      "estimateId": "e_e5fccf87575b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Amendments to Brake System Maintenance and Inspection Requirements",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17784/amendments-to-brake-system-maintenance-and-inspection-requirements",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_cbeff3d90b5a",
+      "estimateId": "e_a01f92413cfe",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Repealing Special Approval Requirement for Freight Cars More Than 50 Years Old",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17787/repealing-special-approval-requirement-for-freight-cars-more-than-50-years-old",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_dbb4699cb989",
+      "estimateId": "e_5b0c1bdf5d7d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Information Collection Being Reviewed by the Federal Communications Commission Under Delegated Authority",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17763/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e2966a6fad88",
+      "estimateId": "e_58afa395b3e8",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Maximizing Efficiencies in Universal Service Administration",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17761/maximizing-efficiencies-in-universal-service-administration",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e62e3ce0f25e",
+      "estimateId": "e_d12a4db3cd13",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Miscellaneous Amendments to FRA's Accident Reporting Regulations",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17791/miscellaneous-amendments-to-fras-accident-reporting-regulations",
+      "publishedAt": "2026-08-31",
+      "sourceType": "primary"
+    },
     {
       "id": "s_07df3f6aca1d",
       "estimateId": "e_06efb0e3c3e7",

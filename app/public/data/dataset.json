@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-09-14",
-    "updatedAt": "2026-09-14T12:40:43.045Z",
+    "asOfDate": "2026-09-15",
+    "updatedAt": "2026-09-15T11:40:12.428Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,357 @@
     }
   ],
   "items": [
+    {
+      "id": "i_1eab56fa2fd3",
+      "type": "policy",
+      "title": "Supplemental Nutrition Assistance Program: State of Utah SNAP Demonstration Project",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_1fb489816726",
+      "type": "policy",
+      "title": "Airworthiness Directives; MD Helicopters, LLC Helicopters",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_2fbd08fc5ce7",
+      "type": "policy",
+      "title": "Supplemental Nutrition Assistance Program: State of Louisiana SNAP Demonstration Project",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_3312b2fab242",
+      "type": "policy",
+      "title": "739th Meeting of the Advisory Committee on Reactor Safeguards (ACRS)",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_359eabeff846",
+      "type": "policy",
+      "title": "Recognition of Organizations and Individuals To Assist Veterans, Family Members, and Caregivers Navigating Programs and Services of Veterans Health Administration",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_4113886587e8",
+      "type": "policy",
+      "title": "Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2026 Area 2A Pacific Halibut Directed Commercial Fishery",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_4b3771702545",
+      "type": "event",
+      "title": "ProPublica: Underage Players, Predatory Moneylenders: 7 Findings From Our Dominican Baseball Investigation",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_4e77ac6846cb",
+      "type": "policy",
+      "title": "World Trade Center Health Program; Petition 048a-Peripheral Artery Disease; Finding of Insufficient Evidence",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_53b925d9cb3f",
+      "type": "policy",
+      "title": "Presidential Declaration of a Major Disaster for Public Assistance Only for the State of North Dakota",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_5568034ac5dc",
+      "type": "policy",
+      "title": "Amendment of Class E Airspace Over Pittsfield, ME",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_641048361b52",
+      "type": "policy",
+      "title": "Supplemental Nutrition Assistance Program: State of Idaho SNAP Demonstration Project",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_70621c96edfd",
+      "type": "policy",
+      "title": "Federal Employees Health Benefits Program: Optimizing FEHB Plan Offerings",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_9ea3252a424c",
+      "type": "policy",
+      "title": "Patriot Day 2026, the 25th Anniversary of the September 11 Terrorist Attacks",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_a2862121dec4",
+      "type": "event",
+      "title": "ProPublica: Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_acfbd33bd4b4",
+      "type": "policy",
+      "title": "Amendment of Class D and Class E Airspace Over Hyannis, MA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_ae4fc25d3814",
+      "type": "policy",
+      "title": "Notice of OFAC Sanctions Action",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_b6e9597ddd1d",
+      "type": "policy",
+      "title": "Supplemental Nutrition Assistance Program: State of Kansas SNAP Demonstration Project",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c1ef8297c1ca",
+      "type": "policy",
+      "title": "Supplemental Nutrition Assistance Program: State of Oklahoma SNAP Demonstration Project",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c30222066184",
+      "type": "policy",
+      "title": "Supplemental Nutrition Assistance Program: State of Ohio SNAP Demonstration Project",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c50a4584f184",
+      "type": "policy",
+      "title": "World Trade Center Health Program; Petitions 048 and 051a-Stroke; Finding of Insufficient Evidence",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c7c9e381942d",
+      "type": "policy",
+      "title": "Supplemental Nutrition Assistance Program: State of Hawaii SNAP Demonstration Project",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d04aa2586740",
+      "type": "policy",
+      "title": "Order Granting Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934, From Inline XBRL Requirements for Portions of Form CA-1 and Form 1 and for Form X-17A-5 Part III, Form 17-H, and Security-Based Swap Entity's Annual Compliance Report",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d20f78b0e74a",
+      "type": "policy",
+      "title": "Steel Concrete Reinforcing Bar From Bulgaria, Egypt, and Vietnam; Determinations",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_dce806e39dac",
+      "type": "policy",
+      "title": "Supplemental Nutrition Assistance Program: State of Montana SNAP Demonstration Project",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_ef04ef0abf85",
+      "type": "policy",
+      "title": "Promoting Employee Accountability",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f522c86669d3",
+      "type": "policy",
+      "title": "Supplemental Nutrition Assistance Program: State of Indiana SNAP Demonstration Project",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f8fe01c60872",
+      "type": "policy",
+      "title": "Supplemental Nutrition Assistance Program: State of South Carolina SNAP Demonstration Project",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-09-15",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_0c72bd0599be",
       "type": "policy",
@@ -41220,6 +41571,330 @@
   ],
   "estimates": [
     {
+      "id": "e_01ce76a0d17e",
+      "itemId": "i_dce806e39dac",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.551Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_096280ba322d",
+      "itemId": "i_c50a4584f184",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.549Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_19521e38dc94",
+      "itemId": "i_359eabeff846",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.549Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_299d2378800c",
+      "itemId": "i_53b925d9cb3f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.549Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_29fb09bd3a6e",
+      "itemId": "i_3312b2fab242",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.550Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_35f46910cc24",
+      "itemId": "i_2fbd08fc5ce7",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.550Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_3c9c16752103",
+      "itemId": "i_641048361b52",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.551Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_45f250b582e1",
+      "itemId": "i_c30222066184",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.550Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5afd22c9e293",
+      "itemId": "i_d04aa2586740",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.549Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_6c657e24c388",
+      "itemId": "i_1eab56fa2fd3",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.551Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_79d6570a9ee9",
+      "itemId": "i_1fb489816726",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.548Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_7a109df88d48",
+      "itemId": "i_4113886587e8",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.548Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_7a792a6b0e80",
+      "itemId": "i_c1ef8297c1ca",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.551Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_8c29b1a86a1c",
+      "itemId": "i_a2862121dec4",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:12.424Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_90db0c23a227",
+      "itemId": "i_4e77ac6846cb",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.549Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9f9ddb2231ac",
+      "itemId": "i_4b3771702545",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:12.425Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_a3c2524a3971",
+      "itemId": "i_b6e9597ddd1d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.551Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ab3c4a2912f4",
+      "itemId": "i_ef04ef0abf85",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.548Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b6cff8b2a38d",
+      "itemId": "i_9ea3252a424c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.546Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_bc64bd82b676",
+      "itemId": "i_ae4fc25d3814",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.549Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_cc6384c93473",
+      "itemId": "i_f8fe01c60872",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.550Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e74d945a894d",
+      "itemId": "i_70621c96edfd",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.547Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e8e67ee6694b",
+      "itemId": "i_d20f78b0e74a",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.549Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e8efe601905e",
+      "itemId": "i_5568034ac5dc",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.550Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e96abda89f31",
+      "itemId": "i_c7c9e381942d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.551Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_fa1be19d4bd8",
+      "itemId": "i_f522c86669d3",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.550Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ffc59373d4af",
+      "itemId": "i_acfbd33bd4b4",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-09-15",
+      "lastUpdatedAt": "2026-09-15T11:40:10.549Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_0bbc4620b399",
       "itemId": "i_6e20a3ab5307",
       "attributionType": "direct",
@@ -41372,7 +42047,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-14",
-      "lastUpdatedAt": "2026-09-14T12:40:43.039Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.425Z",
       "supersedesEstimateId": null
     },
     {
@@ -41564,7 +42239,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-11",
-      "lastUpdatedAt": "2026-09-14T12:40:43.040Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.426Z",
       "supersedesEstimateId": null
     },
     {
@@ -41672,7 +42347,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-11",
-      "lastUpdatedAt": "2026-09-14T12:40:43.041Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.426Z",
       "supersedesEstimateId": null
     },
     {
@@ -41948,7 +42623,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-10",
-      "lastUpdatedAt": "2026-09-14T12:40:43.041Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.426Z",
       "supersedesEstimateId": null
     },
     {
@@ -42044,7 +42719,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-10",
-      "lastUpdatedAt": "2026-09-14T12:40:43.041Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.426Z",
       "supersedesEstimateId": null
     },
     {
@@ -42056,7 +42731,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-10",
-      "lastUpdatedAt": "2026-09-14T12:40:43.042Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.426Z",
       "supersedesEstimateId": null
     },
     {
@@ -42080,7 +42755,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-10",
-      "lastUpdatedAt": "2026-09-14T12:40:43.042Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.426Z",
       "supersedesEstimateId": null
     },
     {
@@ -42152,7 +42827,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-10",
-      "lastUpdatedAt": "2026-09-14T12:40:43.042Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.427Z",
       "supersedesEstimateId": null
     },
     {
@@ -42212,7 +42887,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-10",
-      "lastUpdatedAt": "2026-09-14T12:40:43.042Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.426Z",
       "supersedesEstimateId": null
     },
     {
@@ -42284,7 +42959,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-09",
-      "lastUpdatedAt": "2026-09-14T12:40:43.042Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.427Z",
       "supersedesEstimateId": null
     },
     {
@@ -42512,7 +43187,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-09",
-      "lastUpdatedAt": "2026-09-14T12:40:43.043Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.427Z",
       "supersedesEstimateId": null
     },
     {
@@ -42824,7 +43499,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-08",
-      "lastUpdatedAt": "2026-09-14T12:40:43.043Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.427Z",
       "supersedesEstimateId": null
     },
     {
@@ -42956,7 +43631,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-04",
-      "lastUpdatedAt": "2026-09-14T12:40:43.043Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.427Z",
       "supersedesEstimateId": null
     },
     {
@@ -43088,7 +43763,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-04",
-      "lastUpdatedAt": "2026-09-14T12:40:43.044Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.427Z",
       "supersedesEstimateId": null
     },
     {
@@ -43256,7 +43931,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-03",
-      "lastUpdatedAt": "2026-09-14T12:40:43.044Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.427Z",
       "supersedesEstimateId": null
     },
     {
@@ -43268,7 +43943,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-03",
-      "lastUpdatedAt": "2026-09-14T12:40:43.044Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.427Z",
       "supersedesEstimateId": null
     },
     {
@@ -43664,7 +44339,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-02",
-      "lastUpdatedAt": "2026-09-14T12:40:43.044Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.428Z",
       "supersedesEstimateId": null
     },
     {
@@ -43748,7 +44423,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-02",
-      "lastUpdatedAt": "2026-09-14T12:40:43.045Z",
+      "lastUpdatedAt": "2026-09-15T11:40:12.428Z",
       "supersedesEstimateId": null
     },
     {
@@ -79226,6 +79901,249 @@
     }
   ],
   "sources": [
+    {
+      "id": "s_1a9d594e8324",
+      "estimateId": "e_7a109df88d48",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2026 Area 2A Pacific Halibut Directed Commercial Fishery",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18911/pacific-halibut-fisheries-of-the-west-coast-inseason-action-for-the-2026-area-2a-pacific-halibut",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_324762ec28b2",
+      "estimateId": "e_45f250b582e1",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Supplemental Nutrition Assistance Program: State of Ohio SNAP Demonstration Project",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18897/supplemental-nutrition-assistance-program-state-of-ohio-snap-demonstration-project",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_3e0d6a4dd796",
+      "estimateId": "e_e74d945a894d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Federal Employees Health Benefits Program: Optimizing FEHB Plan Offerings",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18944/federal-employees-health-benefits-program-optimizing-fehb-plan-offerings",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_4789af8ae67c",
+      "estimateId": "e_8c29b1a86a1c",
+      "publisher": "ProPublica",
+      "title": "Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser",
+      "url": "https://www.propublica.org/article/thomas-dans-arctic-research-commission-trump-russia-propaganda",
+      "publishedAt": "2026-09-15",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_5a17894ac2b3",
+      "estimateId": "e_3c9c16752103",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Supplemental Nutrition Assistance Program: State of Idaho SNAP Demonstration Project",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18889/supplemental-nutrition-assistance-program-state-of-idaho-snap-demonstration-project",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_5bb97cfcb662",
+      "estimateId": "e_cc6384c93473",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Supplemental Nutrition Assistance Program: State of South Carolina SNAP Demonstration Project",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18896/supplemental-nutrition-assistance-program-state-of-south-carolina-snap-demonstration-project",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_5d0dba1c199c",
+      "estimateId": "e_096280ba322d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: World Trade Center Health Program; Petitions 048 and 051a-Stroke; Finding of Insufficient Evidence",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18900/world-trade-center-health-program-petitions-048-and-051a-stroke-finding-of-insufficient-evidence",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_763e67c8a932",
+      "estimateId": "e_9f9ddb2231ac",
+      "publisher": "ProPublica",
+      "title": "Underage Players, Predatory Moneylenders: 7 Findings From Our Dominican Baseball Investigation",
+      "url": "https://www.propublica.org/article/dominican-republic-baseball-major-league-takeaways",
+      "publishedAt": "2026-09-15",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_854e16a7bd9e",
+      "estimateId": "e_e8efe601905e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Amendment of Class E Airspace Over Pittsfield, ME",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18899/amendment-of-class-e-airspace-over-pittsfield-me",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_85fe456dcd61",
+      "estimateId": "e_ab3c4a2912f4",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Promoting Employee Accountability",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18943/promoting-employee-accountability",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_8803517b5ea9",
+      "estimateId": "e_79d6570a9ee9",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Airworthiness Directives; MD Helicopters, LLC Helicopters",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18927/airworthiness-directives-md-helicopters-llc-helicopters",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_8cce9bd13525",
+      "estimateId": "e_a3c2524a3971",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Supplemental Nutrition Assistance Program: State of Kansas SNAP Demonstration Project",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18890/supplemental-nutrition-assistance-program-state-of-kansas-snap-demonstration-project",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_8d83ad81704a",
+      "estimateId": "e_b6cff8b2a38d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Patriot Day 2026, the 25th Anniversary of the September 11 Terrorist Attacks",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18959/patriot-day-2026-the-25th-anniversary-of-the-september-11-terrorist-attacks",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_971576ac17d1",
+      "estimateId": "e_e96abda89f31",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Supplemental Nutrition Assistance Program: State of Hawaii SNAP Demonstration Project",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18888/supplemental-nutrition-assistance-program-state-of-hawaii-snap-demonstration-project",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a51c339b68d3",
+      "estimateId": "e_ffc59373d4af",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Amendment of Class D and Class E Airspace Over Hyannis, MA",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18902/amendment-of-class-d-and-class-e-airspace-over-hyannis-ma",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a8c7f45b502e",
+      "estimateId": "e_bc64bd82b676",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of OFAC Sanctions Action",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18909/notice-of-ofac-sanctions-action",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_aa5d6a05226f",
+      "estimateId": "e_29fb09bd3a6e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: 739th Meeting of the Advisory Committee on Reactor Safeguards (ACRS)",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18898/739th-meeting-of-the-advisory-committee-on-reactor-safeguards-acrs",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_b14ea2b16a90",
+      "estimateId": "e_fa1be19d4bd8",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Supplemental Nutrition Assistance Program: State of Indiana SNAP Demonstration Project",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18894/supplemental-nutrition-assistance-program-state-of-indiana-snap-demonstration-project",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_b4111045aebd",
+      "estimateId": "e_01ce76a0d17e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Supplemental Nutrition Assistance Program: State of Montana SNAP Demonstration Project",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18892/supplemental-nutrition-assistance-program-state-of-montana-snap-demonstration-project",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_be087615504a",
+      "estimateId": "e_299d2378800c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Presidential Declaration of a Major Disaster for Public Assistance Only for the State of North Dakota",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18907/presidential-declaration-of-a-major-disaster-for-public-assistance-only-for-the-state-of-north",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_c1970ea1a40f",
+      "estimateId": "e_6c657e24c388",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Supplemental Nutrition Assistance Program: State of Utah SNAP Demonstration Project",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18893/supplemental-nutrition-assistance-program-state-of-utah-snap-demonstration-project",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_c2871bd8ab8e",
+      "estimateId": "e_5afd22c9e293",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Order Granting Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934, From Inline XBRL Requirements for Portions of Form CA-1 and Form 1 and for Form X-17A-5 Part III, Form 17-H, and Security-Based Swap Entity's Annual Compliance Report",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18905/order-granting-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act-of-1934-from",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_c72e87de2a4e",
+      "estimateId": "e_7a792a6b0e80",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Supplemental Nutrition Assistance Program: State of Oklahoma SNAP Demonstration Project",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18891/supplemental-nutrition-assistance-program-state-of-oklahoma-snap-demonstration-project",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_c77a71a51363",
+      "estimateId": "e_e8e67ee6694b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Steel Concrete Reinforcing Bar From Bulgaria, Egypt, and Vietnam; Determinations",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18903/steel-concrete-reinforcing-bar-from-bulgaria-egypt-and-vietnam-determinations",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_ce98ea0bcba3",
+      "estimateId": "e_90db0c23a227",
+      "publisher": "Federal Register",
+      "title": "Federal Register: World Trade Center Health Program; Petition 048a-Peripheral Artery Disease; Finding of Insufficient Evidence",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18901/world-trade-center-health-program-petition-048a-peripheral-artery-disease-finding-of-insufficient",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e715aa3e2f6b",
+      "estimateId": "e_19521e38dc94",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Recognition of Organizations and Individuals To Assist Veterans, Family Members, and Caregivers Navigating Programs and Services of Veterans Health Administration",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18904/recognition-of-organizations-and-individuals-to-assist-veterans-family-members-and-caregivers",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_ef52c37040b2",
+      "estimateId": "e_35f46910cc24",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Supplemental Nutrition Assistance Program: State of Louisiana SNAP Demonstration Project",
+      "url": "https://www.federalregister.gov/documents/2026/09/15/2026-18895/supplemental-nutrition-assistance-program-state-of-louisiana-snap-demonstration-project",
+      "publishedAt": "2026-09-15",
+      "sourceType": "primary"
+    },
     {
       "id": "s_06469c9c11f9",
       "estimateId": "e_49db6cb357b2",

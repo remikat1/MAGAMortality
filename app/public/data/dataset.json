@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-10-02",
-    "updatedAt": "2026-10-02T12:28:25.673Z",
+    "asOfDate": "2026-10-03",
+    "updatedAt": "2026-10-03T11:35:37.438Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,344 @@
     }
   ],
   "items": [
+    {
+      "id": "i_02297c39be22",
+      "type": "policy",
+      "title": "Proposal of Special Measure Prohibiting the Transmittal of Funds Regarding Transactions Involving the A7 Network's Sub-Agents",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_157e149425e4",
+      "type": "policy",
+      "title": "Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-184, and Revocation of V-284 and V-577; Eastern United States",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_1b480b3ffa43",
+      "type": "policy",
+      "title": "Large Diameter Welded Pipe From the Republic of Türkiye: Final Results of Antidumping Duty Administrative Review; 2024-2025; Correction",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_2812c09371da",
+      "type": "policy",
+      "title": "Lightning Hazard Mitigation Burden-Reducing Exception",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_2ad62179ed8f",
+      "type": "policy",
+      "title": "Center for Scientific Review; Amended Notice of Meeting",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_359cfb2256d6",
+      "type": "policy",
+      "title": "Advisory Council on Alzheimer's Research, Care, and Services; Meeting",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_3b15653b63cd",
+      "type": "policy",
+      "title": "Airworthiness Directives; DG Aviation GmbH (Type Certificate Previously Held by DG Flugzeugbau GmbH) Gliders",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_3d5f251e052c",
+      "type": "policy",
+      "title": "Interest Rate Paid on Cash Deposited To Secure U.S. Immigration and Customs Enforcement Immigration Bonds",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_3df61e48abf3",
+      "type": "policy",
+      "title": "Certain Potassium Phosphate Salts From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Countervailing Duty Order",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_4328b398e0aa",
+      "type": "policy",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_53f17689256e",
+      "type": "policy",
+      "title": "Passenger Vehicle and Light Truck Tires From the Socialist Republic of Vietnam: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_5596a99d54f5",
+      "type": "policy",
+      "title": "Section 3 Benchmarks for Creating Economic Opportunities for Low- and Very Low-Income Persons and Eligible Businesses",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_5dd4debaa5bb",
+      "type": "policy",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_700216cbd5e2",
+      "type": "policy",
+      "title": "Certain Cut-to-Length Carbon Steel Plate From the People's Republic of China and the Russian Federation: Final Results of the Expedited Fifth Sunset Reviews of the Antidumping Duty Orders",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_7e67101cd9ec",
+      "type": "policy",
+      "title": "Simplifying Physical Containment Requirements",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_7f1b3cd82826",
+      "type": "policy",
+      "title": "Mattresses From Poland: Preliminary Intent To Rescind Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_8bc764fc4e79",
+      "type": "policy",
+      "title": "Melamine From the People's Republic of China: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_8d516dce492b",
+      "type": "policy",
+      "title": "Digital Modernization for Licensing Electronic Application Submissions",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_929bad60153e",
+      "type": "policy",
+      "title": "Methionine From France, Japan, and Spain: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_a52a0106399f",
+      "type": "policy",
+      "title": "Presidential Determination on the Revocation of Presidential Determinations Related to Lebanon",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_b6548b8cfa42",
+      "type": "policy",
+      "title": "Oil Country Tubular Goods From Ukraine: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_cf8c33282afd",
+      "type": "policy",
+      "title": "Airworthiness Directives; Airbus Helicopters",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_dd0c06d282fe",
+      "type": "policy",
+      "title": "Overpressure Blast Effects Analysis Burden Reducing Clarification",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e2e42cdbf7d4",
+      "type": "policy",
+      "title": "Streamlining Flight Safety Analysis Methodology Means of Compliance",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_faa39e5a0645",
+      "type": "policy",
+      "title": "Potassium Phosphate Salts From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-10-05",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_1b3ec972ae91",
+      "type": "event",
+      "title": "ProPublica: Watch: We Uncovered Bribery Allegations Involving Susan Collins",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-10-03",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_09f50672b6cc",
       "type": "policy",
@@ -552,7 +890,7 @@
     {
       "id": "i_8874a97ba6ab",
       "type": "event",
-      "title": "ProPublica: Texas’ Education Board Raised Questions About an AI Learning Tool. The State Then Helped Pilot It in Public Schools.",
+      "title": "ProPublica: How Texas Helped a Private School Chain’s AI Tool Get Into Public School Classrooms",
       "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
       "date": "2026-10-01",
       "location": "United States",
@@ -45510,6 +45848,318 @@
   ],
   "estimates": [
     {
+      "id": "e_075665b83db6",
+      "itemId": "i_7f1b3cd82826",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.516Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_19e84357054a",
+      "itemId": "i_3b15653b63cd",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.515Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2492e0ac7b9c",
+      "itemId": "i_b6548b8cfa42",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.517Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2db777bba7a7",
+      "itemId": "i_5dd4debaa5bb",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.515Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_3b3c4498d6d3",
+      "itemId": "i_929bad60153e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.516Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_4a59bf69b3d2",
+      "itemId": "i_a52a0106399f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.513Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_579a630fa654",
+      "itemId": "i_1b480b3ffa43",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.516Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5d044faa9325",
+      "itemId": "i_2812c09371da",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.515Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_6775e58b6ba2",
+      "itemId": "i_e2e42cdbf7d4",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.516Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_7c3f3e11648a",
+      "itemId": "i_cf8c33282afd",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.515Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_7fb572dc2fa3",
+      "itemId": "i_53f17689256e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.517Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_85656bd9bf0f",
+      "itemId": "i_2ad62179ed8f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.518Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_8bbbe6948b5e",
+      "itemId": "i_dd0c06d282fe",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.515Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9c2539eb2679",
+      "itemId": "i_3d5f251e052c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.517Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9e242c276b45",
+      "itemId": "i_02297c39be22",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.517Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9e5562af2307",
+      "itemId": "i_359cfb2256d6",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.516Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_a4a845baac7b",
+      "itemId": "i_8bc764fc4e79",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.516Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_a7caf1e458cd",
+      "itemId": "i_5596a99d54f5",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.517Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b650665502a0",
+      "itemId": "i_157e149425e4",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.517Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d19c6e30a4d8",
+      "itemId": "i_3df61e48abf3",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.517Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_de76cb8fde0f",
+      "itemId": "i_700216cbd5e2",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.516Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_de9d065bd2d3",
+      "itemId": "i_7e67101cd9ec",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.516Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ee08f378955d",
+      "itemId": "i_4328b398e0aa",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.517Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_f9c9a2501bad",
+      "itemId": "i_8d516dce492b",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.516Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_fa0b2754b607",
+      "itemId": "i_faa39e5a0645",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-10-05",
+      "lastUpdatedAt": "2026-10-03T11:35:36.517Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ea3c7e9d05eb",
+      "itemId": "i_1b3ec972ae91",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-10-03",
+      "lastUpdatedAt": "2026-10-03T11:35:37.435Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_06071fc8620e",
       "itemId": "i_25ca8aff2e58",
       "attributionType": "direct",
@@ -45518,7 +46168,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-10-02",
-      "lastUpdatedAt": "2026-10-02T12:28:25.668Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.435Z",
       "supersedesEstimateId": null
     },
     {
@@ -45542,7 +46192,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-10-02",
-      "lastUpdatedAt": "2026-10-02T12:28:25.668Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.436Z",
       "supersedesEstimateId": null
     },
     {
@@ -45806,7 +46456,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-10-02",
-      "lastUpdatedAt": "2026-10-02T12:28:25.669Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.436Z",
       "supersedesEstimateId": null
     },
     {
@@ -45926,7 +46576,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-10-01",
-      "lastUpdatedAt": "2026-10-02T12:28:25.670Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.436Z",
       "supersedesEstimateId": null
     },
     {
@@ -46046,7 +46696,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-10-01",
-      "lastUpdatedAt": "2026-10-02T12:28:25.670Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.436Z",
       "supersedesEstimateId": null
     },
     {
@@ -46178,7 +46828,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-30",
-      "lastUpdatedAt": "2026-10-02T12:28:25.670Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.436Z",
       "supersedesEstimateId": null
     },
     {
@@ -46202,7 +46852,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-29",
-      "lastUpdatedAt": "2026-10-02T12:28:25.671Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.436Z",
       "supersedesEstimateId": null
     },
     {
@@ -46622,7 +47272,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-28",
-      "lastUpdatedAt": "2026-10-02T12:28:25.671Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.437Z",
       "supersedesEstimateId": null
     },
     {
@@ -46730,7 +47380,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-28",
-      "lastUpdatedAt": "2026-10-02T12:28:25.671Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.437Z",
       "supersedesEstimateId": null
     },
     {
@@ -46778,7 +47428,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-28",
-      "lastUpdatedAt": "2026-10-02T12:28:25.671Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.437Z",
       "supersedesEstimateId": null
     },
     {
@@ -46838,7 +47488,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-26",
-      "lastUpdatedAt": "2026-10-02T12:28:25.672Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.437Z",
       "supersedesEstimateId": null
     },
     {
@@ -46850,7 +47500,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-26",
-      "lastUpdatedAt": "2026-10-02T12:28:25.671Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.437Z",
       "supersedesEstimateId": null
     },
     {
@@ -46910,7 +47560,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-25",
-      "lastUpdatedAt": "2026-10-02T12:28:25.672Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.437Z",
       "supersedesEstimateId": null
     },
     {
@@ -47006,7 +47656,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-25",
-      "lastUpdatedAt": "2026-10-02T12:28:25.672Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.437Z",
       "supersedesEstimateId": null
     },
     {
@@ -47270,7 +47920,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-24",
-      "lastUpdatedAt": "2026-10-02T12:28:25.672Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.437Z",
       "supersedesEstimateId": null
     },
     {
@@ -47498,7 +48148,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-23",
-      "lastUpdatedAt": "2026-10-02T12:28:25.672Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.437Z",
       "supersedesEstimateId": null
     },
     {
@@ -47510,7 +48160,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-23",
-      "lastUpdatedAt": "2026-10-02T12:28:25.672Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.437Z",
       "supersedesEstimateId": null
     },
     {
@@ -47786,7 +48436,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-22",
-      "lastUpdatedAt": "2026-10-02T12:28:25.672Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.438Z",
       "supersedesEstimateId": null
     },
     {
@@ -47966,7 +48616,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-09-21",
-      "lastUpdatedAt": "2026-10-02T12:28:25.673Z",
+      "lastUpdatedAt": "2026-10-03T11:35:37.438Z",
       "supersedesEstimateId": null
     },
     {
@@ -87477,6 +88127,240 @@
   ],
   "sources": [
     {
+      "id": "s_0222a71c96df",
+      "estimateId": "e_a7caf1e458cd",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Section 3 Benchmarks for Creating Economic Opportunities for Low- and Very Low-Income Persons and Eligible Businesses",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20374/section-3-benchmarks-for-creating-economic-opportunities-for-low--and-very-low-income-persons-and",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_1102d64ffc9e",
+      "estimateId": "e_b650665502a0",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-184, and Revocation of V-284 and V-577; Eastern United States",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20372/amendment-of-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-v-16-v-184-and",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_19e48976a334",
+      "estimateId": "e_8bbbe6948b5e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Overpressure Blast Effects Analysis Burden Reducing Clarification",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20392/overpressure-blast-effects-analysis-burden-reducing-clarification",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_25891ee933aa",
+      "estimateId": "e_f9c9a2501bad",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Digital Modernization for Licensing Electronic Application Submissions",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20387/digital-modernization-for-licensing-electronic-application-submissions",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_27fd7a39b787",
+      "estimateId": "e_6775e58b6ba2",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Streamlining Flight Safety Analysis Methodology Means of Compliance",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20388/streamlining-flight-safety-analysis-methodology-means-of-compliance",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_2e4598a76810",
+      "estimateId": "e_ee08f378955d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Sunshine Act Meetings",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20373/sunshine-act-meetings",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_332515b0dc7a",
+      "estimateId": "e_075665b83db6",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Mattresses From Poland: Preliminary Intent To Rescind Antidumping Duty Administrative Review; 2024-2025",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20382/mattresses-from-poland-preliminary-intent-to-rescind-antidumping-duty-administrative-review",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_53b1b00bd4ec",
+      "estimateId": "e_de9d065bd2d3",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Simplifying Physical Containment Requirements",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20386/simplifying-physical-containment-requirements",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_57572d9cecee",
+      "estimateId": "e_2db777bba7a7",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Sunshine Act Meetings",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20396/sunshine-act-meetings",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_588bab165f8a",
+      "estimateId": "e_7fb572dc2fa3",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Passenger Vehicle and Light Truck Tires From the Socialist Republic of Vietnam: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20377/passenger-vehicle-and-light-truck-tires-from-the-socialist-republic-of-vietnam-final-results-of-the",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_6dfbc42548c6",
+      "estimateId": "e_4a59bf69b3d2",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Presidential Determination on the Revocation of Presidential Determinations Related to Lebanon",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20439/presidential-determination-on-the-revocation-of-presidential-determinations-related-to-lebanon",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_73e252e01c5a",
+      "estimateId": "e_19e84357054a",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Airworthiness Directives; DG Aviation GmbH (Type Certificate Previously Held by DG Flugzeugbau GmbH) Gliders",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20393/airworthiness-directives-dg-aviation-gmbh-type-certificate-previously-held-by-dg-flugzeugbau-gmbh",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_8440d5184391",
+      "estimateId": "e_579a630fa654",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Large Diameter Welded Pipe From the Republic of Türkiye: Final Results of Antidumping Duty Administrative Review; 2024-2025; Correction",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20380/large-diameter-welded-pipe-from-the-republic-of-trkiye-final-results-of-antidumping-duty",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_8473de19fa11",
+      "estimateId": "e_5d044faa9325",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Lightning Hazard Mitigation Burden-Reducing Exception",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20391/lightning-hazard-mitigation-burden-reducing-exception",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_89f7a5871910",
+      "estimateId": "e_9e242c276b45",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Proposal of Special Measure Prohibiting the Transmittal of Funds Regarding Transactions Involving the A7 Network's Sub-Agents",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20371/proposal-of-special-measure-prohibiting-the-transmittal-of-funds-regarding-transactions-involving",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_97812675e704",
+      "estimateId": "e_de76cb8fde0f",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Certain Cut-to-Length Carbon Steel Plate From the People's Republic of China and the Russian Federation: Final Results of the Expedited Fifth Sunset Reviews of the Antidumping Duty Orders",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20381/certain-cut-to-length-carbon-steel-plate-from-the-peoples-republic-of-china-and-the-russian",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_9edea1f4ac7b",
+      "estimateId": "e_2492e0ac7b9c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Oil Country Tubular Goods From Ukraine: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20376/oil-country-tubular-goods-from-ukraine-preliminary-results-of-antidumping-duty-administrative-review",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a07ebbab979b",
+      "estimateId": "e_9c2539eb2679",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Interest Rate Paid on Cash Deposited To Secure U.S. Immigration and Customs Enforcement Immigration Bonds",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20375/interest-rate-paid-on-cash-deposited-to-secure-us-immigration-and-customs-enforcement-immigration",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a26ba9f951ea",
+      "estimateId": "e_d19c6e30a4d8",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Certain Potassium Phosphate Salts From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Countervailing Duty Order",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20379/certain-potassium-phosphate-salts-from-the-peoples-republic-of-china-final-results-of-the-expedited",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_bc10775ea761",
+      "estimateId": "e_9e5562af2307",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Advisory Council on Alzheimer's Research, Care, and Services; Meeting",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20385/advisory-council-on-alzheimers-research-care-and-services-meeting",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_c1b91cd67559",
+      "estimateId": "e_3b3c4498d6d3",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Methionine From France, Japan, and Spain: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20384/methionine-from-france-japan-and-spain-final-results-of-the-expedited-first-sunset-reviews-of-the",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e89bc8b596de",
+      "estimateId": "e_a4a845baac7b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Melamine From the People's Republic of China: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20383/melamine-from-the-peoples-republic-of-china-final-results-of-the-expedited-second-sunset-review-of",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_f1c8337ab96f",
+      "estimateId": "e_fa0b2754b607",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Potassium Phosphate Salts From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20378/potassium-phosphate-salts-from-the-peoples-republic-of-china-final-results-of-the-expedited-third",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_f7ef55f993c6",
+      "estimateId": "e_85656bd9bf0f",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Center for Scientific Review; Amended Notice of Meeting",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20370/center-for-scientific-review-amended-notice-of-meeting",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_fba49d7905db",
+      "estimateId": "e_7c3f3e11648a",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Airworthiness Directives; Airbus Helicopters",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20411/airworthiness-directives-airbus-helicopters",
+      "publishedAt": "2026-10-05",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e5f19bfd7137",
+      "estimateId": "e_ea3c7e9d05eb",
+      "publisher": "ProPublica",
+      "title": "Watch: We Uncovered Bribery Allegations Involving Susan Collins",
+      "url": "https://www.propublica.org/article/susan-collins-bribery-allegations-explained",
+      "publishedAt": "2026-10-03",
+      "sourceType": "secondary"
+    },
+    {
       "id": "s_06f4b7b7cc1e",
       "estimateId": "e_d1eaced8e7f7",
       "publisher": "Federal Register",
@@ -87795,7 +88679,7 @@
       "id": "s_405566999ef8",
       "estimateId": "e_36ecdd7a04c8",
       "publisher": "ProPublica",
-      "title": "Texas’ Education Board Raised Questions About an AI Learning Tool. The State Then Helped Pilot It in Public Schools.",
+      "title": "How Texas Helped a Private School Chain’s AI Tool Get Into Public School Classrooms",
       "url": "https://www.propublica.org/article/alpha-school-ai-texas-public-schools-mike-morath",
       "publishedAt": "2026-10-01",
       "sourceType": "secondary"

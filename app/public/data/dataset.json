@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-11-09",
-    "updatedAt": "2026-11-09T16:08:58.025Z",
+    "asOfDate": "2026-11-10",
+    "updatedAt": "2026-11-10T14:47:59.396Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,344 @@
     }
   ],
   "items": [
+    {
+      "id": "i_073733fa7ef9",
+      "type": "policy",
+      "title": "Modification to Work Requirements for Able-Bodied Adults",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_07fb5e0f6125",
+      "type": "policy",
+      "title": "Prestressed Concrete Steel Wire Strand From China; Determinations",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_177337ac850d",
+      "type": "policy",
+      "title": "Polytetramethylene Ether Glycol From the People's Republic of China: Preliminary Affirmative Determination of Sales at Less Than Fair Value",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_2b59b327f36f",
+      "type": "event",
+      "title": "ProPublica: The Garbage Man: Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_2dff04b1db46",
+      "type": "policy",
+      "title": "Commission Meeting",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_323929192e2a",
+      "type": "policy",
+      "title": "Certain Magnesia Carbon Bricks From the People's Republic of China: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_4351174a05ec",
+      "type": "policy",
+      "title": "Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_458e4391e0eb",
+      "type": "policy",
+      "title": "Projects Approved for Consumptive Uses of Water",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_4b84a858e5aa",
+      "type": "policy",
+      "title": "Polytetramethylene Ether Glycol From Taiwan: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_5f1c263d03e1",
+      "type": "policy",
+      "title": "Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_62f619f04bb4",
+      "type": "policy",
+      "title": "Polytetramethylene Ether Glycol From the Republic of Korea: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_640e84556f6a",
+      "type": "policy",
+      "title": "Tin Mill Products From Taiwan: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_695a3ac9c19f",
+      "type": "policy",
+      "title": "Membership of the Performance Review Boards",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_6c0556d5da21",
+      "type": "policy",
+      "title": "North Pacific Fishery Management Council; Public Meeting",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_85a38cd3f8f4",
+      "type": "policy",
+      "title": "Foreign-Trade Zone (FTZ) 216; Authorization of Production Activity; Essex Laboratories LLC; (Mint Oil Blends); Chehalis, Washington",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_8e3955768719",
+      "type": "policy",
+      "title": "Minor Modification Approval",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_95407352f8d6",
+      "type": "policy",
+      "title": "Notice of Product Exclusion Extensions: China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_98ea3a8d8e65",
+      "type": "policy",
+      "title": "Notice of Petition for Extension of Waiver of Compliance",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_a9b50cf31850",
+      "type": "policy",
+      "title": "Amtrak's Request To Amend Its Positive Train Control Safety Plan and Positive Train Control System",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_aab9f128f60d",
+      "type": "policy",
+      "title": "Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c112153070a8",
+      "type": "policy",
+      "title": "Tin Mill Products From the Republic of Türkiye: Preliminary Affirmative Determination of Sales at Less Than Fair Value, and Preliminary Affirmative Determination of Critical Circumstances, in Part",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c296508229db",
+      "type": "policy",
+      "title": "Airworthiness Directives; Leonardo S.p.a. Helicopters",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c3e941870835",
+      "type": "policy",
+      "title": "Notice of Petition for Extension of Waiver of Compliance",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_cd091d322417",
+      "type": "policy",
+      "title": "Special Conditions: Gulfstream Aerospace Corporation, Model GVII-G400 Airplane; Flight Envelope Protection: Takeoff Stall Protection",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_eff07247c099",
+      "type": "policy",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Response to Office Action and Voluntary Amendment Forms",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f2373f6376d7",
+      "type": "policy",
+      "title": "Polytetramethylene Ether Glycol From the Socialist Republic of Vietnam: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-10",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_09a21ad6a383",
       "type": "policy",
@@ -190,6 +528,19 @@
       "type": "policy",
       "title": "Endangered and Threatened Wildlife and Plants; Initiation of 5-Year Status Reviews for 81 Southeastern Species",
       "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-09",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_7a6add307b09",
+      "type": "event",
+      "title": "ProPublica: Watch: Where Do Our Generic Drugs Come From? We Dug to Find Out.",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
       "date": "2026-11-09",
       "location": "United States",
       "topicIds": [],
@@ -54207,6 +54558,318 @@
   ],
   "estimates": [
     {
+      "id": "e_07b0e24b27d3",
+      "itemId": "i_073733fa7ef9",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.410Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_0cf477dda802",
+      "itemId": "i_8e3955768719",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.414Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_0d1ab45a727c",
+      "itemId": "i_177337ac850d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.411Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_1d579ea758ba",
+      "itemId": "i_458e4391e0eb",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.414Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_24c5b8e5a3a3",
+      "itemId": "i_eff07247c099",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.416Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_30230a18f587",
+      "itemId": "i_5f1c263d03e1",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.406Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_31f00aa2edba",
+      "itemId": "i_aab9f128f60d",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.413Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_3849b7228c14",
+      "itemId": "i_695a3ac9c19f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.413Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_4e69e3f29e9b",
+      "itemId": "i_f2373f6376d7",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.412Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5078d21df84b",
+      "itemId": "i_2dff04b1db46",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.414Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_59a114b02b78",
+      "itemId": "i_c296508229db",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.415Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_7e3934a7c6a1",
+      "itemId": "i_c3e941870835",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.414Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_8b24b733f7b3",
+      "itemId": "i_a9b50cf31850",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.413Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_8c406fd87bf4",
+      "itemId": "i_62f619f04bb4",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.411Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9b22345e5c35",
+      "itemId": "i_640e84556f6a",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.412Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9c824b7a36c7",
+      "itemId": "i_6c0556d5da21",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.415Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b39eba14d823",
+      "itemId": "i_4b84a858e5aa",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.412Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b7a19c660540",
+      "itemId": "i_95407352f8d6",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.415Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b82ee55cba79",
+      "itemId": "i_4351174a05ec",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.408Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_bf500da51198",
+      "itemId": "i_c112153070a8",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.412Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_c2f47baa9dac",
+      "itemId": "i_85a38cd3f8f4",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.413Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ccdc0f23e50e",
+      "itemId": "i_323929192e2a",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.410Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_e5f7e60a3954",
+      "itemId": "i_cd091d322417",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.409Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_f53f53efad69",
+      "itemId": "i_2b59b327f36f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:59.390Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_f920ae242375",
+      "itemId": "i_07fb5e0f6125",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.416Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_f9978c9660bd",
+      "itemId": "i_98ea3a8d8e65",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-10",
+      "lastUpdatedAt": "2026-11-10T14:47:58.415Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_05850f7b2b53",
       "itemId": "i_48fedfb56bc4",
       "attributionType": "direct",
@@ -54264,6 +54927,18 @@
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-09",
       "lastUpdatedAt": "2026-11-09T16:08:56.794Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_298b8e0baafe",
+      "itemId": "i_7a6add307b09",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-11-09",
+      "lastUpdatedAt": "2026-11-10T14:47:59.391Z",
       "supersedesEstimateId": null
     },
     {
@@ -54395,7 +55070,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-09",
-      "lastUpdatedAt": "2026-11-09T16:08:58.018Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.392Z",
       "supersedesEstimateId": null
     },
     {
@@ -54527,7 +55202,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-09",
-      "lastUpdatedAt": "2026-11-09T16:08:58.020Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.393Z",
       "supersedesEstimateId": null
     },
     {
@@ -54539,7 +55214,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-08",
-      "lastUpdatedAt": "2026-11-09T16:08:58.020Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.393Z",
       "supersedesEstimateId": null
     },
     {
@@ -54551,7 +55226,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-07",
-      "lastUpdatedAt": "2026-11-09T16:08:58.021Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.393Z",
       "supersedesEstimateId": null
     },
     {
@@ -54575,7 +55250,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-06",
-      "lastUpdatedAt": "2026-11-09T16:08:58.021Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.393Z",
       "supersedesEstimateId": null
     },
     {
@@ -54743,7 +55418,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-06",
-      "lastUpdatedAt": "2026-11-09T16:08:58.021Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.393Z",
       "supersedesEstimateId": null
     },
     {
@@ -55067,7 +55742,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-05",
-      "lastUpdatedAt": "2026-11-09T16:08:58.022Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.394Z",
       "supersedesEstimateId": null
     },
     {
@@ -55103,7 +55778,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-05",
-      "lastUpdatedAt": "2026-11-09T16:08:58.021Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.394Z",
       "supersedesEstimateId": null
     },
     {
@@ -55163,7 +55838,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-05",
-      "lastUpdatedAt": "2026-11-09T16:08:58.022Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.394Z",
       "supersedesEstimateId": null
     },
     {
@@ -55307,7 +55982,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-04",
-      "lastUpdatedAt": "2026-11-09T16:08:58.023Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.395Z",
       "supersedesEstimateId": null
     },
     {
@@ -55355,7 +56030,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-04",
-      "lastUpdatedAt": "2026-11-09T16:08:58.023Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.395Z",
       "supersedesEstimateId": null
     },
     {
@@ -55427,7 +56102,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-04",
-      "lastUpdatedAt": "2026-11-09T16:08:58.022Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.394Z",
       "supersedesEstimateId": null
     },
     {
@@ -55727,7 +56402,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-03",
-      "lastUpdatedAt": "2026-11-09T16:08:58.023Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.395Z",
       "supersedesEstimateId": null
     },
     {
@@ -55847,7 +56522,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-03",
-      "lastUpdatedAt": "2026-11-09T16:08:58.023Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.395Z",
       "supersedesEstimateId": null
     },
     {
@@ -55895,7 +56570,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-02",
-      "lastUpdatedAt": "2026-11-09T16:08:58.024Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.396Z",
       "supersedesEstimateId": null
     },
     {
@@ -55967,7 +56642,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-02",
-      "lastUpdatedAt": "2026-11-09T16:08:58.024Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.396Z",
       "supersedesEstimateId": null
     },
     {
@@ -56015,7 +56690,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-02",
-      "lastUpdatedAt": "2026-11-09T16:08:58.023Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.396Z",
       "supersedesEstimateId": null
     },
     {
@@ -56519,7 +57194,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-10-30",
-      "lastUpdatedAt": "2026-11-09T16:08:58.024Z",
+      "lastUpdatedAt": "2026-11-10T14:47:59.396Z",
       "supersedesEstimateId": null
     },
     {
@@ -104202,6 +104877,240 @@
   ],
   "sources": [
     {
+      "id": "s_0d409f831f76",
+      "estimateId": "e_9b22345e5c35",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Tin Mill Products From Taiwan: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22938/tin-mill-products-from-taiwan-preliminary-affirmative-determination-of-sales-at-less-than-fair-value",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_15241eb2bd7e",
+      "estimateId": "e_1d579ea758ba",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Projects Approved for Consumptive Uses of Water",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22931/projects-approved-for-consumptive-uses-of-water",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_1af48e856d39",
+      "estimateId": "e_ccdc0f23e50e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Certain Magnesia Carbon Bricks From the People's Republic of China: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22943/certain-magnesia-carbon-bricks-from-the-peoples-republic-of-china-initiation-of-circumvention",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_20b8a3378e29",
+      "estimateId": "e_5078d21df84b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Commission Meeting",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22930/commission-meeting",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_2b3218849535",
+      "estimateId": "e_b7a19c660540",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Product Exclusion Extensions: China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22925/notice-of-product-exclusion-extensions-chinas-acts-policies-and-practices-related-to-technology",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_2e418aaf3674",
+      "estimateId": "e_4e69e3f29e9b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Polytetramethylene Ether Glycol From the Socialist Republic of Vietnam: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22939/polytetramethylene-ether-glycol-from-the-socialist-republic-of-vietnam-preliminary-affirmative",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_43cb59b583be",
+      "estimateId": "e_e5f7e60a3954",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Special Conditions: Gulfstream Aerospace Corporation, Model GVII-G400 Airplane; Flight Envelope Protection: Takeoff Stall Protection",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22951/special-conditions-gulfstream-aerospace-corporation-model-gvii-g400-airplane-flight-envelope",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_55a26da9e0ec",
+      "estimateId": "e_bf500da51198",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Tin Mill Products From the Republic of Türkiye: Preliminary Affirmative Determination of Sales at Less Than Fair Value, and Preliminary Affirmative Determination of Critical Circumstances, in Part",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22937/tin-mill-products-from-the-republic-of-trkiye-preliminary-affirmative-determination-of-sales-at-less",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_56198178df17",
+      "estimateId": "e_24c5b8e5a3a3",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Response to Office Action and Voluntary Amendment Forms",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22924/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_7181ca0c60d8",
+      "estimateId": "e_59a114b02b78",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Airworthiness Directives; Leonardo S.p.a. Helicopters",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22928/airworthiness-directives-leonardo-spa-helicopters",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_7a5322302c86",
+      "estimateId": "e_f53f53efad69",
+      "publisher": "ProPublica",
+      "title": "The Garbage Man: Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills",
+      "url": "https://www.propublica.org/article/bill-gates-republic-landfill-methane-pollution",
+      "publishedAt": "2026-11-10",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_822044ca5309",
+      "estimateId": "e_0cf477dda802",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Minor Modification Approval",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22932/minor-modification-approval",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_84a04348a469",
+      "estimateId": "e_8c406fd87bf4",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Polytetramethylene Ether Glycol From the Republic of Korea: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22941/polytetramethylene-ether-glycol-from-the-republic-of-korea-preliminary-affirmative-determination-of",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_853d1f1a6225",
+      "estimateId": "e_0d1ab45a727c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Polytetramethylene Ether Glycol From the People's Republic of China: Preliminary Affirmative Determination of Sales at Less Than Fair Value",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22942/polytetramethylene-ether-glycol-from-the-peoples-republic-of-china-preliminary-affirmative",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_860d8a87596b",
+      "estimateId": "e_7e3934a7c6a1",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Petition for Extension of Waiver of Compliance",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22929/notice-of-petition-for-extension-of-waiver-of-compliance",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_afbc08cf2996",
+      "estimateId": "e_b82ee55cba79",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Inspection Programs for Single-Engine Turbine-Powered Airplanes and Unmanned Aircraft; and Miscellaneous Maintenance-Related Updates",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22953/inspection-programs-for-single-engine-turbine-powered-airplanes-and-unmanned-aircraft-and",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_b6ecd986fc3a",
+      "estimateId": "e_f9978c9660bd",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Petition for Extension of Waiver of Compliance",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22926/notice-of-petition-for-extension-of-waiver-of-compliance",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_be662afe10c8",
+      "estimateId": "e_3849b7228c14",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Membership of the Performance Review Boards",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22933/membership-of-the-performance-review-boards",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_beb8c9d3c2f5",
+      "estimateId": "e_9c824b7a36c7",
+      "publisher": "Federal Register",
+      "title": "Federal Register: North Pacific Fishery Management Council; Public Meeting",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22927/north-pacific-fishery-management-council-public-meeting",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_c7e1258425d9",
+      "estimateId": "e_30230a18f587",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Imposition of Special Measure Prohibiting the Transmittal of Funds Involving MEXC Global",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22962/imposition-of-special-measure-prohibiting-the-transmittal-of-funds-involving-mexc-global",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_cb6fe1888678",
+      "estimateId": "e_07b0e24b27d3",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Modification to Work Requirements for Able-Bodied Adults",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22944/modification-to-work-requirements-for-able-bodied-adults",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_cdafa31403b3",
+      "estimateId": "e_8b24b733f7b3",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Amtrak's Request To Amend Its Positive Train Control Safety Plan and Positive Train Control System",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22934/amtraks-request-to-amend-its-positive-train-control-safety-plan-and-positive-train-control-system",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_cf6907526e6f",
+      "estimateId": "e_b39eba14d823",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Polytetramethylene Ether Glycol From Taiwan: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22940/polytetramethylene-ether-glycol-from-taiwan-preliminary-affirmative-determination-of-sales-at-less",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e235f48adc02",
+      "estimateId": "e_c2f47baa9dac",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Foreign-Trade Zone (FTZ) 216; Authorization of Production Activity; Essex Laboratories LLC; (Mint Oil Blends); Chehalis, Washington",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22935/foreign-trade-zone-ftz-216-authorization-of-production-activity-essex-laboratories-llc-mint-oil",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_eb30c4f29639",
+      "estimateId": "e_31f00aa2edba",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22936/supplemental-nutrition-assistance-program-reforming-categorical-eligibility",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_efc5bf9a4c70",
+      "estimateId": "e_f920ae242375",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Prestressed Concrete Steel Wire Strand From China; Determinations",
+      "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22923/prestressed-concrete-steel-wire-strand-from-china-determinations",
+      "publishedAt": "2026-11-10",
+      "sourceType": "primary"
+    },
+    {
       "id": "s_0197e6c55c28",
       "estimateId": "e_0e4f252da8d4",
       "publisher": "Federal Register",
@@ -104281,6 +105190,15 @@
       "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22836/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-india-initiation-of",
       "publishedAt": "2026-11-09",
       "sourceType": "primary"
+    },
+    {
+      "id": "s_5aaca738bf7e",
+      "estimateId": "e_298b8e0baafe",
+      "publisher": "ProPublica",
+      "title": "Watch: Where Do Our Generic Drugs Come From? We Dug to Find Out.",
+      "url": "https://www.propublica.org/article/generic-prescription-drug-supply-fda-explained",
+      "publishedAt": "2026-11-09",
+      "sourceType": "secondary"
     },
     {
       "id": "s_5cb382b777e9",

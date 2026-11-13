@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-11-12",
-    "updatedAt": "2026-11-12T15:05:42.081Z",
+    "asOfDate": "2026-11-13",
+    "updatedAt": "2026-11-13T14:29:44.718Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,370 @@
     }
   ],
   "items": [
+    {
+      "id": "i_056e35378582",
+      "type": "policy",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Electronic Logbook for the Commercial Shrimp Fishery in the Gulf of America",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_13b006a773d4",
+      "type": "policy",
+      "title": "Publication of a Cuba Sanctions Regulations Web General License",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_34bd4a78f883",
+      "type": "policy",
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_3a6654e943e5",
+      "type": "policy",
+      "title": "Appalachian Power Company; Notice of Application for Amendment Filing Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_3b4469d1548c",
+      "type": "policy",
+      "title": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Exchange's Fee Schedule",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_3ce91b6bf919",
+      "type": "policy",
+      "title": "Self-Regulatory Organizations; Investors Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Extend the Implementation Timeframe of a Recent Rule Filing",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_3d56b45cbde6",
+      "type": "policy",
+      "title": "Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Adopt a Policy Relating to the Exchange's Treatment of Trade Reports",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_42e3281ffd42",
+      "type": "policy",
+      "title": "Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 55F and 115D",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_43c33687505f",
+      "type": "policy",
+      "title": "Final Deauthorization List of Water Resources Projects",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_684488dfd888",
+      "type": "policy",
+      "title": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_73d4a16ec1d2",
+      "type": "policy",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Mandatory Shrimp Vessel and Gear Characterization Survey",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_8e016bfb0095",
+      "type": "policy",
+      "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 11.14 in Light of the Commission's Approval of Overnight Protected Bands for 23/5 Trading",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_9719718b94c4",
+      "type": "policy",
+      "title": "Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_986497192422",
+      "type": "policy",
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend the FINRA By-Laws, the FINRA Regulation By-Laws, the Plan of Allocation and Delegation of Functions by FINRA to Subsidiaries, FINRA's Restated Certificate of Incorporation, and FINRA Rule 5110",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_a0107e14b9ce",
+      "type": "policy",
+      "title": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Rule 14.1 Regarding Information Circular Requirements",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_a02d7e22202e",
+      "type": "policy",
+      "title": "Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_ad0803bceec9",
+      "type": "policy",
+      "title": "Fiscal Year List of Requests From States or Tribes for a Small Business Administration Disaster Declaration",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_b3c83a25fae4",
+      "type": "event",
+      "title": "ProPublica: How Trump’s War on Offshore Wind Upended a “Limitless” Future for Thousands of New England Workers",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_bac939d43052",
+      "type": "policy",
+      "title": "Certain Chassis and Subassemblies Thereof From the People's Republic of China: Continuation of Antidumping Duty and Countervailing Duty Orders",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_bb90a2db7b6a",
+      "type": "policy",
+      "title": "Great Bay Hydro Corporation, Great Bay Hydro LLC; Notice of Application of Transfer of License and Soliciting Comments, Motions To Intervene, and Protests",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_dba502e43b1e",
+      "type": "policy",
+      "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Exchange Rule Equity 7 Section 115",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_dc94cf3f5a91",
+      "type": "policy",
+      "title": "Publication of Iran-Related Web General License W",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_deebbdefd438",
+      "type": "policy",
+      "title": "Amendment of Class C Airspace; Laughlin Air Force Base, Del Rio, TX",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e5780ad05ee6",
+      "type": "policy",
+      "title": "Self-Regulatory Organizations; MX2 LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Exchange's Fee Schedule",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e9629b262528",
+      "type": "policy",
+      "title": "Publication of Iran-Related Web General Licenses EE and FF",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_eae509f72bd4",
+      "type": "event",
+      "title": "ProPublica: His Church or His Child? A Sixth-Generation Member of a Faith-Healing Sect Had to Choose.",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f80e522c2e21",
+      "type": "event",
+      "title": "ProPublica: Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_f98720af8448",
+      "type": "policy",
+      "title": "Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Amend the Criteria for Underlying Securities",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-13",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_0bdf8793df4c",
       "type": "policy",
@@ -54961,6 +55325,342 @@
   ],
   "estimates": [
     {
+      "id": "e_09eb7563efdf",
+      "itemId": "i_e9629b262528",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.616Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_0bc36c3a5253",
+      "itemId": "i_986497192422",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.619Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_1f8e1f198831",
+      "itemId": "i_3a6654e943e5",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.621Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2072ba27bfcd",
+      "itemId": "i_8e016bfb0095",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.619Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_55798d1b52c4",
+      "itemId": "i_dc94cf3f5a91",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.617Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5e970ffb65f4",
+      "itemId": "i_73d4a16ec1d2",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.618Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_6a7e55e6adac",
+      "itemId": "i_eae509f72bd4",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:44.713Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_6c1af1f0071c",
+      "itemId": "i_ad0803bceec9",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.621Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_77d492462014",
+      "itemId": "i_e5780ad05ee6",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.618Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_7d92a6c83504",
+      "itemId": "i_43c33687505f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.618Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_8bf1e777aee9",
+      "itemId": "i_34bd4a78f883",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.615Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_8e74df68ce92",
+      "itemId": "i_9719718b94c4",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.618Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_91f6645cb04d",
+      "itemId": "i_13b006a773d4",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.617Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_937ea1c566c8",
+      "itemId": "i_a0107e14b9ce",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.619Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_98af731735bf",
+      "itemId": "i_b3c83a25fae4",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:44.713Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b5f62671898b",
+      "itemId": "i_a02d7e22202e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.613Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ca193b6bd87b",
+      "itemId": "i_42e3281ffd42",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.616Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_cc5a1d8e3590",
+      "itemId": "i_f98720af8448",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.620Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d4b82946f79e",
+      "itemId": "i_deebbdefd438",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.617Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d57b62f5d9f9",
+      "itemId": "i_bb90a2db7b6a",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.621Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d78490292702",
+      "itemId": "i_bac939d43052",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.621Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_db9974f40bb9",
+      "itemId": "i_dba502e43b1e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.620Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_eb614a3fd3f4",
+      "itemId": "i_3d56b45cbde6",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.620Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_ee5aacfb9b86",
+      "itemId": "i_f80e522c2e21",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:44.712Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_f37807f574d1",
+      "itemId": "i_3b4469d1548c",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.620Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_f743a61ae4cf",
+      "itemId": "i_056e35378582",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.617Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_f878da9e4995",
+      "itemId": "i_684488dfd888",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.621Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_fa04596ddd7c",
+      "itemId": "i_3ce91b6bf919",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-13",
+      "lastUpdatedAt": "2026-11-13T14:29:43.619Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_022f2cc4db5e",
       "itemId": "i_405229d3603c",
       "attributionType": "direct",
@@ -55005,7 +55705,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-12",
-      "lastUpdatedAt": "2026-11-12T15:05:42.076Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.714Z",
       "supersedesEstimateId": null
     },
     {
@@ -55281,7 +55981,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-11",
-      "lastUpdatedAt": "2026-11-12T15:05:42.078Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.714Z",
       "supersedesEstimateId": null
     },
     {
@@ -55293,7 +55993,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-11",
-      "lastUpdatedAt": "2026-11-12T15:05:42.078Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.714Z",
       "supersedesEstimateId": null
     },
     {
@@ -55305,7 +56005,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-11",
-      "lastUpdatedAt": "2026-11-12T15:05:42.079Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.715Z",
       "supersedesEstimateId": null
     },
     {
@@ -55317,7 +56017,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-11",
-      "lastUpdatedAt": "2026-11-12T15:05:42.079Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.715Z",
       "supersedesEstimateId": null
     },
     {
@@ -55593,7 +56293,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-10",
-      "lastUpdatedAt": "2026-11-12T15:05:42.079Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.715Z",
       "supersedesEstimateId": null
     },
     {
@@ -55617,7 +56317,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-10",
-      "lastUpdatedAt": "2026-11-12T15:05:42.079Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.715Z",
       "supersedesEstimateId": null
     },
     {
@@ -55713,7 +56413,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-09",
-      "lastUpdatedAt": "2026-11-12T15:05:42.079Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.716Z",
       "supersedesEstimateId": null
     },
     {
@@ -55845,7 +56545,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-09",
-      "lastUpdatedAt": "2026-11-12T15:05:42.079Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.716Z",
       "supersedesEstimateId": null
     },
     {
@@ -55977,7 +56677,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-09",
-      "lastUpdatedAt": "2026-11-12T15:05:42.079Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.716Z",
       "supersedesEstimateId": null
     },
     {
@@ -55989,7 +56689,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-08",
-      "lastUpdatedAt": "2026-11-12T15:05:42.080Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.716Z",
       "supersedesEstimateId": null
     },
     {
@@ -56001,7 +56701,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-07",
-      "lastUpdatedAt": "2026-11-12T15:05:42.080Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.716Z",
       "supersedesEstimateId": null
     },
     {
@@ -56025,7 +56725,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-06",
-      "lastUpdatedAt": "2026-11-12T15:05:42.080Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.717Z",
       "supersedesEstimateId": null
     },
     {
@@ -56193,7 +56893,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-06",
-      "lastUpdatedAt": "2026-11-12T15:05:42.080Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.717Z",
       "supersedesEstimateId": null
     },
     {
@@ -56517,7 +57217,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-05",
-      "lastUpdatedAt": "2026-11-12T15:05:42.080Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.718Z",
       "supersedesEstimateId": null
     },
     {
@@ -56553,7 +57253,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-05",
-      "lastUpdatedAt": "2026-11-12T15:05:42.080Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.717Z",
       "supersedesEstimateId": null
     },
     {
@@ -56613,7 +57313,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-05",
-      "lastUpdatedAt": "2026-11-12T15:05:42.080Z",
+      "lastUpdatedAt": "2026-11-13T14:29:44.717Z",
       "supersedesEstimateId": null
     },
     {
@@ -105651,6 +106351,258 @@
     }
   ],
   "sources": [
+    {
+      "id": "s_00a3aa8f2d34",
+      "estimateId": "e_91f6645cb04d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Publication of a Cuba Sanctions Regulations Web General License",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23195/publication-of-a-cuba-sanctions-regulations-web-general-license",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_047a1f323cd2",
+      "estimateId": "e_b5f62671898b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23233/presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_0786d7d2daf9",
+      "estimateId": "e_db9974f40bb9",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Exchange Rule Equity 7 Section 115",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23182/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_0c6430c13ef3",
+      "estimateId": "e_d78490292702",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Certain Chassis and Subassemblies Thereof From the People's Republic of China: Continuation of Antidumping Duty and Countervailing Duty Orders",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23177/certain-chassis-and-subassemblies-thereof-from-the-peoples-republic-of-china-continuation-of",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_0ea221634dfb",
+      "estimateId": "e_0bc36c3a5253",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend the FINRA By-Laws, the FINRA Regulation By-Laws, the Plan of Allocation and Delegation of Functions by FINRA to Subsidiaries, FINRA's Restated Certificate of Incorporation, and FINRA Rule 5110",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23185/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_1dff32e43dd2",
+      "estimateId": "e_8bf1e777aee9",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Airworthiness Directives; The Boeing Company Airplanes",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23198/airworthiness-directives-the-boeing-company-airplanes",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_1fac8ee2f6af",
+      "estimateId": "e_cc5a1d8e3590",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing of Amendment No. 2 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 2, To Amend the Criteria for Underlying Securities",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23180/self-regulatory-organizations-nasdaq-ise-llc-notice-of-filing-of-amendment-no-2-and-order-granting",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_2831b36e5736",
+      "estimateId": "e_d57b62f5d9f9",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Great Bay Hydro Corporation, Great Bay Hydro LLC; Notice of Application of Transfer of License and Soliciting Comments, Motions To Intervene, and Protests",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23175/great-bay-hydro-corporation-great-bay-hydro-llc-notice-of-application-of-transfer-of-license-and",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_2c40eb85e40d",
+      "estimateId": "e_5e970ffb65f4",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Mandatory Shrimp Vessel and Gear Characterization Survey",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23191/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_3478f915c405",
+      "estimateId": "e_77d492462014",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Self-Regulatory Organizations; MX2 LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Exchange's Fee Schedule",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23188/self-regulatory-organizations-mx2-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_3bb826c89eb2",
+      "estimateId": "e_6a7e55e6adac",
+      "publisher": "ProPublica",
+      "title": "His Church or His Child? A Sixth-Generation Member of a Faith-Healing Sect Had to Choose.",
+      "url": "https://www.propublica.org/article/followers-of-christ-faith-healing-documentary",
+      "publishedAt": "2026-11-13",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_50daf62ecb60",
+      "estimateId": "e_6c1af1f0071c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Fiscal Year List of Requests From States or Tribes for a Small Business Administration Disaster Declaration",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23179/fiscal-year-list-of-requests-from-states-or-tribes-for-a-small-business-administration-disaster",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_54011e20a532",
+      "estimateId": "e_1f8e1f198831",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Appalachian Power Company; Notice of Application for Amendment Filing Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23176/appalachian-power-company-notice-of-application-for-amendment-filing-accepted-for-filing-soliciting",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_605003b566aa",
+      "estimateId": "e_8e74df68ce92",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activities: Proposed Collection; Comment Request",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23189/agency-information-collection-activities-proposed-collection-comment-request",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_605f5f29e248",
+      "estimateId": "e_09eb7563efdf",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Publication of Iran-Related Web General Licenses EE and FF",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23197/publication-of-iran-related-web-general-licenses-ee-and-ff",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_60ca37db2e15",
+      "estimateId": "e_ca193b6bd87b",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 55F and 115D",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23196/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-55f-and",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_6d1e7f2442bf",
+      "estimateId": "e_ee5aacfb9b86",
+      "publisher": "ProPublica",
+      "title": "Members of Georgia’s Election Board Have Been Coordinating With Cleta Mitchell’s Network",
+      "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
+      "publishedAt": "2026-11-13",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_ac2e6c4f6b13",
+      "estimateId": "e_eb614a3fd3f4",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Adopt a Policy Relating to the Exchange's Treatment of Trade Reports",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23183/self-regulatory-organizations-texas-stock-exchange-llc-notice-of-filing-and-immediate-effectiveness",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_ba9ae1848586",
+      "estimateId": "e_fa04596ddd7c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Self-Regulatory Organizations; Investors Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Extend the Implementation Timeframe of a Recent Rule Filing",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23187/self-regulatory-organizations-investors-exchange-llc-notice-of-filing-and-immediate-effectiveness-of",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_be525113c789",
+      "estimateId": "e_f37807f574d1",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Exchange's Fee Schedule",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23181/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_d10ef7080675",
+      "estimateId": "e_55798d1b52c4",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Publication of Iran-Related Web General License W",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23193/publication-of-iran-related-web-general-license-w",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_d338e6c84f70",
+      "estimateId": "e_d4b82946f79e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Amendment of Class C Airspace; Laughlin Air Force Base, Del Rio, TX",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23194/amendment-of-class-c-airspace-laughlin-air-force-base-del-rio-tx",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_da50b6f6ba12",
+      "estimateId": "e_f743a61ae4cf",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Electronic Logbook for the Commercial Shrimp Fishery in the Gulf of America",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23192/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_db96f6489c7a",
+      "estimateId": "e_937ea1c566c8",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Rule 14.1 Regarding Information Circular Requirements",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23186/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-and-immediate-effectiveness",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e4efb1974ffa",
+      "estimateId": "e_2072ba27bfcd",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 11.14 in Light of the Commission's Approval of Overnight Protected Bands for 23/5 Trading",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23184/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-and-immediate-effectiveness",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_ea2d5dc85b41",
+      "estimateId": "e_98af731735bf",
+      "publisher": "ProPublica",
+      "title": "How Trump’s War on Offshore Wind Upended a “Limitless” Future for Thousands of New England Workers",
+      "url": "https://www.propublica.org/article/offshore-wind-trump-connecticut-massachussetts",
+      "publishedAt": "2026-11-13",
+      "sourceType": "secondary"
+    },
+    {
+      "id": "s_ebdabbc0ad4e",
+      "estimateId": "e_7d92a6c83504",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Final Deauthorization List of Water Resources Projects",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23190/final-deauthorization-list-of-water-resources-projects",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_f5c84f31fd01",
+      "estimateId": "e_f878da9e4995",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23178/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest",
+      "publishedAt": "2026-11-13",
+      "sourceType": "primary"
+    },
     {
       "id": "s_003044ae48a7",
       "estimateId": "e_024a91cb331a",

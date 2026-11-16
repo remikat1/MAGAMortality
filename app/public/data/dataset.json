@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-11-15",
-    "updatedAt": "2026-11-15T13:52:42.046Z",
+    "asOfDate": "2026-11-16",
+    "updatedAt": "2026-11-16T15:37:20.220Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,19 @@
     }
   ],
   "items": [
+    {
+      "id": "i_0161ef928164",
+      "type": "event",
+      "title": "ProPublica: Three of the Financial Sins That Left Chicago $55 Billion in Debt — and Counting",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-11-16",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_030da470b70f",
       "type": "policy",
@@ -290,10 +303,36 @@
       "status": "active"
     },
     {
+      "id": "i_cd7c42dd6fd2",
+      "type": "event",
+      "title": "ProPublica: Corporations Are Using Trump’s Tariff Refunds on Bonuses Rather Than Reimbursing Consumers",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
+      "date": "2026-11-16",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
       "id": "i_d727d28b4860",
       "type": "policy",
       "title": "Privacy of Consumer Financial Information",
       "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-16",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_dfd9e4f2c252",
+      "type": "event",
+      "title": "ProPublica: Chicago Is $55 Billion in Debt, With No End in Sight. It’s a Threat to City Services.",
+      "summary": "ProPublica story (auto-ingested). If it includes quantifiable deaths attributable to policy, create/attach estimates manually with citations.",
       "date": "2026-11-16",
       "location": "United States",
       "topicIds": [],
@@ -55697,7 +55736,19 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_07bd90c70ab2",
+      "itemId": "i_cd7c42dd6fd2",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-11-16",
+      "lastUpdatedAt": "2026-11-16T15:37:20.213Z",
       "supersedesEstimateId": null
     },
     {
@@ -55709,7 +55760,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55721,7 +55772,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.241Z",
       "supersedesEstimateId": null
     },
     {
@@ -55733,7 +55784,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.241Z",
       "supersedesEstimateId": null
     },
     {
@@ -55745,7 +55796,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55757,7 +55808,19 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.241Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2da0491359b7",
+      "itemId": "i_0161ef928164",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-11-16",
+      "lastUpdatedAt": "2026-11-16T15:37:20.216Z",
       "supersedesEstimateId": null
     },
     {
@@ -55769,7 +55832,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55781,7 +55844,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55793,7 +55856,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55805,7 +55868,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55817,7 +55880,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55829,7 +55892,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.241Z",
       "supersedesEstimateId": null
     },
     {
@@ -55841,7 +55904,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55853,7 +55916,19 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_92918aafdf05",
+      "itemId": "i_dfd9e4f2c252",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "medium",
+      "methodSummary": "Story record only (no automated extraction of death counts).",
+      "asOfDate": "2026-11-16",
+      "lastUpdatedAt": "2026-11-16T15:37:20.215Z",
       "supersedesEstimateId": null
     },
     {
@@ -55865,7 +55940,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55877,7 +55952,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55889,7 +55964,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55901,7 +55976,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55913,7 +55988,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55925,7 +56000,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.241Z",
       "supersedesEstimateId": null
     },
     {
@@ -55937,7 +56012,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.241Z",
       "supersedesEstimateId": null
     },
     {
@@ -55949,7 +56024,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55961,7 +56036,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.241Z",
       "supersedesEstimateId": null
     },
     {
@@ -55973,7 +56048,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.307Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55985,7 +56060,7 @@
       "confidence": "high",
       "methodSummary": "Policy trigger record only (no death estimate attached yet).",
       "asOfDate": "2026-11-16",
-      "lastUpdatedAt": "2026-11-15T13:52:41.306Z",
+      "lastUpdatedAt": "2026-11-16T15:37:19.240Z",
       "supersedesEstimateId": null
     },
     {
@@ -55997,7 +56072,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-15",
-      "lastUpdatedAt": "2026-11-15T13:52:42.041Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.217Z",
       "supersedesEstimateId": null
     },
     {
@@ -56009,7 +56084,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-14",
-      "lastUpdatedAt": "2026-11-15T13:52:42.042Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.217Z",
       "supersedesEstimateId": null
     },
     {
@@ -56093,7 +56168,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-13",
-      "lastUpdatedAt": "2026-11-15T13:52:42.043Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.218Z",
       "supersedesEstimateId": null
     },
     {
@@ -56189,7 +56264,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-13",
-      "lastUpdatedAt": "2026-11-15T13:52:42.043Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.218Z",
       "supersedesEstimateId": null
     },
     {
@@ -56213,7 +56288,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-13",
-      "lastUpdatedAt": "2026-11-15T13:52:42.043Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.217Z",
       "supersedesEstimateId": null
     },
     {
@@ -56309,7 +56384,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-13",
-      "lastUpdatedAt": "2026-11-15T13:52:42.043Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.217Z",
       "supersedesEstimateId": null
     },
     {
@@ -56405,7 +56480,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-12",
-      "lastUpdatedAt": "2026-11-15T13:52:42.044Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.218Z",
       "supersedesEstimateId": null
     },
     {
@@ -56681,7 +56756,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-11",
-      "lastUpdatedAt": "2026-11-15T13:52:42.044Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.218Z",
       "supersedesEstimateId": null
     },
     {
@@ -56693,7 +56768,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-11",
-      "lastUpdatedAt": "2026-11-15T13:52:42.044Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.219Z",
       "supersedesEstimateId": null
     },
     {
@@ -56705,7 +56780,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-11",
-      "lastUpdatedAt": "2026-11-15T13:52:42.044Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.219Z",
       "supersedesEstimateId": null
     },
     {
@@ -56717,7 +56792,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-11",
-      "lastUpdatedAt": "2026-11-15T13:52:42.044Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.219Z",
       "supersedesEstimateId": null
     },
     {
@@ -56993,7 +57068,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-10",
-      "lastUpdatedAt": "2026-11-15T13:52:42.044Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.219Z",
       "supersedesEstimateId": null
     },
     {
@@ -57017,7 +57092,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-10",
-      "lastUpdatedAt": "2026-11-15T13:52:42.045Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.219Z",
       "supersedesEstimateId": null
     },
     {
@@ -57113,7 +57188,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-09",
-      "lastUpdatedAt": "2026-11-15T13:52:42.045Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.220Z",
       "supersedesEstimateId": null
     },
     {
@@ -57245,7 +57320,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-09",
-      "lastUpdatedAt": "2026-11-15T13:52:42.045Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.220Z",
       "supersedesEstimateId": null
     },
     {
@@ -57377,7 +57452,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-09",
-      "lastUpdatedAt": "2026-11-15T13:52:42.045Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.220Z",
       "supersedesEstimateId": null
     },
     {
@@ -57389,7 +57464,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-08",
-      "lastUpdatedAt": "2026-11-15T13:52:42.045Z",
+      "lastUpdatedAt": "2026-11-16T15:37:20.220Z",
       "supersedesEstimateId": null
     },
     {
@@ -107097,6 +107172,15 @@
       "sourceType": "primary"
     },
     {
+      "id": "s_453c3732e10f",
+      "estimateId": "e_92918aafdf05",
+      "publisher": "ProPublica",
+      "title": "Chicago Is $55 Billion in Debt, With No End in Sight. It’s a Threat to City Services.",
+      "url": "https://www.propublica.org/article/chicago-debt-burden-public-health-safety",
+      "publishedAt": "2026-11-16",
+      "sourceType": "secondary"
+    },
+    {
       "id": "s_55f3f09bc1f0",
       "estimateId": "e_6841bd3b176d",
       "publisher": "Federal Register",
@@ -107196,6 +107280,15 @@
       "sourceType": "primary"
     },
     {
+      "id": "s_92c2550c8ea9",
+      "estimateId": "e_07bd90c70ab2",
+      "publisher": "ProPublica",
+      "title": "Corporations Are Using Trump’s Tariff Refunds on Bonuses Rather Than Reimbursing Consumers",
+      "url": "https://www.propublica.org/article/trump-tariff-refunds-corporate-bonuses",
+      "publishedAt": "2026-11-16",
+      "sourceType": "secondary"
+    },
+    {
       "id": "s_96b7061ae5f4",
       "estimateId": "e_0a12d8afe339",
       "publisher": "Federal Register",
@@ -107275,6 +107368,15 @@
       "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23294/proposed-revision-of-information-collection-certification-of-medical-necessity",
       "publishedAt": "2026-11-16",
       "sourceType": "primary"
+    },
+    {
+      "id": "s_eec14c961cbf",
+      "estimateId": "e_2da0491359b7",
+      "publisher": "ProPublica",
+      "title": "Three of the Financial Sins That Left Chicago $55 Billion in Debt — and Counting",
+      "url": "https://www.propublica.org/article/chicago-debt-crisis-pensions-parking-meters-police-misconduct",
+      "publishedAt": "2026-11-16",
+      "sourceType": "secondary"
     },
     {
       "id": "s_74ec67f3eb65",

@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Maga Mortality",
-    "asOfDate": "2026-11-27",
-    "updatedAt": "2026-11-27T16:34:23.193Z",
+    "asOfDate": "2026-11-28",
+    "updatedAt": "2026-11-28T15:26:35.540Z",
     "notes": "Auto-updated via GitHub Actions ingestion. Review sources/estimates for correctness before treating as final."
   },
   "topics": [
@@ -42,6 +42,331 @@
     }
   ],
   "items": [
+    {
+      "id": "i_0e50db29d479",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: Museum of the Grand Prairie, Mahomet, IL",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_21d419ada530",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: Pennsylvania Historical and Museum Commission, State Museum of Pennsylvania, Harrisburg, PA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_329c4493f5fc",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: University of Cincinnati, Cincinnati, OH",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_40817b1941f5",
+      "type": "policy",
+      "title": "Truth in Lending (Regulation Z)",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_56bc71b63fce",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: University of Wisconsin-Stevens Point, Madison, WI",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_61d482bc6e78",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_63f2c68b834a",
+      "type": "policy",
+      "title": "Consumer Leasing (Regulation M)",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_651288e22e55",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_726e645bb38f",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: Fowler Museum at University of California Los Angeles, Los Angeles, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_79329c2f4c41",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: Santa Barbara Museum of Natural History, Santa Barbara, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_885b515e6028",
+      "type": "policy",
+      "title": "Notice of Intended Disposition: U.S. Department of the Interior, National Park Service, Lake Roosevelt National Recreation Area, Coulee Dam, WA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_975e911c81c1",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: U.S. Department of the Interior, Bureau of Reclamation, California-Great Basin Region, Sacramento, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_a5496a44fd75",
+      "type": "policy",
+      "title": "Appraisals for Higher-Priced Mortgage Loans Exemption Threshold",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_a8f8dde4c3d9",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: University of California, Berkeley, Berkeley, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_ad9c0de0192e",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: Texas Archeological Research Laboratory, University of Texas at Austin, Austin, TX, and University of Texas at San Antonio Center for Archaeological Research, San Antonio, TX",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_b87facdd4255",
+      "type": "policy",
+      "title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 7.18 Trading Halts",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_bfcf75870194",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: Rochester Museum & Science Center, Rochester, NY",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c17ee84f3300",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: University of Pennsylvania Museum of Archaeology and Anthropology, Philadelphia, PA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_c6687ac099be",
+      "type": "policy",
+      "title": "Endangered and Threatened Wildlife and Plants; Threatened Species Status for Streaked Horned Lark With a Section 4(d) Rule",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_d4b3639f4578",
+      "type": "policy",
+      "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Amend Rule 7.18E Trading Halts",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e0f0b9166456",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: University of Michigan, Ann Arbor, MI",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_e81037d3cead",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: University of Pennsylvania Museum of Archaeology and Anthropology, Philadelphia, PA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_eb89b6a1f271",
+      "type": "policy",
+      "title": "Notice of Inventory Completion: University of Cincinnati, Cincinnati, OH",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_fb86eea6134e",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: California Department of Parks and Recreation, Sacramento, CA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "i_fdcc2d2fe254",
+      "type": "policy",
+      "title": "Notice of Intended Repatriation: Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA",
+      "summary": "Federal Register publication (auto-ingested). This is a policy trigger record; attach mortality estimates separately after analysis.",
+      "date": "2026-11-30",
+      "location": "United States",
+      "topicIds": [],
+      "politicianIds": [
+        "p_trump"
+      ],
+      "status": "active"
+    },
     {
       "id": "i_0e3892fb7392",
       "type": "policy",
@@ -58653,6 +58978,306 @@
   ],
   "estimates": [
     {
+      "id": "e_0673bf1912a2",
+      "itemId": "i_a5496a44fd75",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.431Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_078191f70cc2",
+      "itemId": "i_e81037d3cead",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.432Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_132a24ecd6f6",
+      "itemId": "i_bfcf75870194",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.433Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_189660d2f0bd",
+      "itemId": "i_975e911c81c1",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.433Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2a685e5ea3df",
+      "itemId": "i_63f2c68b834a",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.430Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_2f802996299e",
+      "itemId": "i_d4b3639f4578",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.436Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_30f226b1d8dd",
+      "itemId": "i_fb86eea6134e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.435Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_48fddf54b570",
+      "itemId": "i_a8f8dde4c3d9",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.432Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5326e89b98ca",
+      "itemId": "i_eb89b6a1f271",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.432Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_577e5cc22f01",
+      "itemId": "i_726e645bb38f",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.432Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_5824e5305c95",
+      "itemId": "i_79329c2f4c41",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.435Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_59e32736d00c",
+      "itemId": "i_0e50db29d479",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.433Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_657680fd6bc0",
+      "itemId": "i_c6687ac099be",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.436Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_6a3100389a31",
+      "itemId": "i_ad9c0de0192e",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.434Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_79a6acb800d3",
+      "itemId": "i_b87facdd4255",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.436Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_7d3a8bcdee45",
+      "itemId": "i_40817b1941f5",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.428Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_80f945e88974",
+      "itemId": "i_21d419ada530",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.435Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_9422d693f0e5",
+      "itemId": "i_651288e22e55",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.434Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_a65a2dff86f7",
+      "itemId": "i_e0f0b9166456",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.435Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_a893aae30af3",
+      "itemId": "i_56bc71b63fce",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.435Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_b51493cee68a",
+      "itemId": "i_61d482bc6e78",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.434Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_bfbed63f23d7",
+      "itemId": "i_329c4493f5fc",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.431Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_cc6b1bca551d",
+      "itemId": "i_885b515e6028",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.436Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_d2442e8caf2e",
+      "itemId": "i_c17ee84f3300",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.433Z",
+      "supersedesEstimateId": null
+    },
+    {
+      "id": "e_f4fbedea58c8",
+      "itemId": "i_fdcc2d2fe254",
+      "attributionType": "direct",
+      "countType": "actual",
+      "value": 0,
+      "confidence": "high",
+      "methodSummary": "Policy trigger record only (no death estimate attached yet).",
+      "asOfDate": "2026-11-30",
+      "lastUpdatedAt": "2026-11-28T15:26:34.435Z",
+      "supersedesEstimateId": null
+    },
+    {
       "id": "e_01033cbdf286",
       "itemId": "i_433efe39fbb4",
       "attributionType": "direct",
@@ -58997,7 +59622,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-25",
-      "lastUpdatedAt": "2026-11-27T16:34:23.190Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.538Z",
       "supersedesEstimateId": null
     },
     {
@@ -59009,7 +59634,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-25",
-      "lastUpdatedAt": "2026-11-27T16:34:23.190Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.538Z",
       "supersedesEstimateId": null
     },
     {
@@ -59105,7 +59730,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-25",
-      "lastUpdatedAt": "2026-11-27T16:34:23.189Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.538Z",
       "supersedesEstimateId": null
     },
     {
@@ -59237,7 +59862,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-25",
-      "lastUpdatedAt": "2026-11-27T16:34:23.190Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.539Z",
       "supersedesEstimateId": null
     },
     {
@@ -59333,7 +59958,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-24",
-      "lastUpdatedAt": "2026-11-27T16:34:23.191Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.539Z",
       "supersedesEstimateId": null
     },
     {
@@ -59381,7 +60006,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-24",
-      "lastUpdatedAt": "2026-11-27T16:34:23.191Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.539Z",
       "supersedesEstimateId": null
     },
     {
@@ -59549,7 +60174,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-24",
-      "lastUpdatedAt": "2026-11-27T16:34:23.191Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.539Z",
       "supersedesEstimateId": null
     },
     {
@@ -59657,7 +60282,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-23",
-      "lastUpdatedAt": "2026-11-27T16:34:23.191Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.539Z",
       "supersedesEstimateId": null
     },
     {
@@ -59813,7 +60438,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-23",
-      "lastUpdatedAt": "2026-11-27T16:34:23.191Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.539Z",
       "supersedesEstimateId": null
     },
     {
@@ -59969,7 +60594,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-21",
-      "lastUpdatedAt": "2026-11-27T16:34:23.191Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.539Z",
       "supersedesEstimateId": null
     },
     {
@@ -60101,7 +60726,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-20",
-      "lastUpdatedAt": "2026-11-27T16:34:23.192Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.539Z",
       "supersedesEstimateId": null
     },
     {
@@ -60221,7 +60846,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-20",
-      "lastUpdatedAt": "2026-11-27T16:34:23.191Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.539Z",
       "supersedesEstimateId": null
     },
     {
@@ -60281,7 +60906,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-20",
-      "lastUpdatedAt": "2026-11-27T16:34:23.191Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.539Z",
       "supersedesEstimateId": null
     },
     {
@@ -60341,7 +60966,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-19",
-      "lastUpdatedAt": "2026-11-27T16:34:23.192Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.540Z",
       "supersedesEstimateId": null
     },
     {
@@ -60365,7 +60990,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-19",
-      "lastUpdatedAt": "2026-11-27T16:34:23.192Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.540Z",
       "supersedesEstimateId": null
     },
     {
@@ -60473,7 +61098,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-19",
-      "lastUpdatedAt": "2026-11-27T16:34:23.192Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.540Z",
       "supersedesEstimateId": null
     },
     {
@@ -60497,7 +61122,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-19",
-      "lastUpdatedAt": "2026-11-27T16:34:23.192Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.540Z",
       "supersedesEstimateId": null
     },
     {
@@ -60641,7 +61266,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-19",
-      "lastUpdatedAt": "2026-11-27T16:34:23.192Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.540Z",
       "supersedesEstimateId": null
     },
     {
@@ -60665,7 +61290,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-19",
-      "lastUpdatedAt": "2026-11-27T16:34:23.192Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.540Z",
       "supersedesEstimateId": null
     },
     {
@@ -60965,7 +61590,7 @@
       "confidence": "medium",
       "methodSummary": "Story record only (no automated extraction of death counts).",
       "asOfDate": "2026-11-18",
-      "lastUpdatedAt": "2026-11-27T16:34:23.193Z",
+      "lastUpdatedAt": "2026-11-28T15:26:35.540Z",
       "supersedesEstimateId": null
     },
     {
@@ -112751,6 +113376,231 @@
     }
   ],
   "sources": [
+    {
+      "id": "s_102d0ff0fe40",
+      "estimateId": "e_59e32736d00c",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: Museum of the Grand Prairie, Mahomet, IL",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24316/notice-of-intended-repatriation-museum-of-the-grand-prairie-mahomet-il",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_12f4672ee18d",
+      "estimateId": "e_0673bf1912a2",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Appraisals for Higher-Priced Mortgage Loans Exemption Threshold",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24344/appraisals-for-higher-priced-mortgage-loans-exemption-threshold",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_150ef792dae4",
+      "estimateId": "e_2f802996299e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Amend Rule 7.18E Trading Halts",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24302/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_155cdb92ba25",
+      "estimateId": "e_5326e89b98ca",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: University of Cincinnati, Cincinnati, OH",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24322/notice-of-inventory-completion-university-of-cincinnati-cincinnati-oh",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_3afdd811d7b9",
+      "estimateId": "e_48fddf54b570",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: University of California, Berkeley, Berkeley, CA",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24321/notice-of-intended-repatriation-university-of-california-berkeley-berkeley-ca",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_3be59aaccff0",
+      "estimateId": "e_b51493cee68a",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24313/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_3fc70f6cecb2",
+      "estimateId": "e_078191f70cc2",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: University of Pennsylvania Museum of Archaeology and Anthropology, Philadelphia, PA",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24319/notice-of-inventory-completion-university-of-pennsylvania-museum-of-archaeology-and-anthropology",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_438c54407e42",
+      "estimateId": "e_30f226b1d8dd",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: California Department of Parks and Recreation, Sacramento, CA",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24310/notice-of-intended-repatriation-california-department-of-parks-and-recreation-sacramento-ca",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_44e5245a7330",
+      "estimateId": "e_2a685e5ea3df",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Consumer Leasing (Regulation M)",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24345/consumer-leasing-regulation-m",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_5a82e617e073",
+      "estimateId": "e_577e5cc22f01",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: Fowler Museum at University of California Los Angeles, Los Angeles, CA",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24320/notice-of-intended-repatriation-fowler-museum-at-university-of-california-los-angeles-los-angeles-ca",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_6b05034fc2b4",
+      "estimateId": "e_a65a2dff86f7",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: University of Michigan, Ann Arbor, MI",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24306/notice-of-inventory-completion-university-of-michigan-ann-arbor-mi",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_8232c537b117",
+      "estimateId": "e_cc6b1bca551d",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Disposition: U.S. Department of the Interior, National Park Service, Lake Roosevelt National Recreation Area, Coulee Dam, WA",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24305/notice-of-intended-disposition-us-department-of-the-interior-national-park-service-lake-roosevelt",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_8f3098cbc2f7",
+      "estimateId": "e_d2442e8caf2e",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: University of Pennsylvania Museum of Archaeology and Anthropology, Philadelphia, PA",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24318/notice-of-inventory-completion-university-of-pennsylvania-museum-of-archaeology-and-anthropology",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_98a5f7b10a79",
+      "estimateId": "e_6a3100389a31",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: Texas Archeological Research Laboratory, University of Texas at Austin, Austin, TX, and University of Texas at San Antonio Center for Archaeological Research, San Antonio, TX",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24312/notice-of-inventory-completion-texas-archeological-research-laboratory-university-of-texas-at-austin",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_9b352b9d66f1",
+      "estimateId": "e_79a6acb800d3",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 7.18 Trading Halts",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24303/self-regulatory-organizations-new-york-stock-exchange-llc-notice-of-filing-and-immediate",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_9b5a040c68af",
+      "estimateId": "e_80f945e88974",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: Pennsylvania Historical and Museum Commission, State Museum of Pennsylvania, Harrisburg, PA",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24307/notice-of-inventory-completion-pennsylvania-historical-and-museum-commission-state-museum-of",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_9ed430c2cf46",
+      "estimateId": "e_bfbed63f23d7",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: University of Cincinnati, Cincinnati, OH",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24323/notice-of-inventory-completion-university-of-cincinnati-cincinnati-oh",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a370dc5a768a",
+      "estimateId": "e_5824e5305c95",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: Santa Barbara Museum of Natural History, Santa Barbara, CA",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24308/notice-of-intended-repatriation-santa-barbara-museum-of-natural-history-santa-barbara-ca",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_a4667fc65540",
+      "estimateId": "e_7d3a8bcdee45",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Truth in Lending (Regulation Z)",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24346/truth-in-lending-regulation-z",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_df0339873d8b",
+      "estimateId": "e_9422d693f0e5",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24314/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_df683ab0425b",
+      "estimateId": "e_189660d2f0bd",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: U.S. Department of the Interior, Bureau of Reclamation, California-Great Basin Region, Sacramento, CA",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24317/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-reclamation-california-great",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_e12d5eb89cbe",
+      "estimateId": "e_a893aae30af3",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Inventory Completion: University of Wisconsin-Stevens Point, Madison, WI",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24311/notice-of-inventory-completion-university-of-wisconsin-stevens-point-madison-wi",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_ee22b0599c8e",
+      "estimateId": "e_132a24ecd6f6",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: Rochester Museum & Science Center, Rochester, NY",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24315/notice-of-intended-repatriation-rochester-museum-and-science-center-rochester-ny",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_eece1340add0",
+      "estimateId": "e_f4fbedea58c8",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Notice of Intended Repatriation: Peabody Museum of Archaeology and Ethnology, Harvard University, Cambridge, MA",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24309/notice-of-intended-repatriation-peabody-museum-of-archaeology-and-ethnology-harvard-university",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
+    {
+      "id": "s_f0a1779dc8df",
+      "estimateId": "e_657680fd6bc0",
+      "publisher": "Federal Register",
+      "title": "Federal Register: Endangered and Threatened Wildlife and Plants; Threatened Species Status for Streaked Horned Lark With a Section 4(d) Rule",
+      "url": "https://www.federalregister.gov/documents/2026/11/30/2026-24304/endangered-and-threatened-wildlife-and-plants-threatened-species-status-for-streaked-horned-lark",
+      "publishedAt": "2026-11-30",
+      "sourceType": "primary"
+    },
     {
       "id": "s_20cc7b22d7cb",
       "estimateId": "e_2bf50f84df64",
